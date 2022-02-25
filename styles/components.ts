@@ -8,7 +8,7 @@ export const Background = styled.div`
     rgba(0, 187, 12, 1) 44%,
     rgba(0, 255, 12, 1) 100%
   );
-  background-image: url("https://images.unsplash.com/photo-1522947961977-67fe74257c16");
+  background-image: url("https://images.unsplash.com/photo-1540470174401-f25e9eb17c1c");
   background-size: cover;
   min-height: 100vh;
   width: 100%;
@@ -92,7 +92,7 @@ export const DrawCard = styled.button`
 `;
 
 export const DrawLabel = styled.span`
-  font-size: 30px;
+  font-size: 1.4rem;
   color: white;
   font-weight: bold;
   margin-left: 10px;
