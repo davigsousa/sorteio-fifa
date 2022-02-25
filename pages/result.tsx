@@ -16,7 +16,7 @@ import {
   DrawLabel,
   Title,
   TitleContainer,
-} from "../styles/home";
+} from "../styles/components";
 
 interface ResultProps {
   firstTeam: Team;

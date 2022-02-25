@@ -1,7 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
-import Link from "next/link";
 import { useRouter } from "next/router";
 import { useState } from "react";
 import RangeInput from "../components/RangeInput";
@@ -19,7 +18,7 @@ import {
   NationalTeamsWrapper,
   NTLabel,
   SelectInput,
-} from "../styles/home";
+} from "../styles/components";
 
 const FIFA_VERSION = "22";
 const MAX_OVERALL = 100;
