@@ -13,7 +13,7 @@ class TeamsController {
   }
 
   loadTeams() {
-    const filename = `./public/data/teams_${this.fifaVersion}.json`;
+    const filename = `./data/teams_${this.fifaVersion}.json`;
     return loadJSON(filename);
   }
 
