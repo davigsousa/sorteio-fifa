@@ -14,6 +14,9 @@ import {
   FifaButton,
   FifaRow,
   Options,
+  NationalTeamsWrapper,
+  NTLabel,
+  SelectInput,
 } from "../styles/home";
 
 const FIFA_VERSION = "22";
@@ -27,6 +30,7 @@ const Home: NextPage = () => {
   const [maxOverall, setMaxOverall] = useState(MAX_OVERALL);
   const [minOverall, setMinOverall] = useState(DEFAULT_MIN_OVERALL);
   const [offset, setOffset] = useState(DEFAULT_OFFSET);
+  const [selectNationalTeam, setSelectNationalTeam] = useState(false);
 
   return (
     <Background>
@@ -89,6 +93,14 @@ const Home: NextPage = () => {
             minValue={1}
             value={offset}
           />
+
+          <NationalTeamsWrapper>
+            <NTLabel>Incluir seleções?</NTLabel>
+            <SelectInput
+              type="checkbox"
+              onClick={() => setSelectNationalTeam(!selectNationalTeam)}
+            />
+          </NationalTeamsWrapper>
         </Options>
       </Container>
 
