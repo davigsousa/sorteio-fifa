@@ -28,7 +28,7 @@ export function loadJSON(filename: string) {
 
 export const serverPath = (staticFilePath: string) => {
   return path.join(
-    getConfig().serverRuntimeConfig.PROJECT_ROOT,
+    process.cwd(),
     process.env.NODE_ENV === "development"
       ? `./public/${staticFilePath}`
       : staticFilePath

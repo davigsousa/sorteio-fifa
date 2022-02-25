@@ -8,9 +8,6 @@ const nextConfig = withPWA({
     dest: "public",
     register: true,
     skipWaiting: true,
-  },
-  serverRuntimeConfig: {
-    PROJECT_ROOT: __dirname
   }
 })
 
