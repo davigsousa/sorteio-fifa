@@ -1,8 +1,11 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+import { useState } from "react";
 import { Container } from "../styles/home";
 
 const Home: NextPage = () => {
+  const [fifaVersion, setFifaVersion] = useState("22");
+
   return (
     <div>
       <Head>
@@ -15,7 +18,13 @@ const Home: NextPage = () => {
       </Head>
 
       <Container>
-        <h1>Bem vindo ao sorteio</h1>
+        <section>
+          <button onClick={() => setFifaVersion("22")}>FIFA 22</button>
+          <button onClick={() => setFifaVersion("21")}>FIFA 21</button>
+          <button onClick={() => setFifaVersion("20")}>FIFA 20</button>
+        </section>
+
+        <button>Sortear</button>
       </Container>
     </div>
   );
