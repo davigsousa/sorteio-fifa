@@ -1,6 +1,5 @@
-import { useState } from "react";
 import { Range, getTrackBackground } from "react-range";
-import { Input, CurrentValue, Container, ResultWrapper } from "./styles";
+import { CurrentValue, Container, ResultWrapper } from "./styles";
 
 interface RangeInputProps {
   label: string;
@@ -40,7 +39,7 @@ export function RangeInput({
                 ...props.style,
                 height: "36px",
                 display: "flex",
-                width: "100%",
+                width: "80%",
               }}
             >
               <div
@@ -51,7 +50,7 @@ export function RangeInput({
                   borderRadius: "4px",
                   background: getTrackBackground({
                     values: [value],
-                    colors: ["#548BF4", "#ccc"],
+                    colors: ["#30a743", "#ccc"],
                     min: minValue,
                     max: maxValue,
                   }),
@@ -81,7 +80,7 @@ export function RangeInput({
                 style={{
                   height: "16px",
                   width: "5px",
-                  backgroundColor: isDragged ? "#548BF4" : "#CCC",
+                  backgroundColor: isDragged ? "#30a743" : "#CCC",
                 }}
               />
             </div>
