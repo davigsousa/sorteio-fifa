@@ -4,26 +4,10 @@ import type {
   GetServerSidePropsContext,
 } from "next";
 import Head from "next/head";
-import Image from "next/image";
+import TeamDetails from "../components/TeamDetails";
 import ImagesController from "../controllers/ImagesController";
 import TeamsController from "../controllers/TeamsController";
 import { Team } from "../entities";
-import { Container } from "../styles/home";
-
-interface TeamDetailsProps {
-  team: Team;
-}
-
-function TeamDetails({ team }: TeamDetailsProps) {
-  return (
-    <div>
-      <Image width={120} height={120} src={team.image} alt={team.name} />
-      <h1>{team.name}</h1>
-      <p>Liga: {team.league}</p>
-      <p>Pontuação Geral: {team.overall}</p>
-    </div>
-  );
-}
 
 interface ResultProps {
   firstTeam: Team;
@@ -42,14 +26,14 @@ const Result: NextPage<ResultProps> = ({ firstTeam, secondTeam }) => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Container>
+      <div>
         <h1>Resultado do sorteio</h1>
 
         <section>
           <TeamDetails team={firstTeam} />
           <TeamDetails team={secondTeam} />
         </section>
-      </Container>
+      </div>
     </div>
   );
 };
