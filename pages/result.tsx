@@ -4,10 +4,19 @@ import type {
   GetServerSidePropsContext,
 } from "next";
 import Head from "next/head";
+import { useRouter } from "next/router";
 import TeamDetails from "../components/TeamDetails";
 import ImagesController from "../controllers/ImagesController";
 import TeamsController from "../controllers/TeamsController";
 import { Team } from "../entities";
+import {
+  Background,
+  Container,
+  DrawCard,
+  DrawLabel,
+  Title,
+  TitleContainer,
+} from "../styles/home";
 
 interface ResultProps {
   firstTeam: Team;
@@ -15,8 +24,10 @@ interface ResultProps {
 }
 
 const Result: NextPage<ResultProps> = ({ firstTeam, secondTeam }) => {
+  const router = useRouter();
+
   return (
-    <div>
+    <Background>
       <Head>
         <title>Resultado do sorteio FIFA</title>
         <meta
@@ -26,15 +37,19 @@ const Result: NextPage<ResultProps> = ({ firstTeam, secondTeam }) => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div>
-        <h1>Resultado do sorteio</h1>
+      <Container>
+        <TitleContainer>
+          <Title>Resultado do sorteio</Title>
+        </TitleContainer>
+      </Container>
 
-        <section>
-          <TeamDetails team={firstTeam} />
-          <TeamDetails team={secondTeam} />
-        </section>
-      </div>
-    </div>
+      <TeamDetails team={firstTeam} />
+      <TeamDetails team={secondTeam} />
+
+      <DrawCard onClick={() => router.push(router.asPath)}>
+        <DrawLabel>Repetir Sorteio</DrawLabel>
+      </DrawCard>
+    </Background>
   );
 };
 
