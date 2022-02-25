@@ -1,6 +1,8 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
+import { useRouter } from "next/router";
 import { useState } from "react";
 import RangeInput from "../components/RangeInput";
 import logo from "../public/logo.png";
@@ -26,11 +28,16 @@ const DEFAULT_MIN_OVERALL = 80;
 const DEFAULT_OFFSET = 3;
 
 const Home: NextPage = () => {
+  const router = useRouter();
+
   const [fifaVersion, setFifaVersion] = useState(FIFA_VERSION);
   const [maxOverall, setMaxOverall] = useState(MAX_OVERALL);
   const [minOverall, setMinOverall] = useState(DEFAULT_MIN_OVERALL);
   const [offset, setOffset] = useState(DEFAULT_OFFSET);
   const [selectNationalTeam, setSelectNationalTeam] = useState(false);
+
+  const getDrawURL = () =>
+    `/result?fifaVersion=${fifaVersion}&maxOverall=${maxOverall}&minOverall=${minOverall}&offset=${offset}&selectNationalTeam=${selectNationalTeam}`;
 
   return (
     <Background>
@@ -104,7 +111,11 @@ const Home: NextPage = () => {
         </Options>
       </Container>
 
-      <DrawCard>
+      <DrawCard
+        onClick={() => {
+          router.push(getDrawURL());
+        }}
+      >
         <DrawLabel>Realizar sorteio</DrawLabel>
       </DrawCard>
     </Background>
