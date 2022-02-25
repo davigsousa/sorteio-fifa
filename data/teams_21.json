@@ -1,7 +1,5 @@
 [
     {
-        "id": 1,
-        "image": "/pt-br/team/9/liverpool/fifa21/",
         "name": "Liverpool",
         "league": "Premier League",
         "attack": 86,
@@ -11,8 +9,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/10/manchester-city/fifa21/",
         "name": "Manchester City",
         "league": "Premier League",
         "attack": 85,
@@ -22,8 +18,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/243/real-madrid/fifa21/",
         "name": "Real Madrid",
         "league": "LaLiga Santander",
         "attack": 84,
@@ -33,8 +27,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1335/fran%C3%A7a/fifa21/",
         "name": "Fran\u00e7a",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 87,
@@ -44,8 +36,6 @@
         "is_national_team": true
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/21/fc-bayern-munique/fifa21/",
         "name": "FC Bayern Munique",
         "league": "Bundesliga",
         "attack": 92,
@@ -55,8 +45,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/73/paris-saint-germain/fifa21/",
         "name": "Paris Saint-Germain",
         "league": "Ligue 1 Uber Eats",
         "attack": 87,
@@ -66,8 +54,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1337/alemanha/fifa21/",
         "name": "Alemanha",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 84,
@@ -77,8 +63,6 @@
         "is_national_team": true
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1362/espanha/fifa21/",
         "name": "Espanha",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 82,
@@ -88,8 +72,6 @@
         "is_national_team": true
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/45/juventus/fifa21/",
         "name": "Juventus",
         "league": "Serie A TIM",
         "attack": 87,
@@ -99,8 +81,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/240/atl%C3%A9tico-de-madrid/fifa21/",
         "name": "Atl\u00e9tico de Madrid",
         "league": "LaLiga Santander",
         "attack": 85,
@@ -110,8 +90,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/241/fc-barcelona/fifa21/",
         "name": "FC Barcelona",
         "league": "LaLiga Santander",
         "attack": 84,
@@ -121,8 +99,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1369/argentina/fifa21/",
         "name": "Argentina",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 86,
@@ -132,8 +108,6 @@
         "is_national_team": true
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1318/inglaterra/fifa21/",
         "name": "Inglaterra",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 85,
@@ -143,8 +117,6 @@
         "is_national_team": true
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1325/b%C3%A9lgica/fifa21/",
         "name": "B\u00e9lgica",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 85,
@@ -154,8 +126,6 @@
         "is_national_team": true
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1354/portugal/fifa21/",
         "name": "Portugal",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 85,
@@ -165,8 +135,6 @@
         "is_national_team": true
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/18/tottenham-hotspur/fifa21/",
         "name": "Tottenham Hotspur",
         "league": "Premier League",
         "attack": 89,
@@ -176,8 +144,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/11/manchester-united/fifa21/",
         "name": "Manchester United",
         "league": "Premier League",
         "attack": 83,
@@ -187,8 +153,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/44/fc-internazionale-milano/fifa21/",
         "name": "FC Internazionale Milano",
         "league": "Serie A TIM",
         "attack": 83,
@@ -198,8 +162,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/5/chelsea/fifa21/",
         "name": "Chelsea",
         "league": "Premier League",
         "attack": 82,
@@ -209,8 +171,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1343/it%C3%A1lia/fifa21/",
         "name": "It\u00e1lia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 83,
@@ -220,8 +180,6 @@
         "is_national_team": true
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/105035/holanda/fifa21/",
         "name": "Holanda",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 81,
@@ -231,8 +189,6 @@
         "is_national_team": true
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/22/borussia-dortmund/fifa21/",
         "name": "Borussia Dortmund",
         "league": "Bundesliga",
         "attack": 87,
@@ -242,8 +198,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/481/sevilla-fc/fifa21/",
         "name": "Sevilla FC",
         "league": "LaLiga Santander",
         "attack": 80,
@@ -253,8 +207,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/1/arsenal/fifa21/",
         "name": "Arsenal",
         "league": "Premier League",
         "attack": 83,
@@ -264,8 +216,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/48/napoli/fifa21/",
         "name": "Napoli",
         "league": "Serie A TIM",
         "attack": 82,
@@ -275,8 +225,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/46/lazio/fifa21/",
         "name": "Lazio",
         "league": "Serie A TIM",
         "attack": 82,
@@ -286,8 +234,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/483/villarreal-club-de-f%C3%BAtbol/fifa21/",
         "name": "Villarreal Club de F\u00fatbol",
         "league": "LaLiga Santander",
         "attack": 82,
@@ -297,8 +243,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/95/leicester-city/fifa21/",
         "name": "Leicester City",
         "league": "Premier League",
         "attack": 80,
@@ -308,8 +252,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/112172/rb-leipzig/fifa21/",
         "name": "RB Leipzig",
         "league": "Bundesliga",
         "attack": 78,
@@ -319,8 +261,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/1370/brasil/fifa21/",
         "name": "Brasil",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 81,
@@ -330,8 +270,6 @@
         "is_national_team": true
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/47/milan/fifa21/",
         "name": "Milan",
         "league": "Serie A TIM",
         "attack": 84,
@@ -341,8 +279,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/39/atalanta/fifa21/",
         "name": "Atalanta",
         "league": "Serie A TIM",
         "attack": 82,
@@ -352,8 +288,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/457/real-sociedad/fifa21/",
         "name": "Real Sociedad",
         "league": "LaLiga Santander",
         "attack": 81,
@@ -363,8 +297,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/7/everton/fifa21/",
         "name": "Everton",
         "league": "Premier League",
         "attack": 81,
@@ -374,8 +306,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/448/athletic-bilbao/fifa21/",
         "name": "Athletic Bilbao",
         "league": "LaLiga Santander",
         "attack": 80,
@@ -385,8 +315,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/23/borussia-m%C3%B6nchengladbach/fifa21/",
         "name": "Borussia M\u00f6nchengladbach",
         "league": "Bundesliga",
         "attack": 78,
@@ -396,8 +324,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/32/bayer-04-leverkusen/fifa21/",
         "name": "Bayer 04 Leverkusen",
         "league": "Bundesliga",
         "attack": 78,
@@ -407,8 +333,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/110/wolverhampton-wanderers/fifa21/",
         "name": "Wolverhampton Wanderers",
         "league": "Premier League",
         "attack": 77,
@@ -418,8 +342,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/234/sl-benfica/fifa21/",
         "name": "SL Benfica",
         "league": "Liga NOS",
         "attack": 77,
@@ -429,8 +351,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1377/uruguai/fifa21/",
         "name": "Uruguai",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 79,
@@ -440,8 +360,6 @@
         "is_national_team": true
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/245/ajax/fifa21/",
         "name": "Ajax",
         "league": "Eredivisie",
         "attack": 80,
@@ -451,8 +369,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/449/real-betis-balompi%C3%A9/fifa21/",
         "name": "Real Betis Balompi\u00e9",
         "league": "LaLiga Santander",
         "attack": 79,
@@ -462,8 +378,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/236/porto/fifa21/",
         "name": "Porto",
         "league": "Liga NOS",
         "attack": 79,
@@ -473,8 +387,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/66/olympique-lyonnais/fifa21/",
         "name": "Olympique Lyonnais",
         "league": "Ligue 1 Uber Eats",
         "attack": 79,
@@ -484,8 +396,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/19/west-ham-united/fifa21/",
         "name": "West Ham United",
         "league": "Premier League",
         "attack": 79,
@@ -495,8 +405,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/69/as-monaco-fc/fifa21/",
         "name": "AS Monaco FC",
         "league": "Ligue 1 Uber Eats",
         "attack": 79,
@@ -506,8 +414,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/52/roma/fifa21/",
         "name": "Roma",
         "league": "Serie A TIM",
         "attack": 79,
@@ -517,8 +423,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/237/sporting-cp/fifa21/",
         "name": "Sporting CP",
         "league": "Liga NOS",
         "attack": 78,
@@ -528,8 +432,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/65/losc-lille/fifa21/",
         "name": "LOSC Lille",
         "league": "Ligue 1 Uber Eats",
         "attack": 78,
@@ -539,8 +441,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/175/vfl-wolfsburg/fifa21/",
         "name": "VfL Wolfsburg",
         "league": "Bundesliga",
         "attack": 78,
@@ -550,8 +450,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110832/granada-club-de-f%C3%BAtbol/fifa21/",
         "name": "Granada Club de F\u00fatbol",
         "league": "LaLiga Santander",
         "attack": 77,
@@ -561,8 +459,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/111109/col%C3%B4mbia/fifa21/",
         "name": "Col\u00f4mbia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 81,
@@ -572,8 +468,6 @@
         "is_national_team": true
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1331/dinamarca/fifa21/",
         "name": "Dinamarca",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 76,
@@ -583,8 +477,6 @@
         "is_national_team": true
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1364/su%C3%AD%C3%A7a/fifa21/",
         "name": "Su\u00ed\u00e7a",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 75,
@@ -594,8 +486,6 @@
         "is_national_team": true
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1824/eintracht-frankfurt/fifa21/",
         "name": "Eintracht Frankfurt",
         "league": "Bundesliga",
         "attack": 79,
@@ -605,8 +495,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1860/getafe-cf/fifa21/",
         "name": "Getafe CF",
         "league": "LaLiga Santander",
         "attack": 77,
@@ -616,8 +504,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/461/valencia-cf/fifa21/",
         "name": "Valencia CF",
         "league": "LaLiga Santander",
         "attack": 77,
@@ -627,8 +513,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/2/aston-villa/fifa21/",
         "name": "Aston Villa",
         "league": "Premier League",
         "attack": 77,
@@ -638,8 +522,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/219/olympique-de-marseille/fifa21/",
         "name": "Olympique de Marseille",
         "league": "Ligue 1 Uber Eats",
         "attack": 77,
@@ -649,8 +531,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/1353/pol%C3%B4nia/fifa21/",
         "name": "Pol\u00f4nia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 82,
@@ -660,8 +540,6 @@
         "is_national_team": true
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/1322/%C3%A1ustria/fifa21/",
         "name": "\u00c1ustria",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 81,
@@ -671,8 +549,6 @@
         "is_national_team": true
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1365/turquia/fifa21/",
         "name": "Turquia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 79,
@@ -682,8 +558,6 @@
         "is_national_team": true
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1330/rep%C3%BAblica-tcheca/fifa21/",
         "name": "Rep\u00fablica Tcheca",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 76,
@@ -693,8 +567,6 @@
         "is_national_team": true
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/247/psv/fifa21/",
         "name": "PSV",
         "league": "Eredivisie",
         "attack": 79,
@@ -704,8 +576,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1853/levante-uni%C3%B3n-deportiva/fifa21/",
         "name": "Levante Uni\u00f3n Deportiva",
         "league": "LaLiga Santander",
         "attack": 79,
@@ -715,8 +585,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/110374/acf-fiorentina/fifa21/",
         "name": "ACF Fiorentina",
         "league": "Serie A TIM",
         "attack": 78,
@@ -726,8 +594,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/8/leeds-united/fifa21/",
         "name": "Leeds United",
         "league": "Premier League",
         "attack": 78,
@@ -737,8 +603,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/17/southampton/fifa21/",
         "name": "Southampton",
         "league": "Premier League",
         "attack": 77,
@@ -748,8 +612,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/166/hertha-berlin/fifa21/",
         "name": "Hertha Berlin",
         "league": "Bundesliga",
         "attack": 77,
@@ -759,8 +621,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1799/crystal-palace/fifa21/",
         "name": "Crystal Palace",
         "league": "Premier League",
         "attack": 77,
@@ -770,8 +630,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1043/flamengo/fifa21/",
         "name": "Flamengo",
         "league": "Libertadores",
         "attack": 77,
@@ -781,8 +639,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/13/newcastle-united/fifa21/",
         "name": "Newcastle United",
         "league": "Premier League",
         "attack": 77,
@@ -792,8 +648,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/463/deportivo-alav%C3%A9s/fifa21/",
         "name": "Deportivo Alav\u00e9s",
         "league": "LaLiga Santander",
         "attack": 77,
@@ -803,8 +657,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/72/ogc-nice/fifa21/",
         "name": "OGC Nice",
         "league": "Ligue 1 Uber Eats",
         "attack": 77,
@@ -814,8 +666,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/479/club-atl%C3%A9tico-osasuna/fifa21/",
         "name": "Club Atl\u00e9tico Osasuna",
         "league": "LaLiga Santander",
         "attack": 76,
@@ -825,8 +675,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1876/river-plate/fifa21/",
         "name": "River Plate",
         "league": "Libertadores",
         "attack": 76,
@@ -836,8 +684,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/280/olympiacos-cfp/fifa21/",
         "name": "Olympiacos CFP",
         "league": "Resto do Mundo",
         "attack": 76,
@@ -847,8 +693,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/467/sd-eibar/fifa21/",
         "name": "SD Eibar",
         "league": "LaLiga Santander",
         "attack": 76,
@@ -858,8 +702,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/54/torino/fifa21/",
         "name": "Torino",
         "league": "Serie A TIM",
         "attack": 76,
@@ -869,8 +711,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1877/boca-juniors/fifa21/",
         "name": "Boca Juniors",
         "league": "Libertadores",
         "attack": 76,
@@ -880,8 +720,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/10029/tsg-hoffenheim/fifa21/",
         "name": "TSG Hoffenheim",
         "league": "Bundesliga",
         "attack": 75,
@@ -891,8 +729,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1796/burnley/fifa21/",
         "name": "Burnley",
         "league": "Premier League",
         "attack": 75,
@@ -902,8 +738,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/74/stade-rennais-fc/fifa21/",
         "name": "Stade Rennais FC",
         "league": "Ligue 1 Uber Eats",
         "attack": 75,
@@ -913,8 +747,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1352/noruega/fifa21/",
         "name": "Noruega",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 79,
@@ -924,8 +756,6 @@
         "is_national_team": true
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1386/m%C3%A9xico/fifa21/",
         "name": "M\u00e9xico",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 78,
@@ -935,8 +765,6 @@
         "is_national_team": true
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1363/su%C3%A9cia/fifa21/",
         "name": "Su\u00e9cia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 78,
@@ -946,8 +774,6 @@
         "is_national_team": true
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1357/r%C3%BAssia/fifa21/",
         "name": "R\u00fassia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 77,
@@ -957,8 +783,6 @@
         "is_national_team": true
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/111112/costa-do-marfim/fifa21/",
         "name": "Costa do Marfim",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 77,
@@ -968,8 +792,6 @@
         "is_national_team": true
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1035/atl%C3%A9tico-mineiro/fifa21/",
         "name": "Atl\u00e9tico Mineiro",
         "league": "Liga do Brasil",
         "attack": 81,
@@ -979,8 +801,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/70/montpellier-h%C3%A9rault-sc/fifa21/",
         "name": "Montpellier H\u00e9rault SC",
         "league": "Ligue 1 Uber Eats",
         "attack": 80,
@@ -990,8 +810,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/450/rc-celta/fifa21/",
         "name": "RC Celta",
         "league": "LaLiga Santander",
         "attack": 80,
@@ -1001,8 +819,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/111974/sassuolo/fifa21/",
         "name": "Sassuolo",
         "league": "Serie A TIM",
         "attack": 79,
@@ -1012,8 +828,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/598/s%C3%A3o-paulo/fifa21/",
         "name": "S\u00e3o Paulo",
         "league": "Libertadores",
         "attack": 78,
@@ -1023,8 +837,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1970/tigres-de-la-uanl/fifa21/",
         "name": "Tigres de la UANL",
         "league": "LIGA BBVA MX",
         "attack": 77,
@@ -1034,8 +846,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/325/galatasaray-sk/fifa21/",
         "name": "Galatasaray SK",
         "league": "S\u00fcper Lig",
         "attack": 77,
@@ -1045,8 +855,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/462/r-valladolid-cf/fifa21/",
         "name": "R. Valladolid CF",
         "league": "LaLiga Santander",
         "attack": 76,
@@ -1056,8 +864,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1837/sampdoria/fifa21/",
         "name": "Sampdoria",
         "league": "Serie A TIM",
         "attack": 76,
@@ -1067,8 +873,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/55/udinese/fifa21/",
         "name": "Udinese",
         "league": "Serie A TIM",
         "attack": 76,
@@ -1078,8 +882,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/246/feyenoord/fifa21/",
         "name": "Feyenoord",
         "league": "Eredivisie",
         "attack": 76,
@@ -1089,8 +891,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1842/cagliari/fifa21/",
         "name": "Cagliari",
         "league": "Serie A TIM",
         "attack": 76,
@@ -1100,8 +900,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1808/brighton-hove-albion/fifa21/",
         "name": "Brighton & Hove Albion",
         "league": "Premier League",
         "attack": 75,
@@ -1111,8 +909,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/452/rcd-espanyol/fifa21/",
         "name": "RCD Espanyol",
         "league": "LaLiga SmartBank",
         "attack": 75,
@@ -1122,8 +918,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/231/club-brugge-kv/fifa21/",
         "name": "Club Brugge KV",
         "league": "1A Pro League",
         "attack": 75,
@@ -1133,8 +927,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/266/sk-slavia-praga/fifa21/",
         "name": "SK Slavia Praga",
         "league": "Resto do Mundo",
         "attack": 75,
@@ -1144,8 +936,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1530/angers-sco/fifa21/",
         "name": "Angers SCO",
         "league": "Ligue 1 Uber Eats",
         "attack": 75,
@@ -1155,8 +945,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1896/sc-braga/fifa21/",
         "name": "SC Braga",
         "league": "Liga NOS",
         "attack": 74,
@@ -1166,8 +954,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/326/fenerbah%C3%A7e-sk/fifa21/",
         "name": "Fenerbah\u00e7e SK",
         "league": "S\u00fcper Lig",
         "attack": 74,
@@ -1177,8 +963,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/100767/spartak-moscou/fifa21/",
         "name": "Spartak Moscou",
         "league": "Resto do Mundo",
         "attack": 74,
@@ -1188,8 +972,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/144/fulham/fifa21/",
         "name": "Fulham",
         "league": "Premier League",
         "attack": 74,
@@ -1199,8 +981,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/101059/shakhtar-donetsk/fifa21/",
         "name": "Shakhtar Donetsk",
         "league": "Resto do Mundo",
         "attack": 71,
@@ -1210,8 +990,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/111459/chile/fifa21/",
         "name": "Chile",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 74,
@@ -1221,8 +999,6 @@
         "is_national_team": true
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1359/esc%C3%B3cia/fifa21/",
         "name": "Esc\u00f3cia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 72,
@@ -1232,8 +1008,6 @@
         "is_national_team": true
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1878/cruz-azul/fifa21/",
         "name": "Cruz Azul",
         "league": "LIGA BBVA MX",
         "attack": 77,
@@ -1243,8 +1017,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/206/hellas-verona/fifa21/",
         "name": "Hellas Verona",
         "league": "Serie A TIM",
         "attack": 76,
@@ -1254,8 +1026,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1032/rayados-de-monterrey/fifa21/",
         "name": "Rayados de Monterrey",
         "league": "LIGA BBVA MX",
         "attack": 75,
@@ -1265,8 +1035,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/189/bologna/fifa21/",
         "name": "Bologna",
         "league": "Serie A TIM",
         "attack": 75,
@@ -1276,8 +1044,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/25/sc-freiburg/fifa21/",
         "name": "SC Freiburg",
         "league": "Bundesliga",
         "attack": 75,
@@ -1287,8 +1053,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/86/rangers-fc/fifa21/",
         "name": "Rangers FC",
         "league": "Scottish Prem",
         "attack": 75,
@@ -1298,8 +1062,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/327/be%C5%9Fikta%C5%9F-jk/fifa21/",
         "name": "Be\u015fikta\u015f JK",
         "league": "S\u00fcper Lig",
         "attack": 75,
@@ -1309,8 +1071,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/76/rc-strasbourg-alsace/fifa21/",
         "name": "RC Strasbourg Alsace",
         "league": "Ligue 1 Uber Eats",
         "attack": 75,
@@ -1320,8 +1080,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1629/gr%C3%AAmio/fifa21/",
         "name": "Gr\u00eamio",
         "league": "Liga do Brasil",
         "attack": 75,
@@ -1331,8 +1089,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/383/palmeiras/fifa21/",
         "name": "Palmeiras",
         "league": "Libertadores",
         "attack": 74,
@@ -1342,8 +1098,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/101014/i-stanbul-ba%C5%9Fak%C5%9Fehir-fk/fifa21/",
         "name": "\u0130stanbul Ba\u015fak\u015fehir FK",
         "league": "S\u00fcper Lig",
         "attack": 74,
@@ -1353,8 +1107,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/34/fc-schalke-04/fifa21/",
         "name": "FC Schalke 04",
         "league": "Bundesliga",
         "attack": 74,
@@ -1364,8 +1116,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/1906/az/fifa21/",
         "name": "AZ",
         "league": "Eredivisie",
         "attack": 74,
@@ -1375,8 +1125,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1795/watford/fifa21/",
         "name": "Watford",
         "league": "EFL Championship",
         "attack": 74,
@@ -1386,8 +1134,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/50/parma/fifa21/",
         "name": "Parma",
         "league": "Serie A TIM",
         "attack": 74,
@@ -1397,8 +1143,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/31/1-fc-k%C3%B6ln/fifa21/",
         "name": "1. FC K\u00f6ln",
         "league": "Bundesliga",
         "attack": 74,
@@ -1408,8 +1152,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/315/pfc-cska-moscow/fifa21/",
         "name": "PFC CSKA Moscow",
         "league": "Resto do Mundo",
         "attack": 74,
@@ -1419,8 +1161,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/59/girondins-de-bordeaux/fifa21/",
         "name": "Girondins de Bordeaux",
         "league": "Ligue 1 Uber Eats",
         "attack": 74,
@@ -1430,8 +1170,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/38/sv-werder-bremen/fifa21/",
         "name": "SV Werder Bremen",
         "league": "Bundesliga",
         "attack": 73,
@@ -1441,8 +1179,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/100409/fc-augsburg/fifa21/",
         "name": "FC Augsburg",
         "league": "Bundesliga",
         "attack": 73,
@@ -1452,8 +1188,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/100765/lokomotiv-moskva/fifa21/",
         "name": "Lokomotiv Moskva",
         "league": "Resto do Mundo",
         "attack": 73,
@@ -1463,8 +1197,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1943/afc-bournemouth/fifa21/",
         "name": "AFC Bournemouth",
         "league": "EFL Championship",
         "attack": 72,
@@ -1474,8 +1206,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110556/genoa/fifa21/",
         "name": "Genoa",
         "league": "Serie A TIM",
         "attack": 72,
@@ -1485,8 +1215,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1048/internacional/fifa21/",
         "name": "Internacional",
         "league": "Liga do Brasil",
         "attack": 71,
@@ -1496,8 +1224,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/101047/dynamo-kyiv/fifa21/",
         "name": "Dynamo Kyiv",
         "league": "Resto do Mundo",
         "attack": 70,
@@ -1507,8 +1233,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1367/pa%C3%ADs-de-gales/fifa21/",
         "name": "Pa\u00eds de Gales",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 77,
@@ -1518,8 +1242,6 @@
         "is_national_team": true
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1387/estados-unidos/fifa21/",
         "name": "Estados Unidos",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 75,
@@ -1529,8 +1251,6 @@
         "is_national_team": true
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1338/gr%C3%A9cia/fifa21/",
         "name": "Gr\u00e9cia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 72,
@@ -1540,8 +1260,6 @@
         "is_national_team": true
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1792/norwich-city/fifa21/",
         "name": "Norwich City",
         "league": "EFL Championship",
         "attack": 76,
@@ -1551,8 +1269,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/1968/c%C3%A1diz-cf/fifa21/",
         "name": "C\u00e1diz CF",
         "league": "LaLiga Santander",
         "attack": 75,
@@ -1562,8 +1278,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/78/celtic/fifa21/",
         "name": "Celtic",
         "league": "Scottish Prem",
         "attack": 75,
@@ -1573,8 +1287,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1831/1-fc-union-berlin/fifa21/",
         "name": "1. FC Union Berlin",
         "league": "Bundesliga",
         "attack": 75,
@@ -1584,8 +1296,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/191/red-bull-salzburg/fifa21/",
         "name": "Red Bull Salzburg",
         "league": "\u00d6. Bundesliga",
         "attack": 75,
@@ -1595,8 +1305,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/673/krc-genk/fifa21/",
         "name": "KRC Genk",
         "league": "1A Pro League",
         "attack": 75,
@@ -1606,8 +1314,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1819/as-saint-%C3%A9tienne/fifa21/",
         "name": "AS Saint-\u00c9tienne",
         "league": "Ligue 1 Uber Eats",
         "attack": 74,
@@ -1617,8 +1323,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/211/dinamo-zagreb/fifa21/",
         "name": "Dinamo Zagreb",
         "league": "Resto do Mundo",
         "attack": 74,
@@ -1628,8 +1332,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/109/west-bromwich-albion/fifa21/",
         "name": "West Bromwich Albion",
         "league": "Premier League",
         "attack": 74,
@@ -1639,8 +1341,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/101088/v%C3%A9lez-sarsfield/fifa21/",
         "name": "V\u00e9lez Sarsfield",
         "league": "LPF",
         "attack": 74,
@@ -1650,8 +1350,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1879/am%C3%A9rica/fifa21/",
         "name": "Am\u00e9rica",
         "league": "LIGA BBVA MX",
         "attack": 74,
@@ -1661,8 +1359,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/110781/club-le%C3%B3n/fifa21/",
         "name": "Club Le\u00f3n",
         "league": "LIGA BBVA MX",
         "attack": 74,
@@ -1672,8 +1368,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/36/vfb-stuttgart/fifa21/",
         "name": "VfB Stuttgart",
         "league": "Bundesliga",
         "attack": 74,
@@ -1683,8 +1377,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1053/santos/fifa21/",
         "name": "Santos",
         "league": "Liga do Brasil",
         "attack": 74,
@@ -1694,8 +1386,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/605/al-hilal/fifa21/",
         "name": "Al Hilal",
         "league": "MBS Pro League",
         "attack": 73,
@@ -1705,8 +1395,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/379/stade-de-reims/fifa21/",
         "name": "Stade de Reims",
         "league": "Ligue 1 Uber Eats",
         "attack": 73,
@@ -1716,8 +1404,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/110839/sd-huesca/fifa21/",
         "name": "SD Huesca",
         "league": "LaLiga Santander",
         "attack": 73,
@@ -1727,8 +1413,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/393/paok/fifa21/",
         "name": "PAOK",
         "league": "Resto do Mundo",
         "attack": 73,
@@ -1738,8 +1422,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/267/sparta-praga/fifa21/",
         "name": "Sparta Praga",
         "league": "Resto do Mundo",
         "attack": 73,
@@ -1749,8 +1431,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/64/racing-club-de-lens/fifa21/",
         "name": "Racing Club de Lens",
         "league": "Ligue 1 Uber Eats",
         "attack": 72,
@@ -1760,8 +1440,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/169/1-fsv-mainz-05/fifa21/",
         "name": "1. FSV Mainz 05",
         "league": "Bundesliga",
         "attack": 72,
@@ -1771,8 +1449,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/468/elche-club-de-f%C3%BAtbol/fifa21/",
         "name": "Elche Club de F\u00fatbol",
         "league": "LaLiga Santander",
         "attack": 72,
@@ -1782,8 +1458,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/453/rcd-mallorca/fifa21/",
         "name": "RCD Mallorca",
         "league": "LaLiga SmartBank",
         "attack": 72,
@@ -1793,8 +1467,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/378/stade-brestois-29/fifa21/",
         "name": "Stade Brestois 29",
         "league": "Ligue 1 Uber Eats",
         "attack": 72,
@@ -1804,8 +1476,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1041/corinthians/fifa21/",
         "name": "Corinthians",
         "league": "Sul-Americana",
         "attack": 72,
@@ -1815,8 +1485,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/71/fc-nantes/fifa21/",
         "name": "FC Nantes",
         "league": "Ligue 1 Uber Eats",
         "attack": 71,
@@ -1826,8 +1494,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/101085/racing-club/fifa21/",
         "name": "Racing Club",
         "league": "LPF",
         "attack": 71,
@@ -1837,8 +1503,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1794/sheffield-united/fifa21/",
         "name": "Sheffield United",
         "league": "Premier League",
         "attack": 71,
@@ -1848,8 +1512,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/224/n%C3%AEmes-olympique/fifa21/",
         "name": "N\u00eemes Olympique",
         "league": "Ligue 1 Uber Eats",
         "attack": 71,
@@ -1859,8 +1521,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/111008/club-libertad/fifa21/",
         "name": "Club Libertad",
         "league": "Libertadores",
         "attack": 69,
@@ -1870,8 +1530,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/111130/egito/fifa21/",
         "name": "Egito",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 78,
@@ -1881,8 +1539,6 @@
         "is_national_team": true
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/111465/equador/fifa21/",
         "name": "Equador",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 74,
@@ -1892,8 +1548,6 @@
         "is_national_team": true
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/111455/canad%C3%A1/fifa21/",
         "name": "Canad\u00e1",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 73,
@@ -1903,8 +1557,6 @@
         "is_national_team": true
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1375/paraguai/fifa21/",
         "name": "Paraguai",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 72,
@@ -1914,8 +1566,6 @@
         "is_national_team": true
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1356/rom%C3%AAnia/fifa21/",
         "name": "Rom\u00eania",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 72,
@@ -1925,8 +1575,6 @@
         "is_national_team": true
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1355/irlanda/fifa21/",
         "name": "Irlanda",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 71,
@@ -1936,8 +1584,6 @@
         "is_national_team": true
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1361/eslov%C3%AAnia/fifa21/",
         "name": "Eslov\u00eania",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 70,
@@ -1947,8 +1593,6 @@
         "is_national_team": true
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/230/royal-antwerp-fc/fifa21/",
         "name": "Royal Antwerp FC",
         "league": "1A Pro League",
         "attack": 75,
@@ -1958,8 +1602,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/111059/cear%C3%A1-sporting-club/fifa21/",
         "name": "Cear\u00e1 Sporting Club",
         "league": "Liga do Brasil",
         "attack": 75,
@@ -1969,8 +1611,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/436/trabzonspor/fifa21/",
         "name": "Trabzonspor",
         "league": "S\u00fcper Lig",
         "attack": 74,
@@ -1980,8 +1620,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1925/brentford/fifa21/",
         "name": "Brentford",
         "league": "EFL Championship",
         "attack": 74,
@@ -1991,8 +1629,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1861/uni%C3%B3n-deportiva-almer%C3%ADa/fifa21/",
         "name": "Uni\u00f3n Deportiva Almer\u00eda",
         "league": "LaLiga SmartBank",
         "attack": 74,
@@ -2002,8 +1638,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1039/club-athletico-paranaense/fifa21/",
         "name": "Club Athletico Paranaense",
         "league": "Liga do Brasil",
         "attack": 74,
@@ -2013,8 +1647,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/111710/csd-defensa-y-justicia/fifa21/",
         "name": "CSD Defensa y Justicia",
         "league": "LPF",
         "attack": 74,
@@ -2024,8 +1656,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1887/vit%C3%B3ria-de-guimar%C3%A3es/fifa21/",
         "name": "Vit\u00f3ria de Guimar\u00e3es",
         "league": "Liga NOS",
         "attack": 74,
@@ -2035,8 +1665,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/110093/club-atl%C3%A9tico-independiente/fifa21/",
         "name": "Club Atl\u00e9tico Independiente",
         "league": "LPF",
         "attack": 73,
@@ -2046,8 +1674,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/674/kaa-gent/fifa21/",
         "name": "KAA Gent",
         "league": "1A Pro League",
         "attack": 73,
@@ -2057,8 +1683,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/278/aek-atenas/fifa21/",
         "name": "AEK Atenas",
         "league": "Resto do Mundo",
         "attack": 73,
@@ -2068,8 +1692,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/229/rsc-anderlecht/fifa21/",
         "name": "RSC Anderlecht",
         "league": "1A Pro League",
         "attack": 73,
@@ -2079,8 +1701,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1013/san-lorenzo-de-almagro/fifa21/",
         "name": "San Lorenzo de Almagro",
         "league": "LPF",
         "attack": 73,
@@ -2090,8 +1710,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/112472/rb-bragantino/fifa21/",
         "name": "RB Bragantino",
         "league": "Sul-Americana",
         "attack": 72,
@@ -2101,8 +1719,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/110468/viktoria-plze%C5%88/fifa21/",
         "name": "Viktoria Plze\u0148",
         "league": "Resto do Mundo",
         "attack": 72,
@@ -2112,8 +1728,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/900/bsc-young-boys/fifa21/",
         "name": "BSC Young Boys",
         "league": "RSL",
         "attack": 72,
@@ -2123,8 +1737,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/159/dsc-arminia-bielefeld/fifa21/",
         "name": "DSC Arminia Bielefeld",
         "league": "Bundesliga",
         "attack": 72,
@@ -2134,8 +1746,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/100888/cd-legan%C3%A9s/fifa21/",
         "name": "CD Legan\u00e9s",
         "league": "LaLiga SmartBank",
         "attack": 72,
@@ -2145,8 +1755,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/112026/benevento/fifa21/",
         "name": "Benevento",
         "league": "Serie A TIM",
         "attack": 72,
@@ -2156,8 +1764,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/819/fc-k%C3%B8benhavn/fifa21/",
         "name": "FC K\u00f8benhavn",
         "league": "3F Superliga",
         "attack": 72,
@@ -2167,8 +1773,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/232/standard-li%C3%A8ge/fifa21/",
         "name": "Standard Li\u00e8ge",
         "league": "1A Pro League",
         "attack": 71,
@@ -2178,8 +1782,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/567/fluminense/fifa21/",
         "name": "Fluminense",
         "league": "Liga do Brasil",
         "attack": 70,
@@ -2189,8 +1791,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/68/fc-metz/fifa21/",
         "name": "FC Metz",
         "league": "Ligue 1 Uber Eats",
         "attack": 70,
@@ -2200,8 +1800,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1886/hungria/fifa21/",
         "name": "Hungria",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 72,
@@ -2211,8 +1809,6 @@
         "is_national_team": true
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/111108/peru/fifa21/",
         "name": "Peru",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 71,
@@ -2222,8 +1818,6 @@
         "is_national_team": true
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1415/austr%C3%A1lia/fifa21/",
         "name": "Austr\u00e1lia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 71,
@@ -2233,8 +1827,6 @@
         "is_national_team": true
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/1880/club-deportivo-guadalajara/fifa21/",
         "name": "Club Deportivo Guadalajara",
         "league": "LIGA BBVA MX",
         "attack": 75,
@@ -2244,8 +1836,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/112893/inter-miami/fifa21/",
         "name": "Inter Miami",
         "league": "MLS",
         "attack": 74,
@@ -2255,8 +1845,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111138/minnesota-united-fc/fifa21/",
         "name": "Minnesota United FC",
         "league": "MLS",
         "attack": 74,
@@ -2266,8 +1854,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1881/club-universidad-nacional/fifa21/",
         "name": "Club Universidad Nacional",
         "league": "LIGA BBVA MX",
         "attack": 74,
@@ -2277,8 +1863,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1960/swansea-city/fifa21/",
         "name": "Swansea City",
         "league": "EFL Championship",
         "attack": 73,
@@ -2288,8 +1872,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/110569/dijon-fco/fifa21/",
         "name": "Dijon FCO",
         "league": "Ligue 1 Uber Eats",
         "attack": 73,
@@ -2299,8 +1881,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/28/hamburger-sv/fifa21/",
         "name": "Hamburger SV",
         "league": "Bundesliga 2",
         "attack": 73,
@@ -2310,8 +1890,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/101037/%C3%A7aykur-rizespor/fifa21/",
         "name": "\u00c7aykur Rizespor",
         "league": "S\u00fcper Lig",
         "attack": 73,
@@ -2321,8 +1899,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/110062/girona-fc/fifa21/",
         "name": "Girona FC",
         "league": "LaLiga SmartBank",
         "attack": 73,
@@ -2332,8 +1908,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/111117/fatih-karag%C3%BCmr%C3%BCk-sk/fifa21/",
         "name": "Fatih Karag\u00fcmr\u00fck SK",
         "league": "S\u00fcper Lig",
         "attack": 72,
@@ -2343,8 +1917,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/111144/seattle-sounders-fc/fifa21/",
         "name": "Seattle Sounders FC",
         "league": "MLS",
         "attack": 72,
@@ -2354,8 +1926,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/687/columbus-crew-sc/fifa21/",
         "name": "Columbus Crew SC",
         "league": "MLS",
         "attack": 72,
@@ -2365,8 +1935,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/896/basel/fifa21/",
         "name": "Basel",
         "league": "RSL",
         "attack": 72,
@@ -2376,8 +1944,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/111140/portland-timbers/fifa21/",
         "name": "Portland Timbers",
         "league": "MLS",
         "attack": 72,
@@ -2387,8 +1953,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/112670/club-atl%C3%A9tico-talleres/fifa21/",
         "name": "Club Atl\u00e9tico Talleres",
         "league": "LPF",
         "attack": 72,
@@ -2398,8 +1962,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/110975/universidad-cat%C3%B3lica/fifa21/",
         "name": "Universidad Cat\u00f3lica",
         "league": "Libertadores",
         "attack": 72,
@@ -2409,8 +1971,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/110734/crotone/fifa21/",
         "name": "Crotone",
         "league": "Serie A TIM",
         "attack": 72,
@@ -2420,8 +1980,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111811/ac-monza/fifa21/",
         "name": "AC Monza",
         "league": "Resto do Mundo",
         "attack": 72,
@@ -2431,8 +1989,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1892/pa%C3%A7os-ferreira/fifa21/",
         "name": "Pa\u00e7os Ferreira",
         "league": "Liga NOS",
         "attack": 71,
@@ -2442,8 +1998,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1793/reading/fifa21/",
         "name": "Reading",
         "league": "EFL Championship",
         "attack": 71,
@@ -2453,8 +2007,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/670/sporting-charleroi/fifa21/",
         "name": "Sporting Charleroi",
         "league": "1A Pro League",
         "attack": 71,
@@ -2464,8 +2016,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1903/fc-utrecht/fifa21/",
         "name": "FC Utrecht",
         "league": "Eredivisie",
         "attack": 71,
@@ -2475,8 +2025,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/101041/demir-grup-sivasspor/fifa21/",
         "name": "Demir Grup Sivasspor",
         "league": "S\u00fcper Lig",
         "attack": 71,
@@ -2486,8 +2034,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/113142/alanyaspor/fifa21/",
         "name": "Alanyaspor",
         "league": "S\u00fcper Lig",
         "attack": 71,
@@ -2497,8 +2043,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111019/argentinos-juniors/fifa21/",
         "name": "Argentinos Juniors",
         "league": "LPF",
         "attack": 71,
@@ -2508,8 +2052,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/744/rio-ave-fc/fifa21/",
         "name": "Rio Ave FC",
         "league": "Liga NOS",
         "attack": 71,
@@ -2519,8 +2061,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/110636/fortuna-d%C3%BCsseldorf/fifa21/",
         "name": "Fortuna D\u00fcsseldorf",
         "league": "Bundesliga 2",
         "attack": 71,
@@ -2530,8 +2070,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/110406/col%C3%B3n-de-santa-fe/fifa21/",
         "name": "Col\u00f3n de Santa Fe",
         "league": "LPF",
         "attack": 71,
@@ -2541,8 +2079,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/217/lorient-bretagne-sud/fifa21/",
         "name": "Lorient Bretagne Sud",
         "league": "Ligue 1 Uber Eats",
         "attack": 71,
@@ -2552,8 +2088,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/3/blackburn-rovers/fifa21/",
         "name": "Blackburn Rovers",
         "league": "EFL Championship",
         "attack": 71,
@@ -2563,8 +2097,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/1961/cardiff-city/fifa21/",
         "name": "Cardiff City",
         "league": "EFL Championship",
         "attack": 71,
@@ -2574,8 +2106,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/252/lask/fifa21/",
         "name": "LASK",
         "league": "\u00d6. Bundesliga",
         "attack": 71,
@@ -2585,8 +2115,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/459/real-sporting-de-gij%C3%B3n/fifa21/",
         "name": "Real Sporting de Gij\u00f3n",
         "league": "LaLiga SmartBank",
         "attack": 71,
@@ -2596,8 +2124,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/14/nottingham-forest/fifa21/",
         "name": "Nottingham Forest",
         "league": "EFL Championship",
         "attack": 71,
@@ -2607,8 +2133,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1884/panathinaikos-fc/fifa21/",
         "name": "Panathinaikos FC",
         "league": "Resto do Mundo",
         "attack": 71,
@@ -2618,8 +2142,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/112119/atl%C3%A9tico-clube-goianiense/fifa21/",
         "name": "Atl\u00e9tico Clube Goianiense",
         "league": "Liga do Brasil",
         "attack": 70,
@@ -2629,8 +2151,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/111052/fortaleza/fifa21/",
         "name": "Fortaleza",
         "league": "Liga do Brasil",
         "attack": 70,
@@ -2640,8 +2160,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/101114/atlas/fifa21/",
         "name": "Atlas",
         "league": "LIGA BBVA MX",
         "attack": 70,
@@ -2651,8 +2169,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/101108/club-olimpia/fifa21/",
         "name": "Club Olimpia",
         "league": "Libertadores",
         "attack": 70,
@@ -2662,8 +2178,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/110144/santos-laguna/fifa21/",
         "name": "Santos Laguna",
         "league": "LIGA BBVA MX",
         "attack": 70,
@@ -2673,8 +2187,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/110147/pachuca/fifa21/",
         "name": "Pachuca",
         "league": "LIGA BBVA MX",
         "attack": 70,
@@ -2684,8 +2196,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/110396/newells-old-boys/fifa21/",
         "name": "Newell's Old Boys",
         "league": "LPF",
         "attack": 70,
@@ -2695,8 +2205,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1598/bahia/fifa21/",
         "name": "Bahia",
         "league": "Liga do Brasil",
         "attack": 69,
@@ -2706,8 +2214,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/480/rayo-vallecano/fifa21/",
         "name": "Rayo Vallecano",
         "league": "LaLiga SmartBank",
         "attack": 69,
@@ -2717,8 +2223,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/112606/orlando-city-soccer-club/fifa21/",
         "name": "Orlando City Soccer Club",
         "league": "MLS",
         "attack": 69,
@@ -2728,8 +2232,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/111487/venezuela/fifa21/",
         "name": "Venezuela",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 74,
@@ -2739,8 +2241,6 @@
         "is_national_team": true
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/1413/china/fifa21/",
         "name": "China",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 74,
@@ -2750,8 +2250,6 @@
         "is_national_team": true
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/111099/south-africa/fifa21/",
         "name": "South Africa",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 71,
@@ -2761,8 +2259,6 @@
         "is_national_team": true
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1341/isl%C3%A2ndia/fifa21/",
         "name": "Isl\u00e2ndia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 70,
@@ -2772,8 +2268,6 @@
         "is_national_team": true
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1334/finl%C3%A2ndia/fifa21/",
         "name": "Finl\u00e2ndia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 70,
@@ -2783,8 +2277,6 @@
         "is_national_team": true
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/112139/al-nassr/fifa21/",
         "name": "Al Nassr",
         "league": "MBS Pro League",
         "attack": 78,
@@ -2794,8 +2286,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/112387/al-ahli/fifa21/",
         "name": "Al Ahli",
         "league": "MBS Pro League",
         "attack": 76,
@@ -2805,8 +2295,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111674/al-shabab/fifa21/",
         "name": "Al Shabab",
         "league": "MBS Pro League",
         "attack": 75,
@@ -2816,8 +2304,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/110395/club-atl%C3%A9tico-lan%C3%BAs/fifa21/",
         "name": "Club Atl\u00e9tico Lan\u00fas",
         "league": "LPF",
         "attack": 74,
@@ -2827,8 +2313,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/111325/club-nacional-de-football/fifa21/",
         "name": "Club Nacional de Football",
         "league": "Libertadores",
         "attack": 74,
@@ -2838,8 +2322,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/741/antalyaspor/fifa21/",
         "name": "Antalyaspor",
         "league": "S\u00fcper Lig",
         "attack": 74,
@@ -2849,8 +2331,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/111839/guangzhou-evergrande-taobao-fc/fifa21/",
         "name": "Guangzhou Evergrande Taobao FC",
         "league": "CSL",
         "attack": 73,
@@ -2860,8 +2340,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/111730/kawasaki-frontale/fifa21/",
         "name": "Kawasaki Frontale",
         "league": "Meiji Yasuda J1",
         "attack": 73,
@@ -2871,8 +2349,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/111678/tijuana/fifa21/",
         "name": "Tijuana",
         "league": "LIGA BBVA MX",
         "attack": 73,
@@ -2882,8 +2358,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111339/kasimpa%C5%9Fa-sk/fifa21/",
         "name": "Kasimpa\u015fa SK",
         "league": "S\u00fcper Lig",
         "attack": 72,
@@ -2893,8 +2367,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/110580/rosario-central/fifa21/",
         "name": "Rosario Central",
         "league": "LPF",
         "attack": 72,
@@ -2904,8 +2376,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/254/sk-rapid-wien/fifa21/",
         "name": "SK Rapid Wien",
         "league": "\u00d6. Bundesliga",
         "attack": 72,
@@ -2915,8 +2385,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1477/jeonbuk-hyundai-motors/fifa21/",
         "name": "Jeonbuk Hyundai Motors",
         "league": "K League 1",
         "attack": 71,
@@ -2926,8 +2394,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/112828/new-york-city-fc/fifa21/",
         "name": "New York City FC",
         "league": "MLS",
         "attack": 71,
@@ -2937,8 +2403,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/101020/kayserispor/fifa21/",
         "name": "Kayserispor",
         "league": "S\u00fcper Lig",
         "attack": 70,
@@ -2948,8 +2412,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/485/hannover-96/fifa21/",
         "name": "Hannover 96",
         "league": "Bundesliga 2",
         "attack": 70,
@@ -2959,8 +2421,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/160/vfl-bochum-1848/fifa21/",
         "name": "VfL Bochum 1848",
         "league": "Bundesliga 2",
         "attack": 70,
@@ -2970,8 +2430,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/12/middlesbrough/fifa21/",
         "name": "Middlesbrough",
         "league": "EFL Championship",
         "attack": 70,
@@ -2981,8 +2439,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/110776/gaziantep/fifa21/",
         "name": "Gaziantep",
         "league": "S\u00fcper Lig",
         "attack": 70,
@@ -2992,8 +2448,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1882/toluca/fifa21/",
         "name": "Toluca",
         "league": "LIGA BBVA MX",
         "attack": 70,
@@ -3003,8 +2457,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1806/stoke-city/fifa21/",
         "name": "Stoke City",
         "league": "EFL Championship",
         "attack": 70,
@@ -3014,8 +2466,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112134/philadelphia-union/fifa21/",
         "name": "Philadelphia Union",
         "league": "MLS",
         "attack": 70,
@@ -3025,8 +2475,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/111044/coritiba/fifa21/",
         "name": "Coritiba",
         "league": "Liga do Brasil",
         "attack": 70,
@@ -3036,8 +2484,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/1898/boavista-fc/fifa21/",
         "name": "Boavista FC",
         "league": "Liga NOS",
         "attack": 70,
@@ -3047,8 +2493,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/110741/la-spezia/fifa21/",
         "name": "La Spezia",
         "league": "Serie A TIM",
         "attack": 70,
@@ -3058,8 +2502,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/101101/junior-fc/fifa21/",
         "name": "Junior FC",
         "league": "Libertadores",
         "attack": 70,
@@ -3069,8 +2511,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1438/santa-clara/fifa21/",
         "name": "Santa Clara",
         "league": "Liga NOS",
         "attack": 70,
@@ -3080,8 +2520,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/347/lecce/fifa21/",
         "name": "Lecce",
         "league": "Resto do Mundo",
         "attack": 70,
@@ -3091,8 +2529,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1919/bristol-city/fifa21/",
         "name": "Bristol City",
         "league": "EFL Championship",
         "attack": 70,
@@ -3102,8 +2538,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/97/millwall/fifa21/",
         "name": "Millwall",
         "league": "EFL Championship",
         "attack": 70,
@@ -3113,8 +2547,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1516/fc-midtjylland/fifa21/",
         "name": "FC Midtjylland",
         "league": "3F Superliga",
         "attack": 69,
@@ -3124,8 +2556,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/101083/estudiantes-de-la-plata/fifa21/",
         "name": "Estudiantes de La Plata",
         "league": "LPF",
         "attack": 69,
@@ -3135,8 +2565,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/192/chievo-verona/fifa21/",
         "name": "Chievo Verona",
         "league": "Resto do Mundo",
         "attack": 69,
@@ -3146,8 +2574,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/88/birmingham-city/fifa21/",
         "name": "Birmingham City",
         "league": "EFL Championship",
         "attack": 69,
@@ -3157,8 +2583,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1807/sheffield-wednesday/fifa21/",
         "name": "Sheffield Wednesday",
         "league": "EFL Championship",
         "attack": 69,
@@ -3168,8 +2592,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/111651/toronto-fc/fifa21/",
         "name": "Toronto FC",
         "league": "MLS",
         "attack": 68,
@@ -3179,8 +2601,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1909/vitesse/fifa21/",
         "name": "Vitesse",
         "league": "Eredivisie",
         "attack": 68,
@@ -3190,8 +2610,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/91/derby-county/fifa21/",
         "name": "Derby County",
         "league": "EFL Championship",
         "attack": 68,
@@ -3201,8 +2619,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/101007/mke-ankarag%C3%BCc%C3%BC/fifa21/",
         "name": "MKE Ankarag\u00fcc\u00fc",
         "league": "S\u00fcper Lig",
         "attack": 68,
@@ -3212,8 +2628,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/688/dc-united/fifa21/",
         "name": "DC United",
         "league": "MLS",
         "attack": 67,
@@ -3223,8 +2637,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1801/preston-north-end/fifa21/",
         "name": "Preston North End",
         "league": "EFL Championship",
         "attack": 66,
@@ -3234,8 +2646,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1395/camar%C3%B5es/fifa21/",
         "name": "Camar\u00f5es",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 72,
@@ -3245,8 +2655,6 @@
         "is_national_team": true
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/110081/irlanda-do-norte/fifa21/",
         "name": "Irlanda do Norte",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 67,
@@ -3256,8 +2664,6 @@
         "is_national_team": true
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/697/los-angeles-galaxy/fifa21/",
         "name": "Los Angeles Galaxy",
         "league": "MLS",
         "attack": 77,
@@ -3267,8 +2673,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/101147/kashima-antlers/fifa21/",
         "name": "Kashima Antlers",
         "league": "Meiji Yasuda J1",
         "attack": 74,
@@ -3278,8 +2682,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/111768/beijing-sinobo-guoan-fc/fifa21/",
         "name": "Beijing Sinobo Guoan FC",
         "league": "CSL",
         "attack": 73,
@@ -3289,8 +2691,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/100087/oud-heverlee-leuven/fifa21/",
         "name": "Oud-Heverlee Leuven",
         "league": "1A Pro League",
         "attack": 73,
@@ -3300,8 +2700,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/112996/lafc/fifa21/",
         "name": "LAFC",
         "league": "MLS",
         "attack": 73,
@@ -3311,8 +2709,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/114899/mazatl%C3%A1n-f%C3%BAtbol-club/fifa21/",
         "name": "Mazatl\u00e1n F\u00fatbol Club",
         "league": "LIGA BBVA MX",
         "attack": 73,
@@ -3322,8 +2718,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1913/sc-heerenveen/fifa21/",
         "name": "sc Heerenveen",
         "league": "Eredivisie",
         "attack": 72,
@@ -3333,8 +2727,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/110955/shanghai-shenhua/fifa21/",
         "name": "Shanghai Shenhua",
         "league": "CSL",
         "attack": 72,
@@ -3344,8 +2736,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/15/queens-park-rangers/fifa21/",
         "name": "Queens Park Rangers",
         "league": "EFL Championship",
         "attack": 72,
@@ -3355,8 +2745,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/112885/atlanta-united-fc/fifa21/",
         "name": "Atlanta United FC",
         "league": "MLS",
         "attack": 72,
@@ -3366,8 +2754,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112791/spal/fifa21/",
         "name": "SPAL",
         "league": "Resto do Mundo",
         "attack": 72,
@@ -3377,8 +2763,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/101028/hatayspor/fifa21/",
         "name": "Hatayspor",
         "league": "S\u00fcper Lig",
         "attack": 71,
@@ -3388,8 +2772,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/110827/real-oviedo/fifa21/",
         "name": "Real Oviedo",
         "league": "LaLiga SmartBank",
         "attack": 71,
@@ -3399,8 +2781,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1900/moreirense-fc/fifa21/",
         "name": "Moreirense FC",
         "league": "Liga NOS",
         "attack": 71,
@@ -3410,8 +2790,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/113134/f%C3%BAtbol-club-ju%C3%A1rez/fifa21/",
         "name": "F\u00fatbol Club Ju\u00e1rez",
         "league": "LIGA BBVA MX",
         "attack": 71,
@@ -3421,8 +2799,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/110502/sv-darmstadt-98/fifa21/",
         "name": "SV Darmstadt 98",
         "league": "Bundesliga 2",
         "attack": 71,
@@ -3432,8 +2808,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/101025/gen%C3%A7lerbirli%C4%9Fi-sk/fifa21/",
         "name": "Gen\u00e7lerbirli\u011fi SK",
         "league": "S\u00fcper Lig",
         "attack": 71,
@@ -3443,8 +2817,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/111235/1-fc-heidenheim/fifa21/",
         "name": "1. FC Heidenheim",
         "league": "Bundesliga 2",
         "attack": 71,
@@ -3454,8 +2826,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/112678/club-atl%C3%A9tico-de-san-luis/fifa21/",
         "name": "Club Atl\u00e9tico de San Luis",
         "league": "LIGA BBVA MX",
         "attack": 71,
@@ -3465,8 +2835,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/696/sporting-kansas-city/fifa21/",
         "name": "Sporting Kansas City",
         "league": "MLS",
         "attack": 71,
@@ -3476,8 +2844,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/110929/kaizer-chiefs/fifa21/",
         "name": "Kaizer Chiefs",
         "league": "Resto do Mundo",
         "attack": 71,
@@ -3487,8 +2853,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/576/holstein-kiel/fifa21/",
         "name": "Holstein Kiel",
         "league": "Bundesliga 2",
         "attack": 70,
@@ -3498,8 +2862,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/112809/futebol-clube-de-famalic%C3%A3o/fifa21/",
         "name": "Futebol Clube de Famalic\u00e3o",
         "league": "Liga NOS",
         "attack": 70,
@@ -3509,8 +2871,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/694/colorado-rapids/fifa21/",
         "name": "Colorado Rapids",
         "league": "MLS",
         "attack": 70,
@@ -3520,8 +2880,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/607/ittihad-fc/fifa21/",
         "name": "Ittihad FC",
         "league": "MBS Pro League",
         "attack": 70,
@@ -3531,8 +2889,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/101146/vissel-kobe/fifa21/",
         "name": "Vissel Kobe",
         "league": "Meiji Yasuda J1",
         "attack": 70,
@@ -3542,8 +2898,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/101026/g%C3%B6ztepe-sk/fifa21/",
         "name": "G\u00f6ztepe SK",
         "league": "S\u00fcper Lig",
         "attack": 70,
@@ -3553,8 +2907,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/111042/goi%C3%A1s/fifa21/",
         "name": "Goi\u00e1s",
         "league": "Liga do Brasil",
         "attack": 70,
@@ -3564,8 +2916,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/10030/sc-paderborn-07/fifa21/",
         "name": "SC Paderborn 07",
         "league": "Bundesliga 2",
         "attack": 70,
@@ -3575,8 +2925,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/2013/kas-eupen/fifa21/",
         "name": "KAS Eupen",
         "league": "1A Pro League",
         "attack": 70,
@@ -3586,8 +2934,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/472/uni%C3%B3n-deportiva-las-palmas/fifa21/",
         "name": "Uni\u00f3n Deportiva Las Palmas",
         "league": "LaLiga SmartBank",
         "attack": 70,
@@ -3597,8 +2943,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/165/spvgg-greuther-f%C3%BCrth/fifa21/",
         "name": "SpVgg Greuther F\u00fcrth",
         "league": "Bundesliga 2",
         "attack": 70,
@@ -3608,8 +2952,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/111708/atl%C3%A9tico-tucum%C3%A1n/fifa21/",
         "name": "Atl\u00e9tico Tucum\u00e1n",
         "league": "LPF",
         "attack": 70,
@@ -3619,8 +2961,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/1746/empoli/fifa21/",
         "name": "Empoli",
         "league": "Resto do Mundo",
         "attack": 70,
@@ -3630,8 +2970,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/417/molde-fk/fifa21/",
         "name": "Molde FK",
         "league": "Eliteserien",
         "attack": 70,
@@ -3641,8 +2979,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/260/cd-tenerife/fifa21/",
         "name": "CD Tenerife",
         "league": "LaLiga SmartBank",
         "attack": 70,
@@ -3652,8 +2988,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/57/aj-auxerre/fifa21/",
         "name": "AJ Auxerre",
         "league": "Ligue 2 BKT",
         "attack": 70,
@@ -3663,8 +2997,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/113259/yeni-malatyaspor/fifa21/",
         "name": "Yeni Malatyaspor",
         "league": "S\u00fcper Lig",
         "attack": 70,
@@ -3674,8 +3006,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/111716/uni%C3%B3n-de-santa-fe/fifa21/",
         "name": "Uni\u00f3n de Santa Fe",
         "league": "LPF",
         "attack": 70,
@@ -3685,8 +3015,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1907/willem-ii/fifa21/",
         "name": "Willem II",
         "league": "Eredivisie",
         "attack": 70,
@@ -3696,8 +3024,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/111328/cd-palestino/fifa21/",
         "name": "CD Palestino",
         "league": "Sul-Americana",
         "attack": 70,
@@ -3707,8 +3033,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/110930/orlando-pirates/fifa21/",
         "name": "Orlando Pirates",
         "league": "Resto do Mundo",
         "attack": 70,
@@ -3718,8 +3042,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/111575/urawa-red-diamonds/fifa21/",
         "name": "Urawa Red Diamonds",
         "league": "Meiji Yasuda J1",
         "attack": 70,
@@ -3729,8 +3051,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/320/malm%C3%B6-ff/fifa21/",
         "name": "Malm\u00f6 FF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 69,
@@ -3740,8 +3060,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/573/m%C3%A1laga-club-de-f%C3%BAtbol/fifa21/",
         "name": "M\u00e1laga Club de F\u00fatbol",
         "league": "LaLiga SmartBank",
         "attack": 69,
@@ -3751,8 +3069,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1888/gil-vicente/fifa21/",
         "name": "Gil Vicente",
         "league": "Liga NOS",
         "attack": 69,
@@ -3762,8 +3078,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1473/ulsan-hyundai-horang-i/fifa21/",
         "name": "Ulsan Hyundai Horang-i",
         "league": "K League 1",
         "attack": 69,
@@ -3773,8 +3087,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1871/legia-vars%C3%B3via/fifa21/",
         "name": "Legia Vars\u00f3via",
         "league": "PKO Ekstraklasa",
         "attack": 69,
@@ -3784,8 +3096,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/110986/ldu-quito/fifa21/",
         "name": "LDU Quito",
         "league": "Libertadores",
         "attack": 69,
@@ -3795,8 +3105,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/190/brescia/fifa21/",
         "name": "Brescia",
         "league": "Resto do Mundo",
         "attack": 69,
@@ -3806,8 +3114,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1893/cs-mar%C3%ADtimo/fifa21/",
         "name": "CS Mar\u00edtimo",
         "league": "Liga NOS",
         "attack": 69,
@@ -3817,8 +3123,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/101151/yokohama-f-marinos/fifa21/",
         "name": "Yokohama F. Marinos",
         "league": "Meiji Yasuda J1",
         "attack": 68,
@@ -3828,8 +3132,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/100081/kv-kortrijk/fifa21/",
         "name": "KV Kortrijk",
         "league": "1A Pro League",
         "attack": 68,
@@ -3839,8 +3141,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/171/1-fc-nuremberg/fifa21/",
         "name": "1. FC Nuremberg",
         "league": "Bundesliga 2",
         "attack": 68,
@@ -3850,8 +3150,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/10031/portimonense-sc/fifa21/",
         "name": "Portimonense SC",
         "league": "Liga NOS",
         "attack": 68,
@@ -3861,8 +3159,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/294/es-troyes-ac/fifa21/",
         "name": "ES Troyes AC",
         "league": "Ligue 2 BKT",
         "attack": 68,
@@ -3872,8 +3168,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/114385/cfr-1907-cluj/fifa21/",
         "name": "CFR 1907 Cluj",
         "league": "Liga I",
         "attack": 68,
@@ -3883,8 +3177,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/1939/huddersfield-town/fifa21/",
         "name": "Huddersfield Town",
         "league": "EFL Championship",
         "attack": 68,
@@ -3894,8 +3186,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110724/kv-mechelen/fifa21/",
         "name": "KV Mechelen",
         "league": "1A Pro League",
         "attack": 68,
@@ -3905,8 +3195,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/101033/konyaspor/fifa21/",
         "name": "Konyaspor",
         "league": "S\u00fcper Lig",
         "attack": 68,
@@ -3916,8 +3204,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1889/belenenses/fifa21/",
         "name": "Belenenses",
         "league": "Liga NOS",
         "attack": 68,
@@ -3927,8 +3213,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1923/luton-town/fifa21/",
         "name": "Luton Town",
         "league": "EFL Championship",
         "attack": 68,
@@ -3938,8 +3222,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/695/fc-dallas/fifa21/",
         "name": "FC Dallas",
         "league": "MLS",
         "attack": 67,
@@ -3949,8 +3231,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/517/botafogo/fifa21/",
         "name": "Botafogo",
         "league": "Liga do Brasil",
         "attack": 67,
@@ -3960,8 +3240,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/489/sc-farense/fifa21/",
         "name": "SC Farense",
         "league": "Liga NOS",
         "attack": 67,
@@ -3971,8 +3249,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1809/toulouse-fc/fifa21/",
         "name": "Toulouse FC",
         "league": "Ligue 2 BKT",
         "attack": 67,
@@ -3982,8 +3258,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/110981/barcelona-sporting-club/fifa21/",
         "name": "Barcelona Sporting Club",
         "league": "Libertadores",
         "attack": 66,
@@ -3993,8 +3267,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/110404/banfield/fifa21/",
         "name": "Banfield",
         "league": "LPF",
         "attack": 65,
@@ -4004,8 +3276,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/111701/al-ain-fc/fifa21/",
         "name": "Al Ain FC",
         "league": "Resto do Mundo",
         "attack": 75,
@@ -4015,8 +3285,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/693/chicago-fire-sc/fifa21/",
         "name": "Chicago Fire SC",
         "league": "MLS",
         "attack": 72,
@@ -4026,8 +3294,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/691/new-england-revolution/fifa21/",
         "name": "New England Revolution",
         "league": "MLS",
         "attack": 72,
@@ -4037,8 +3303,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/506/fc-erzgebirge-aue/fifa21/",
         "name": "FC Erzgebirge Aue",
         "league": "Bundesliga 2",
         "attack": 71,
@@ -4048,8 +3312,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/101112/vancouver-whitecaps-fc/fifa21/",
         "name": "Vancouver Whitecaps FC",
         "league": "MLS",
         "attack": 71,
@@ -4059,8 +3321,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/15005/sv-zulte-waregem/fifa21/",
         "name": "SV Zulte Waregem",
         "league": "1A Pro League",
         "attack": 71,
@@ -4070,8 +3330,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/113149/fc-cincinnati/fifa21/",
         "name": "FC Cincinnati",
         "league": "MLS",
         "attack": 71,
@@ -4081,8 +3339,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/2023/sociedad-deportiva-ponferradina/fifa21/",
         "name": "Sociedad Deportiva Ponferradina",
         "league": "LaLiga SmartBank",
         "attack": 71,
@@ -4092,8 +3348,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/749/bb-erzurumspor/fifa21/",
         "name": "BB Erzurumspor",
         "league": "S\u00fcper Lig",
         "attack": 71,
@@ -4103,8 +3357,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/111928/san-jose-earthquakes/fifa21/",
         "name": "San Jose Earthquakes",
         "league": "MLS",
         "attack": 70,
@@ -4114,8 +3366,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/675/k-beerschot-va/fifa21/",
         "name": "K Beerschot VA",
         "league": "1A Pro League",
         "attack": 70,
@@ -4125,8 +3375,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/110329/fc-st-pauli/fifa21/",
         "name": "FC St. Pauli",
         "league": "Bundesliga 2",
         "attack": 70,
@@ -4136,8 +3384,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/319/ifk-g%C3%B6teborg/fifa21/",
         "name": "IFK G\u00f6teborg",
         "league": "Sweden Allsvenskan (1)",
         "attack": 70,
@@ -4147,8 +3393,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/112716/club-cerro-porte%C3%B1o/fifa21/",
         "name": "Club Cerro Porte\u00f1o",
         "league": "Libertadores",
         "attack": 70,
@@ -4158,8 +3402,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/244/real-zaragoza/fifa21/",
         "name": "Real Zaragoza",
         "league": "LaLiga SmartBank",
         "attack": 70,
@@ -4169,8 +3411,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/101150/fc-tokyo/fifa21/",
         "name": "FC Tokyo",
         "league": "Meiji Yasuda J1",
         "attack": 70,
@@ -4180,8 +3420,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/100761/fcsb/fifa21/",
         "name": "FCSB",
         "league": "Liga I",
         "attack": 70,
@@ -4191,8 +3429,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/680/sint-truidense-vv/fifa21/",
         "name": "Sint-Truidense VV",
         "league": "1A Pro League",
         "attack": 70,
@@ -4202,8 +3438,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/114162/nashville-sc/fifa21/",
         "name": "Nashville SC",
         "league": "MLS",
         "attack": 69,
@@ -4213,8 +3447,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/682/kv-oostende/fifa21/",
         "name": "KV Oostende",
         "league": "1A Pro League",
         "attack": 69,
@@ -4224,8 +3456,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111139/impact-montr%C3%A9al/fifa21/",
         "name": "Impact Montr\u00e9al",
         "league": "MLS",
         "attack": 69,
@@ -4235,8 +3465,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/873/lech-pozna%C5%84/fifa21/",
         "name": "Lech Pozna\u0144",
         "league": "PKO Ekstraklasa",
         "attack": 69,
@@ -4246,8 +3474,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/269/br%C3%B8ndby-if/fifa21/",
         "name": "Br\u00f8ndby IF",
         "league": "3F Superliga",
         "attack": 69,
@@ -4257,8 +3483,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/101084/gimnasia-y-esgrima-la-plata/fifa21/",
         "name": "Gimnasia y Esgrima La Plata",
         "league": "LPF",
         "attack": 69,
@@ -4268,8 +3492,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1891/cd-nacional/fifa21/",
         "name": "CD Nacional",
         "league": "Liga NOS",
         "attack": 69,
@@ -4279,8 +3501,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/689/new-york-red-bulls/fifa21/",
         "name": "New York Red Bulls",
         "league": "MLS",
         "attack": 69,
@@ -4290,8 +3510,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/112516/cd-tondela/fifa21/",
         "name": "CD Tondela",
         "league": "Liga NOS",
         "attack": 69,
@@ -4301,8 +3519,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/110178/sv-sandhausen-1916/fifa21/",
         "name": "SV Sandhausen 1916",
         "league": "Bundesliga 2",
         "attack": 69,
@@ -4312,8 +3528,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/308/universitatea-craiova/fifa21/",
         "name": "Universitatea Craiova",
         "league": "Liga I",
         "attack": 69,
@@ -4323,8 +3537,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/111560/royal-mouscron-p%C3%A9ruwelz/fifa21/",
         "name": "Royal Mouscron-P\u00e9ruwelz",
         "league": "1A Pro League",
         "attack": 69,
@@ -4334,8 +3546,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/897/fc-luzern/fifa21/",
         "name": "FC Luzern",
         "league": "RSL",
         "attack": 69,
@@ -4345,8 +3555,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/210/sm-caen/fifa21/",
         "name": "SM Caen",
         "league": "Ligue 2 BKT",
         "attack": 69,
@@ -4356,8 +3564,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/113157/sanfrecce-hiroshima/fifa21/",
         "name": "Sanfrecce Hiroshima",
         "league": "Meiji Yasuda J1",
         "attack": 69,
@@ -4367,8 +3573,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/112540/shanghai-sipg-fc/fifa21/",
         "name": "Shanghai SIPG FC",
         "league": "CSL",
         "attack": 68,
@@ -4378,8 +3582,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/62/en-avant-guingamp/fifa21/",
         "name": "En Avant Guingamp",
         "league": "Ligue 2 BKT",
         "attack": 68,
@@ -4389,8 +3591,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1832/karlsruher-sc/fifa21/",
         "name": "Karlsruher SC",
         "league": "Bundesliga 2",
         "attack": 68,
@@ -4400,8 +3600,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/111822/rz-pellets-wolfsberger-ac/fifa21/",
         "name": "RZ Pellets Wolfsberger AC",
         "league": "\u00d6. Bundesliga",
         "attack": 68,
@@ -4411,8 +3609,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/298/rosenborg-bk/fifa21/",
         "name": "Rosenborg BK",
         "league": "Eliteserien",
         "attack": 68,
@@ -4422,8 +3618,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/100852/cd-castell%C3%B3n/fifa21/",
         "name": "CD Castell\u00f3n",
         "league": "LaLiga SmartBank",
         "attack": 68,
@@ -4433,8 +3627,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/110152/puebla/fifa21/",
         "name": "Puebla",
         "league": "LIGA BBVA MX",
         "attack": 68,
@@ -4444,8 +3636,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/101110/club-atl%C3%A9tico-pe%C3%B1arol/fifa21/",
         "name": "Club Atl\u00e9tico Pe\u00f1arol",
         "league": "Sul-Americana",
         "attack": 68,
@@ -4455,8 +3645,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/112093/gamba-osaka/fifa21/",
         "name": "Gamba Osaka",
         "league": "Meiji Yasuda J1",
         "attack": 68,
@@ -4466,8 +3654,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1932/barnsley/fifa21/",
         "name": "Barnsley",
         "league": "EFL Championship",
         "attack": 68,
@@ -4477,8 +3663,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111711/club-atl%C3%A9tico-hurac%C3%A1n/fifa21/",
         "name": "Club Atl\u00e9tico Hurac\u00e1n",
         "league": "LPF",
         "attack": 68,
@@ -4488,8 +3672,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/112092/nagoya-grampus/fifa21/",
         "name": "Nagoya Grampus",
         "league": "Meiji Yasuda J1",
         "attack": 68,
@@ -4499,8 +3681,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1797/rotherham-united/fifa21/",
         "name": "Rotherham United",
         "league": "EFL Championship",
         "attack": 68,
@@ -4510,8 +3690,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/101121/club-necaxa/fifa21/",
         "name": "Club Necaxa",
         "league": "LIGA BBVA MX",
         "attack": 68,
@@ -4521,8 +3699,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/112535/uni%C3%B3n-la-calera/fifa21/",
         "name": "Uni\u00f3n La Calera",
         "league": "Libertadores",
         "attack": 68,
@@ -4532,8 +3708,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1908/fc-twente/fifa21/",
         "name": "FC Twente",
         "league": "Eredivisie",
         "attack": 68,
@@ -4543,8 +3717,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/1800/coventry-city/fifa21/",
         "name": "Coventry City",
         "league": "EFL Championship",
         "attack": 67,
@@ -4554,8 +3726,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/101100/atl%C3%A9tico-nacional/fifa21/",
         "name": "Atl\u00e9tico Nacional",
         "league": "Libertadores",
         "attack": 67,
@@ -4565,8 +3735,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/209/sk-sturm-graz/fifa21/",
         "name": "SK Sturm Graz",
         "league": "\u00d6. Bundesliga",
         "attack": 67,
@@ -4576,8 +3744,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/112908/independiente-del-valle/fifa21/",
         "name": "Independiente del Valle",
         "league": "Libertadores",
         "attack": 67,
@@ -4587,8 +3753,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/101148/cerezo-osaka/fifa21/",
         "name": "Cerezo Osaka",
         "league": "Meiji Yasuda J1",
         "attack": 67,
@@ -4598,8 +3762,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1750/cercle-brugge/fifa21/",
         "name": "Cercle Brugge",
         "league": "1A Pro League",
         "attack": 67,
@@ -4609,8 +3771,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/111013/sporting-cristal/fifa21/",
         "name": "Sporting Cristal",
         "league": "Libertadores",
         "attack": 67,
@@ -4620,8 +3780,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/111065/real-salt-lake/fifa21/",
         "name": "Real Salt Lake",
         "league": "MLS",
         "attack": 67,
@@ -4631,8 +3789,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/110065/cf-fuenlabrada/fifa21/",
         "name": "CF Fuenlabrada",
         "league": "LaLiga SmartBank",
         "attack": 67,
@@ -4642,8 +3798,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111722/deportes-tolima/fifa21/",
         "name": "Deportes Tolima",
         "league": "Sul-Americana",
         "attack": 67,
@@ -4653,8 +3807,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/271/aarhus-agf/fifa21/",
         "name": "Aarhus AGF",
         "league": "3F Superliga",
         "attack": 66,
@@ -4664,8 +3816,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1915/fc-groningen/fifa21/",
         "name": "FC Groningen",
         "league": "Eredivisie",
         "attack": 66,
@@ -4675,8 +3825,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/698/houston-dynamo/fifa21/",
         "name": "Houston Dynamo",
         "league": "MLS",
         "attack": 65,
@@ -4686,8 +3834,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1816/amiens-sc/fifa21/",
         "name": "Amiens SC",
         "league": "Ligue 2 BKT",
         "attack": 65,
@@ -4697,8 +3843,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/111724/shandong-luneng-taishan-fc/fifa21/",
         "name": "Shandong Luneng TaiShan FC",
         "league": "CSL",
         "attack": 59,
@@ -4708,8 +3852,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/111473/nova-zel%C3%A2ndia/fifa21/",
         "name": "Nova Zel\u00e2ndia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 72,
@@ -4719,8 +3861,6 @@
         "is_national_team": true
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/110150/gallos-blancos-de-quer%C3%A9taro/fifa21/",
         "name": "Gallos Blancos de Quer\u00e9taro",
         "league": "LIGA BBVA MX",
         "attack": 71,
@@ -4730,8 +3870,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/634/fortuna-sittard/fifa21/",
         "name": "Fortuna Sittard",
         "league": "Eredivisie",
         "attack": 70,
@@ -4741,8 +3879,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/110913/waasland-beveren/fifa21/",
         "name": "Waasland-Beveren",
         "league": "1A Pro League",
         "attack": 70,
@@ -4752,8 +3888,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/111400/sydney-fc/fifa21/",
         "name": "Sydney FC",
         "league": "A-League",
         "attack": 69,
@@ -4763,8 +3897,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/100628/fc-emmen/fifa21/",
         "name": "FC Emmen",
         "league": "Eredivisie",
         "attack": 69,
@@ -4774,8 +3906,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/256/fk-austria-wien/fifa21/",
         "name": "FK Austria Wien",
         "league": "\u00d6. Bundesliga",
         "attack": 69,
@@ -4785,8 +3915,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/110770/fc-sion/fifa21/",
         "name": "FC Sion",
         "league": "RSL",
         "attack": 69,
@@ -4796,8 +3924,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/100651/vvv-venlo/fifa21/",
         "name": "VVV-Venlo",
         "league": "Eredivisie",
         "attack": 69,
@@ -4807,8 +3933,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/112408/al-wehda/fifa21/",
         "name": "Al Wehda",
         "league": "MBS Pro League",
         "attack": 68,
@@ -4818,8 +3942,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/110394/arsenal-de-sarand%C3%AD/fifa21/",
         "name": "Arsenal de Sarand\u00ed",
         "league": "LPF",
         "attack": 68,
@@ -4829,8 +3951,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/110969/the-strongest/fifa21/",
         "name": "The Strongest",
         "league": "Libertadores",
         "attack": 68,
@@ -4840,8 +3960,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/476/ud-logro%C3%B1%C3%A9s/fifa21/",
         "name": "UD Logro\u00f1\u00e9s",
         "league": "LaLiga SmartBank",
         "attack": 68,
@@ -4851,8 +3969,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/112965/club-atl%C3%A9tico-central-de-c%C3%B3rdoba/fifa21/",
         "name": "Club Atl\u00e9tico Central de C\u00f3rdoba",
         "league": "LPF",
         "attack": 68,
@@ -4862,8 +3978,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/982/fc-seoul/fifa21/",
         "name": "FC Seoul",
         "league": "K League 1",
         "attack": 68,
@@ -4873,8 +3987,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/110968/club-bol%C3%ADvar/fifa21/",
         "name": "Club Bol\u00edvar",
         "league": "Libertadores",
         "attack": 68,
@@ -4884,8 +3996,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/324/servette-fc/fifa21/",
         "name": "Servette FC",
         "league": "RSL",
         "attack": 68,
@@ -4895,8 +4005,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110831/club-deportivo-lugo/fifa21/",
         "name": "Club Deportivo Lugo",
         "league": "LaLiga SmartBank",
         "attack": 68,
@@ -4906,8 +4014,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/100646/sparta-rotterdam/fifa21/",
         "name": "Sparta Rotterdam",
         "league": "Eredivisie",
         "attack": 68,
@@ -4917,8 +4023,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/81/hibernian/fifa21/",
         "name": "Hibernian",
         "league": "Scottish Prem",
         "attack": 68,
@@ -4928,8 +4032,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/100851/fc-cartagena/fifa21/",
         "name": "FC Cartagena",
         "league": "LaLiga SmartBank",
         "attack": 68,
@@ -4939,8 +4041,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/111014/universitario-de-deportes/fifa21/",
         "name": "Universitario de Deportes",
         "league": "Libertadores",
         "attack": 68,
@@ -4950,8 +4050,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/1952/hull-city/fifa21/",
         "name": "Hull City",
         "league": "EFL League One",
         "attack": 68,
@@ -4961,8 +4059,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/111706/godoy-cruz/fifa21/",
         "name": "Godoy Cruz",
         "league": "LPF",
         "attack": 67,
@@ -4972,8 +4068,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/614/ac-ajaccio/fifa21/",
         "name": "AC Ajaccio",
         "league": "Ligue 2 BKT",
         "attack": 67,
@@ -4983,8 +4077,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1914/pec-zwolle/fifa21/",
         "name": "PEC Zwolle",
         "league": "Eredivisie",
         "attack": 67,
@@ -4994,8 +4086,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/487/vfl-osnabr%C3%BCck/fifa21/",
         "name": "VfL Osnabr\u00fcck",
         "league": "Bundesliga 2",
         "attack": 67,
@@ -5005,8 +4095,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110984/emelec/fifa21/",
         "name": "Emelec",
         "league": "Sul-Americana",
         "attack": 67,
@@ -5016,8 +4104,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/110500/eintracht-braunschweig/fifa21/",
         "name": "Eintracht Braunschweig",
         "league": "Bundesliga 2",
         "attack": 67,
@@ -5027,8 +4113,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/543/ssv-jahn-regensburg/fifa21/",
         "name": "SSV Jahn Regensburg",
         "league": "Bundesliga 2",
         "attack": 67,
@@ -5038,8 +4122,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/110069/club-deportivo-mirand%C3%A9s/fifa21/",
         "name": "Club Deportivo Mirand\u00e9s",
         "league": "LaLiga SmartBank",
         "attack": 67,
@@ -5049,8 +4131,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/226/fc-sochaux-montb%C3%A9liard/fifa21/",
         "name": "FC Sochaux-Montb\u00e9liard",
         "league": "Ligue 2 BKT",
         "attack": 67,
@@ -5060,8 +4140,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/101145/kashiwa-reysol/fifa21/",
         "name": "Kashiwa Reysol",
         "league": "Meiji Yasuda J1",
         "attack": 67,
@@ -5071,8 +4149,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/110745/jagiellonia-bia%C5%82ystok/fifa21/",
         "name": "Jagiellonia Bia\u0142ystok",
         "league": "PKO Ekstraklasa",
         "attack": 67,
@@ -5082,8 +4158,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/101149/shimizu-s-pulse/fifa21/",
         "name": "Shimizu S-Pulse",
         "league": "Meiji Yasuda J1",
         "attack": 67,
@@ -5093,8 +4167,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/100831/ad-alcorc%C3%B3n/fifa21/",
         "name": "AD Alcorc\u00f3n",
         "league": "LaLiga SmartBank",
         "attack": 67,
@@ -5104,8 +4176,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1805/grenoble-foot-38/fifa21/",
         "name": "Grenoble Foot 38",
         "league": "Ligue 2 BKT",
         "attack": 66,
@@ -5115,8 +4185,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/708/hammarby-if/fifa21/",
         "name": "Hammarby IF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 66,
@@ -5126,8 +4194,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/111707/club-atl%C3%A9tico-aldosivi/fifa21/",
         "name": "Club Atl\u00e9tico Aldosivi",
         "league": "LPF",
         "attack": 66,
@@ -5137,8 +4203,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/10032/fc-lugano/fifa21/",
         "name": "FC Lugano",
         "league": "RSL",
         "attack": 66,
@@ -5148,8 +4212,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/115199/oce%C3%A2nico-fc/fifa21/",
         "name": "Oce\u00e2nico FC",
         "league": "Liga do Brasil",
         "attack": 66,
@@ -5159,8 +4221,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/710/djurg%C3%A5rdens-if/fifa21/",
         "name": "Djurg\u00e5rdens IF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 66,
@@ -5170,8 +4230,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/433/aik-fotboll/fifa21/",
         "name": "AIK Fotboll",
         "league": "Sweden Allsvenskan (1)",
         "attack": 65,
@@ -5181,8 +4239,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/983/suwon-samsung-bluewings/fifa21/",
         "name": "Suwon Samsung Bluewings",
         "league": "K League 1",
         "attack": 65,
@@ -5192,8 +4248,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1933/wycombe-wanderers/fifa21/",
         "name": "Wycombe Wanderers",
         "league": "EFL Championship",
         "attack": 65,
@@ -5203,8 +4257,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/110581/patronato/fifa21/",
         "name": "Patronato",
         "league": "LPF",
         "attack": 65,
@@ -5214,8 +4266,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/1815/clermont-foot-auvergne-63/fifa21/",
         "name": "Clermont Foot Auvergne 63",
         "league": "Ligue 2 BKT",
         "attack": 64,
@@ -5225,8 +4275,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111817/paris-fc/fifa21/",
         "name": "Paris FC",
         "league": "Ligue 2 BKT",
         "attack": 64,
@@ -5236,8 +4284,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/918/fk-bod%C3%B8-glimt/fifa21/",
         "name": "FK Bod\u00f8/Glimt",
         "league": "Eliteserien",
         "attack": 62,
@@ -5247,8 +4293,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/110456/valenciennes-fc/fifa21/",
         "name": "Valenciennes FC",
         "league": "Ligue 2 BKT",
         "attack": 62,
@@ -5258,8 +4302,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1457/denizlispor/fifa21/",
         "name": "Denizlispor",
         "league": "S\u00fcper Lig",
         "attack": 61,
@@ -5269,8 +4311,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/110746/pogo%C5%84-szczecin/fifa21/",
         "name": "Pogo\u0144 Szczecin",
         "league": "PKO Ekstraklasa",
         "attack": 61,
@@ -5280,8 +4320,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1327/bulg%C3%A1ria/fifa21/",
         "name": "Bulg\u00e1ria",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 67,
@@ -5291,8 +4329,6 @@
         "is_national_team": true
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/112393/al-taawoun/fifa21/",
         "name": "Al Taawoun",
         "league": "MBS Pro League",
         "attack": 73,
@@ -5302,8 +4338,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/111779/henan-jianye-fc/fifa21/",
         "name": "Henan Jianye FC",
         "league": "CSL",
         "attack": 71,
@@ -5313,8 +4347,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/101102/deportivo-cali/fifa21/",
         "name": "Deportivo Cali",
         "league": "Sul-Americana",
         "attack": 71,
@@ -5324,8 +4356,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/112541/wuhan-zall/fifa21/",
         "name": "Wuhan Zall",
         "league": "CSL",
         "attack": 71,
@@ -5335,8 +4365,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/111773/shenzhen-kaisa/fifa21/",
         "name": "Shenzhen Kaisa",
         "league": "CSL",
         "attack": 70,
@@ -5346,8 +4374,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/112853/deportivo-la-guaira/fifa21/",
         "name": "Deportivo La Guaira",
         "league": "Libertadores",
         "attack": 69,
@@ -5357,8 +4383,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/112392/al-raed/fifa21/",
         "name": "Al Raed",
         "league": "MBS Pro League",
         "attack": 69,
@@ -5368,8 +4392,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/111091/lechia-gda%C5%84sk/fifa21/",
         "name": "Lechia Gda\u0144sk",
         "league": "PKO Ekstraklasa",
         "attack": 69,
@@ -5379,8 +4401,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1938/peterborough-united/fifa21/",
         "name": "Peterborough United",
         "league": "EFL League One",
         "attack": 68,
@@ -5390,8 +4410,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/111659/rodez-aveyron-football/fifa21/",
         "name": "Rodez Aveyron Football",
         "league": "Ligue 2 BKT",
         "attack": 68,
@@ -5401,8 +4419,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/112533/deportes-antofagasta/fifa21/",
         "name": "Deportes Antofagasta",
         "league": "Sul-Americana",
         "attack": 68,
@@ -5412,8 +4428,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1813/chamois-niortais-fc/fifa21/",
         "name": "Chamois Niortais FC",
         "league": "Ligue 2 BKT",
         "attack": 68,
@@ -5423,8 +4437,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/111239/fc-ingolstadt-04/fifa21/",
         "name": "FC Ingolstadt 04",
         "league": "3. Liga",
         "attack": 68,
@@ -5434,8 +4446,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/15021/ce-sabadell-fc/fifa21/",
         "name": "CE Sabadell FC",
         "league": "LaLiga SmartBank",
         "attack": 68,
@@ -5445,8 +4455,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/106/sunderland/fifa21/",
         "name": "Sunderland",
         "league": "EFL League One",
         "attack": 68,
@@ -5456,8 +4464,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/702/ifk-norrk%C3%B6ping/fifa21/",
         "name": "IFK Norrk\u00f6ping",
         "league": "Sweden Allsvenskan (1)",
         "attack": 67,
@@ -5467,8 +4473,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/114326/rak%C3%B3w-cz%C4%99stochowa/fifa21/",
         "name": "Rak\u00f3w Cz\u0119stochowa",
         "league": "PKO Ekstraklasa",
         "attack": 67,
@@ -5478,8 +4482,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1738/le-havre-athletic-club/fifa21/",
         "name": "Le Havre Athletic Club",
         "league": "Ligue 2 BKT",
         "attack": 67,
@@ -5489,8 +4491,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/112389/al-faisaly/fifa21/",
         "name": "Al Faisaly",
         "league": "MBS Pro League",
         "attack": 67,
@@ -5500,8 +4500,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/110974/club-deportivo-jorge-wilstermann/fifa21/",
         "name": "Club Deportivo Jorge Wilstermann",
         "league": "Sul-Americana",
         "attack": 67,
@@ -5511,8 +4509,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/2017/tsv-prolactal-hartberg/fifa21/",
         "name": "TSV Prolactal Hartberg",
         "league": "\u00d6. Bundesliga",
         "attack": 67,
@@ -5522,8 +4518,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/272/odense-boldklub/fifa21/",
         "name": "Odense Boldklub",
         "league": "3F Superliga",
         "attack": 67,
@@ -5533,8 +4527,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/300/viking-fk/fifa21/",
         "name": "Viking FK",
         "league": "Eliteserien",
         "attack": 67,
@@ -5544,8 +4536,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/113197/yokohama/fifa21/",
         "name": "Yokohama",
         "league": "Meiji Yasuda J1",
         "attack": 67,
@@ -5555,8 +4545,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/112096/ettifaq-fc/fifa21/",
         "name": "Ettifaq FC",
         "league": "MBS Pro League",
         "attack": 66,
@@ -5566,8 +4554,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/1854/albacete-balompi%C3%A9/fifa21/",
         "name": "Albacete Balompi\u00e9",
         "league": "LaLiga SmartBank",
         "attack": 66,
@@ -5577,8 +4563,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/114688/guaire%C3%B1a-fc/fifa21/",
         "name": "Guaire\u00f1a FC",
         "league": "Sul-Americana",
         "attack": 66,
@@ -5588,8 +4572,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/100634/heracles-almelo/fifa21/",
         "name": "Heracles Almelo",
         "league": "Eredivisie",
         "attack": 66,
@@ -5599,8 +4581,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1790/portsmouth/fifa21/",
         "name": "Portsmouth",
         "league": "EFL League One",
         "attack": 66,
@@ -5610,8 +4590,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/112444/hokkaido-consadole-sapporo/fifa21/",
         "name": "Hokkaido Consadole Sapporo",
         "league": "Meiji Yasuda J1",
         "attack": 66,
@@ -5621,8 +4599,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/110765/incheon-united-fc/fifa21/",
         "name": "Incheon United FC",
         "league": "K League 1",
         "attack": 66,
@@ -5632,8 +4608,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/503/sg-dynamo-dresden/fifa21/",
         "name": "SG Dynamo Dresden",
         "league": "3. Liga",
         "attack": 66,
@@ -5643,8 +4617,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/110747/crac%C3%B3via/fifa21/",
         "name": "Crac\u00f3via",
         "league": "PKO Ekstraklasa",
         "attack": 66,
@@ -5654,8 +4626,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/89/charlton-athletic/fifa21/",
         "name": "Charlton Athletic",
         "league": "EFL League One",
         "attack": 66,
@@ -5665,8 +4635,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/110197/fc-w%C3%BCrzburger-kickers/fifa21/",
         "name": "FC W\u00fcrzburger Kickers",
         "league": "Bundesliga 2",
         "attack": 65,
@@ -5676,8 +4644,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1905/rkc-waalwijk/fifa21/",
         "name": "RKC Waalwijk",
         "league": "Eredivisie",
         "attack": 65,
@@ -5687,8 +4653,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/650/ado-den-haag/fifa21/",
         "name": "ADO Den Haag",
         "league": "Eredivisie",
         "attack": 65,
@@ -5698,8 +4662,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/898/st-gallen/fifa21/",
         "name": "St. Gallen",
         "league": "RSL",
         "attack": 64,
@@ -5709,8 +4671,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/820/aalborg-bk/fifa21/",
         "name": "Aalborg BK",
         "league": "3F Superliga",
         "attack": 64,
@@ -5720,8 +4680,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/114617/universidad-t%C3%A9cnica-de-cajamarca/fifa21/",
         "name": "Universidad T\u00e9cnica de Cajamarca",
         "league": "Sul-Americana",
         "attack": 64,
@@ -5731,8 +4689,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/711/bk-h%C3%A4cken/fifa21/",
         "name": "BK H\u00e4cken",
         "league": "Sweden Allsvenskan (1)",
         "attack": 64,
@@ -5742,8 +4698,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1474/pohang-steelers/fifa21/",
         "name": "Pohang Steelers",
         "league": "K League 1",
         "attack": 64,
@@ -5753,8 +4707,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/113180/viitorul-constan%C5%A3a/fifa21/",
         "name": "Viitorul Constan\u0163a",
         "league": "Liga I",
         "attack": 63,
@@ -5764,8 +4716,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/101099/am%C3%A9rica-de-cali/fifa21/",
         "name": "Am\u00e9rica de Cali",
         "league": "Libertadores",
         "attack": 63,
@@ -5775,8 +4725,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/2055/sangju-sangmu-fc/fifa21/",
         "name": "Sangju Sangmu FC",
         "league": "K League 1",
         "attack": 63,
@@ -5786,8 +4734,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1873/wis%C5%82a-crac%C3%B3via/fifa21/",
         "name": "Wis\u0142a Crac\u00f3via",
         "league": "PKO Ekstraklasa",
         "attack": 63,
@@ -5797,8 +4743,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/894/fc-z%C3%BCrich/fifa21/",
         "name": "FC Z\u00fcrich",
         "league": "RSL",
         "attack": 60,
@@ -5808,8 +4752,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/77/aberdeen/fifa21/",
         "name": "Aberdeen",
         "league": "Scottish Prem",
         "attack": 60,
@@ -5819,8 +4761,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111451/bol%C3%ADvia/fifa21/",
         "name": "Bol\u00edvia",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 59,
@@ -5830,8 +4770,6 @@
         "is_national_team": true
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/33/tsv-1860-m%C3%BCnchen/fifa21/",
         "name": "TSV 1860 M\u00fcnchen",
         "league": "3. Liga",
         "attack": 68,
@@ -5841,8 +4779,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/111007/12-de-octubre-fc/fifa21/",
         "name": "12 de Octubre FC",
         "league": "Sul-Americana",
         "attack": 68,
@@ -5852,8 +4788,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/112224/melbourne-city/fifa21/",
         "name": "Melbourne City",
         "league": "A-League",
         "attack": 68,
@@ -5863,8 +4797,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/112390/al-fateh/fifa21/",
         "name": "Al Fateh",
         "league": "MBS Pro League",
         "attack": 67,
@@ -5874,8 +4806,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/2056/daegu-fc/fifa21/",
         "name": "Daegu FC",
         "league": "K League 1",
         "attack": 67,
@@ -5885,8 +4815,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/114023/western-united-fc/fifa21/",
         "name": "Western United FC",
         "league": "A-League",
         "attack": 67,
@@ -5896,8 +4824,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/114600/guabir%C3%A1/fifa21/",
         "name": "Guabir\u00e1",
         "league": "Sul-Americana",
         "attack": 67,
@@ -5907,8 +4833,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111821/fc-flyeralarm-admira/fifa21/",
         "name": "FC Flyeralarm Admira",
         "league": "\u00d6. Bundesliga",
         "attack": 67,
@@ -5918,8 +4842,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/112523/la-equidad/fifa21/",
         "name": "La Equidad",
         "league": "Sul-Americana",
         "attack": 66,
@@ -5929,8 +4851,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1862/fc-lausanne-sport/fifa21/",
         "name": "FC Lausanne-Sport",
         "league": "RSL",
         "attack": 66,
@@ -5940,8 +4860,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/112914/metropolitanos-fc/fifa21/",
         "name": "Metropolitanos FC",
         "league": "Sul-Americana",
         "attack": 66,
@@ -5951,8 +4869,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/110321/pau-fc/fifa21/",
         "name": "Pau FC",
         "league": "Ligue 2 BKT",
         "attack": 66,
@@ -5962,8 +4878,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/15040/wsg-swarovski-tirol/fifa21/",
         "name": "WSG Swarovski Tirol",
         "league": "\u00d6. Bundesliga",
         "attack": 66,
@@ -5973,8 +4887,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/780/sv-guntamatic-ried/fifa21/",
         "name": "SV Guntamatic Ried",
         "league": "\u00d6. Bundesliga",
         "attack": 66,
@@ -5984,8 +4896,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/94/ipswich-town/fifa21/",
         "name": "Ipswich Town",
         "league": "EFL League One",
         "attack": 66,
@@ -5995,8 +4905,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/420/g%C3%B3rnik-zabrze/fifa21/",
         "name": "G\u00f3rnik Zabrze",
         "league": "PKO Ekstraklasa",
         "attack": 66,
@@ -6006,8 +4914,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/29/1-fc-kaiserslautern/fifa21/",
         "name": "1. FC Kaiserslautern",
         "league": "3. Liga",
         "attack": 66,
@@ -6017,8 +4923,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/112258/gwangju-fc/fifa21/",
         "name": "GwangJu FC",
         "league": "K League 1",
         "attack": 66,
@@ -6028,8 +4932,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/111399/perth-glory/fifa21/",
         "name": "Perth Glory",
         "league": "A-League",
         "attack": 66,
@@ -6039,8 +4941,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112836/vegalta-sendai/fifa21/",
         "name": "Vegalta Sendai",
         "league": "Meiji Yasuda J1",
         "attack": 66,
@@ -6050,8 +4950,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/112075/spusu-skn-st-p%C3%B6lten/fifa21/",
         "name": "spusu SKN St. P\u00f6lten",
         "league": "\u00d6. Bundesliga",
         "attack": 66,
@@ -6061,8 +4959,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/113161/shonan-bellmare/fifa21/",
         "name": "Shonan Bellmare",
         "league": "Meiji Yasuda J1",
         "attack": 66,
@@ -6072,8 +4968,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/110978/cd-cobresal/fifa21/",
         "name": "CD Cobresal",
         "league": "Sul-Americana",
         "attack": 66,
@@ -6083,8 +4977,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/15009/sc-rheindorf-altach/fifa21/",
         "name": "SC Rheindorf Altach",
         "league": "\u00d6. Bundesliga",
         "attack": 65,
@@ -6094,8 +4986,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1951/oxford-united/fifa21/",
         "name": "Oxford United",
         "league": "EFL League One",
         "attack": 65,
@@ -6105,8 +4995,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/113058/abha-club/fifa21/",
         "name": "Abha Club",
         "league": "MBS Pro League",
         "attack": 65,
@@ -6116,8 +5004,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/112847/astra-giurgiu/fifa21/",
         "name": "Astra Giurgiu",
         "league": "Liga I",
         "attack": 65,
@@ -6127,8 +5013,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/111086/piast-gliwice/fifa21/",
         "name": "Piast Gliwice",
         "league": "PKO Ekstraklasa",
         "attack": 65,
@@ -6138,8 +5022,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/27/fc-hansa-rostock/fifa21/",
         "name": "FC Hansa Rostock",
         "league": "3. Liga",
         "attack": 65,
@@ -6149,8 +5031,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/114619/carlos-a-mannucci/fifa21/",
         "name": "Carlos A. Mannucci",
         "league": "Sul-Americana",
         "attack": 65,
@@ -6160,8 +5040,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111334/melgar/fifa21/",
         "name": "Melgar",
         "league": "Sul-Americana",
         "attack": 65,
@@ -6171,8 +5049,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/111276/usl-dunkerque/fifa21/",
         "name": "USL Dunkerque",
         "league": "Ligue 2 BKT",
         "attack": 65,
@@ -6182,8 +5058,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/110532/sv-waldhof-mannheim-07/fifa21/",
         "name": "SV Waldhof Mannheim 07",
         "league": "3. Liga",
         "attack": 65,
@@ -6193,8 +5067,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1823/as-nancy-lorraine/fifa21/",
         "name": "AS Nancy Lorraine",
         "league": "Ligue 2 BKT",
         "attack": 65,
@@ -6204,8 +5076,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/919/sk-brann/fifa21/",
         "name": "SK Brann",
         "league": "Eliteserien",
         "attack": 65,
@@ -6215,8 +5085,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/115358/atl%C3%A9tico-palmaflor/fifa21/",
         "name": "Atl\u00e9tico Palmaflor",
         "league": "Sul-Americana",
         "attack": 65,
@@ -6226,8 +5094,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/621/livingston-fc/fifa21/",
         "name": "Livingston FC",
         "league": "Scottish Prem",
         "attack": 65,
@@ -6237,8 +5103,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111092/%C5%9Bl%C4%85sk-wroc%C5%82aw/fifa21/",
         "name": "\u015al\u0105sk Wroc\u0142aw",
         "league": "PKO Ekstraklasa",
         "attack": 65,
@@ -6248,8 +5112,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/113183/oita-trinita/fifa21/",
         "name": "Oita Trinita",
         "league": "Meiji Yasuda J1",
         "attack": 65,
@@ -6259,8 +5121,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1926/blackpool/fifa21/",
         "name": "Blackpool",
         "league": "EFL League One",
         "attack": 65,
@@ -6270,8 +5130,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1447/s%C3%B8nderjyske/fifa21/",
         "name": "S\u00f8nderjyskE",
         "league": "3F Superliga",
         "attack": 65,
@@ -6281,8 +5139,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/112260/fleetwood-town/fifa21/",
         "name": "Fleetwood Town",
         "league": "EFL League One",
         "attack": 65,
@@ -6292,8 +5148,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/111766/wellington-phoenix/fifa21/",
         "name": "Wellington Phoenix",
         "league": "A-League",
         "attack": 65,
@@ -6303,8 +5157,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/700/if-elfsborg/fifa21/",
         "name": "IF Elfsborg",
         "league": "Sweden Allsvenskan (1)",
         "attack": 64,
@@ -6314,8 +5166,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/114511/sport-huancayo/fifa21/",
         "name": "Sport Huancayo",
         "league": "Sul-Americana",
         "attack": 64,
@@ -6325,8 +5175,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/149/lincoln-city/fifa21/",
         "name": "Lincoln City",
         "league": "EFL League One",
         "attack": 64,
@@ -6336,8 +5184,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/112990/al-batin/fifa21/",
         "name": "Al Batin",
         "league": "MBS Pro League",
         "attack": 64,
@@ -6347,8 +5193,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/142/doncaster-rovers/fifa21/",
         "name": "Doncaster Rovers",
         "league": "EFL League One",
         "attack": 64,
@@ -6358,8 +5202,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/114577/club-always-ready/fifa21/",
         "name": "Club Always Ready",
         "league": "Libertadores",
         "attack": 64,
@@ -6369,8 +5211,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/110645/viktoria-k%C3%B6ln/fifa21/",
         "name": "Viktoria K\u00f6ln",
         "league": "3. Liga",
         "attack": 64,
@@ -6380,8 +5220,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/492/sv-wehen-taunusstein/fifa21/",
         "name": "SV Wehen-Taunusstein",
         "league": "3. Liga",
         "attack": 64,
@@ -6391,8 +5229,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/212/la-berrichonne-de-ch%C3%A2teauroux/fifa21/",
         "name": "La Berrichonne de Ch\u00e2teauroux",
         "league": "Ligue 2 BKT",
         "attack": 64,
@@ -6402,8 +5238,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/83/motherwell/fifa21/",
         "name": "Motherwell",
         "league": "Scottish Prem",
         "attack": 64,
@@ -6413,8 +5247,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/113217/damac-fc/fifa21/",
         "name": "Damac FC",
         "league": "MBS Pro League",
         "attack": 64,
@@ -6424,8 +5256,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/100757/dinamo-1948/fifa21/",
         "name": "Dinamo 1948",
         "league": "Liga I",
         "attack": 63,
@@ -6435,8 +5265,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/100804/st-johnstone-fc/fifa21/",
         "name": "St. Johnstone FC",
         "league": "Scottish Prem",
         "attack": 63,
@@ -6446,8 +5274,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1788/fc-nordsj%C3%A6lland/fifa21/",
         "name": "FC Nordsj\u00e6lland",
         "league": "3F Superliga",
         "attack": 63,
@@ -6457,8 +5283,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/112671/club-nacional/fifa21/",
         "name": "Club Nacional",
         "league": "Sul-Americana",
         "attack": 63,
@@ -6468,8 +5292,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1786/randers-fc/fifa21/",
         "name": "Randers FC",
         "league": "3F Superliga",
         "attack": 63,
@@ -6479,8 +5301,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/113160/sagan-tosu/fifa21/",
         "name": "Sagan Tosu",
         "league": "Meiji Yasuda J1",
         "attack": 63,
@@ -6490,8 +5310,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/114143/al-ain-ksa/fifa21/",
         "name": "Al Ain (KSA)",
         "league": "MBS Pro League",
         "attack": 62,
@@ -6501,8 +5319,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/110752/boto%C5%9Fani/fifa21/",
         "name": "Boto\u015fani",
         "league": "Liga I",
         "attack": 61,
@@ -6512,8 +5328,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/110749/zag%C5%82%C4%99bie-lubin/fifa21/",
         "name": "Zag\u0142\u0119bie Lubin",
         "league": "PKO Ekstraklasa",
         "attack": 57,
@@ -6523,8 +5337,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/112391/al-qadisiyah/fifa21/",
         "name": "Al Qadisiyah",
         "league": "MBS Pro League",
         "attack": 67,
@@ -6534,8 +5346,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/112115/gangwon-fc/fifa21/",
         "name": "Gangwon FC",
         "league": "K League 1",
         "attack": 67,
@@ -6545,8 +5355,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/110482/hallescher-fc/fifa21/",
         "name": "Hallescher FC",
         "league": "3. Liga",
         "attack": 67,
@@ -6556,8 +5364,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/82/kilmarnock/fifa21/",
         "name": "Kilmarnock",
         "league": "Scottish Prem",
         "attack": 66,
@@ -6567,8 +5373,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111393/adelaide-united-fc/fifa21/",
         "name": "Adelaide United FC",
         "league": "A-League",
         "attack": 66,
@@ -6578,8 +5382,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1825/msv-duisburg/fifa21/",
         "name": "MSV Duisburg",
         "league": "3. Liga",
         "attack": 66,
@@ -6589,8 +5391,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/112667/club-atl%C3%A9tico-nacional-potos%C3%AD/fifa21/",
         "name": "Club Atl\u00e9tico Nacional Potos\u00ed",
         "league": "Sul-Americana",
         "attack": 66,
@@ -6600,8 +5400,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/113723/guayaquil-city/fifa21/",
         "name": "Guayaquil City",
         "league": "Sul-Americana",
         "attack": 65,
@@ -6611,8 +5409,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/113391/academica-clinceni/fifa21/",
         "name": "Academica Clinceni",
         "league": "Liga I",
         "attack": 65,
@@ -6622,8 +5418,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/100325/hjk-helsinki/fifa21/",
         "name": "HJK Helsinki",
         "league": "Resto do Mundo",
         "attack": 65,
@@ -6633,8 +5427,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/181/dundee-united/fifa21/",
         "name": "Dundee United",
         "league": "Scottish Prem",
         "attack": 65,
@@ -6644,8 +5436,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/101104/independiente-santa-fe/fifa21/",
         "name": "Independiente Santa Fe",
         "league": "Libertadores",
         "attack": 65,
@@ -6655,8 +5445,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/172/spvgg-unterhaching/fifa21/",
         "name": "SpVgg Unterhaching",
         "league": "3. Liga",
         "attack": 65,
@@ -6666,8 +5454,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/110501/sportclub-verl/fifa21/",
         "name": "Sportclub Verl",
         "league": "3. Liga",
         "attack": 65,
@@ -6677,8 +5463,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/15015/burton-albion/fifa21/",
         "name": "Burton Albion",
         "league": "EFL League One",
         "attack": 65,
@@ -6688,8 +5472,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1798/milton-keynes-dons/fifa21/",
         "name": "Milton Keynes Dons",
         "league": "EFL League One",
         "attack": 65,
@@ -6699,8 +5481,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112427/western-sydney-wanderers/fifa21/",
         "name": "Western Sydney Wanderers",
         "league": "A-League",
         "attack": 64,
@@ -6710,8 +5490,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/127/shrewsbury/fifa21/",
         "name": "Shrewsbury",
         "league": "EFL League One",
         "attack": 64,
@@ -6721,8 +5499,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/112637/gaz-metan-media%C8%99/fifa21/",
         "name": "Gaz Metan Media\u0219",
         "league": "Liga I",
         "attack": 64,
@@ -6732,8 +5508,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/100805/st-mirren/fifa21/",
         "name": "St. Mirren",
         "league": "Scottish Prem",
         "attack": 64,
@@ -6743,8 +5517,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/121/crewe-alexandra/fifa21/",
         "name": "Crewe Alexandra",
         "league": "EFL League One",
         "attack": 64,
@@ -6754,8 +5526,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/113387/afc-chindia-t%C3%A2rgovi%C8%99te/fifa21/",
         "name": "AFC Chindia T\u00e2rgovi\u0219te",
         "league": "Liga I",
         "attack": 64,
@@ -6765,8 +5535,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/113182/voluntari/fifa21/",
         "name": "Voluntari",
         "league": "Liga I",
         "attack": 64,
@@ -6776,8 +5544,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/110313/accrington-stanley/fifa21/",
         "name": "Accrington Stanley",
         "league": "EFL League One",
         "attack": 64,
@@ -6787,8 +5553,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1802/gillingham/fifa21/",
         "name": "Gillingham",
         "league": "EFL League One",
         "attack": 64,
@@ -6798,8 +5562,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1929/plymouth-argyle/fifa21/",
         "name": "Plymouth Argyle",
         "league": "EFL League One",
         "attack": 64,
@@ -6809,8 +5571,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1917/wigan-athletic/fifa21/",
         "name": "Wigan Athletic",
         "league": "EFL League One",
         "attack": 64,
@@ -6820,8 +5580,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/981/seongnam-fc/fifa21/",
         "name": "Seongnam FC",
         "league": "K League 1",
         "attack": 64,
@@ -6831,8 +5589,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1456/odd-bk/fifa21/",
         "name": "Odd BK",
         "league": "Eliteserien",
         "attack": 64,
@@ -6842,8 +5598,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/114398/t%C3%BCrkg%C3%BCc%C3%BC-m%C3%BCnchen/fifa21/",
         "name": "T\u00fcrkg\u00fcc\u00fc M\u00fcnchen",
         "league": "3. Liga",
         "attack": 64,
@@ -6853,8 +5607,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/523/1-fc-saarbr%C3%BCcken/fifa21/",
         "name": "1. FC Saarbr\u00fccken",
         "league": "3. Liga",
         "attack": 64,
@@ -6864,8 +5616,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/705/%C3%B6rebro-sk/fifa21/",
         "name": "\u00d6rebro SK",
         "league": "Sweden Allsvenskan (1)",
         "attack": 64,
@@ -6875,8 +5625,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1962/bristol-rovers/fifa21/",
         "name": "Bristol Rovers",
         "league": "EFL League One",
         "attack": 64,
@@ -6886,8 +5634,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/922/str%C3%B8msgodset-if/fifa21/",
         "name": "Str\u00f8msgodset IF",
         "league": "Eliteserien",
         "attack": 64,
@@ -6897,8 +5643,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/917/stab%C3%A6k-fotball/fifa21/",
         "name": "Stab\u00e6k Fotball",
         "league": "Eliteserien",
         "attack": 64,
@@ -6908,8 +5652,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/113143/montevideo-city-torque/fifa21/",
         "name": "Montevideo City Torque",
         "league": "Sul-Americana",
         "attack": 63,
@@ -6919,8 +5661,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/113378/sepsi-osk-sf-gheorghe/fifa21/",
         "name": "Sepsi OSK Sf. Gheorghe",
         "league": "Liga I",
         "attack": 63,
@@ -6930,8 +5670,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1569/wis%C5%82a-p%C5%82ock/fifa21/",
         "name": "Wis\u0142a P\u0142ock",
         "league": "PKO Ekstraklasa",
         "attack": 63,
@@ -6941,8 +5679,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/920/v%C3%A5lerenga-fotball/fifa21/",
         "name": "V\u00e5lerenga Fotball",
         "league": "Eliteserien",
         "attack": 63,
@@ -6952,8 +5688,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/111723/deportivo-pasto/fifa21/",
         "name": "Deportivo Pasto",
         "league": "Sul-Americana",
         "attack": 63,
@@ -6963,8 +5697,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/110597/sv-meppen/fifa21/",
         "name": "SV Meppen",
         "league": "3. Liga",
         "attack": 63,
@@ -6974,8 +5706,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/15001/lyngby-bk/fifa21/",
         "name": "Lyngby BK",
         "league": "3F Superliga",
         "attack": 63,
@@ -6985,8 +5715,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/114575/club-river-plate-asunci%C3%B3n/fifa21/",
         "name": "Club River Plate Asunci\u00f3n",
         "league": "Sul-Americana",
         "attack": 63,
@@ -6996,8 +5724,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/167/kfc-uerdingen-05/fifa21/",
         "name": "KFC Uerdingen 05",
         "league": "3. Liga",
         "attack": 62,
@@ -7007,8 +5733,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/113459/kristiansund-bk/fifa21/",
         "name": "Kristiansund BK",
         "league": "Eliteserien",
         "attack": 62,
@@ -7018,8 +5742,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/112199/sarpsborg-08/fifa21/",
         "name": "Sarpsborg 08",
         "league": "Eliteserien",
         "attack": 62,
@@ -7029,8 +5751,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112627/fc-chambly-oise/fifa21/",
         "name": "FC Chambly Oise",
         "league": "Ligue 2 BKT",
         "attack": 62,
@@ -7040,8 +5760,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/115535/rentistas/fifa21/",
         "name": "Rentistas",
         "league": "Libertadores",
         "attack": 61,
@@ -7051,8 +5769,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/111002/centro-atl%C3%A9tico-f%C3%A9nix/fifa21/",
         "name": "Centro Atl\u00e9tico F\u00e9nix",
         "league": "Sul-Americana",
         "attack": 61,
@@ -7062,8 +5778,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/111327/huachipato/fifa21/",
         "name": "Huachipato",
         "league": "Sul-Americana",
         "attack": 59,
@@ -7073,8 +5787,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/822/vejle-boldklub/fifa21/",
         "name": "Vejle Boldklub",
         "league": "3F Superliga",
         "attack": 59,
@@ -7084,8 +5796,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/112429/guangzhou-r-f-fc/fifa21/",
         "name": "Guangzhou R&F FC",
         "league": "CSL",
         "attack": 57,
@@ -7095,8 +5805,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/112378/dalian-professional-football-club/fifa21/",
         "name": "Dalian Professional Football Club",
         "league": "CSL",
         "attack": 76,
@@ -7106,8 +5814,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/100759/fc-arge%C8%99-pite%C8%99ti/fifa21/",
         "name": "FC Arge\u0219 Pite\u0219ti",
         "league": "Liga I",
         "attack": 66,
@@ -7117,8 +5823,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/110987/sociedad-deportiva-aucas/fifa21/",
         "name": "Sociedad Deportiva Aucas",
         "league": "Sul-Americana",
         "attack": 66,
@@ -7128,8 +5832,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/110679/fc-bayern-m%C3%BCnchen-ii/fifa21/",
         "name": "FC Bayern M\u00fcnchen II",
         "league": "3. Liga",
         "attack": 65,
@@ -7139,8 +5841,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/110990/deportivo-t%C3%A1chira/fifa21/",
         "name": "Deportivo T\u00e1chira",
         "league": "Libertadores",
         "attack": 65,
@@ -7150,8 +5850,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/112511/warta-pozna%C5%84/fifa21/",
         "name": "Warta Pozna\u0144",
         "league": "PKO Ekstraklasa",
         "attack": 65,
@@ -7161,8 +5859,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/114578/club-social-y-deportivo-macar%C3%A1/fifa21/",
         "name": "Club Social y Deportivo Macar\u00e1",
         "league": "Sul-Americana",
         "attack": 64,
@@ -7172,8 +5868,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1757/sandefjord-fotball/fifa21/",
         "name": "Sandefjord Fotball",
         "league": "Eliteserien",
         "attack": 64,
@@ -7183,8 +5877,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/4/bolton-wanderers/fifa21/",
         "name": "Bolton Wanderers",
         "league": "EFL League Two",
         "attack": 64,
@@ -7194,8 +5886,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1439/kalmar-ff/fifa21/",
         "name": "Kalmar FF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 64,
@@ -7205,8 +5895,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/837/dundalk/fifa21/",
         "name": "Dundalk",
         "league": "SSE Airtricity Lge",
         "attack": 64,
@@ -7216,8 +5904,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/112259/afc-wimbledon/fifa21/",
         "name": "AFC Wimbledon",
         "league": "EFL League One",
         "attack": 64,
@@ -7227,8 +5913,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111087/podbeskidzie-bielsko-bia%C5%82a/fifa21/",
         "name": "Podbeskidzie Bielsko-Bia\u0142a",
         "league": "PKO Ekstraklasa",
         "attack": 64,
@@ -7238,8 +5922,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/432/helsingborg-if/fifa21/",
         "name": "Helsingborg IF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 64,
@@ -7249,8 +5931,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/114004/pge-fks-stal-mielec/fifa21/",
         "name": "PGE FKS Stal Mielec",
         "league": "PKO Ekstraklasa",
         "attack": 63,
@@ -7260,8 +5940,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/113926/salford-city/fifa21/",
         "name": "Salford City",
         "league": "EFL League Two",
         "attack": 63,
@@ -7271,8 +5949,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/113458/ik-sirius/fifa21/",
         "name": "IK Sirius",
         "league": "Sweden Allsvenskan (1)",
         "attack": 63,
@@ -7282,8 +5958,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/110750/fc-uta-arad/fifa21/",
         "name": "FC UTA Arad",
         "league": "Liga I",
         "attack": 63,
@@ -7293,8 +5967,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/110592/fsv-zwickau/fifa21/",
         "name": "FSV Zwickau",
         "league": "3. Liga",
         "attack": 63,
@@ -7304,8 +5976,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/112985/cangzhou-mighty-lions/fifa21/",
         "name": "Cangzhou Mighty Lions",
         "league": "CSL",
         "attack": 63,
@@ -7315,8 +5985,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/114604/macarthur-fc/fifa21/",
         "name": "Macarthur FC",
         "league": "A-League",
         "attack": 63,
@@ -7326,8 +5994,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/114147/hermannstadt/fifa21/",
         "name": "Hermannstadt",
         "league": "Liga I",
         "attack": 62,
@@ -7337,8 +6003,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110588/1-fc-magdeburg/fifa21/",
         "name": "1. FC Magdeburg",
         "league": "3. Liga",
         "attack": 62,
@@ -7348,8 +6012,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1524/ik-start/fifa21/",
         "name": "IK Start",
         "league": "Eliteserien",
         "attack": 62,
@@ -7359,8 +6021,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1936/cheltenham-town/fifa21/",
         "name": "Cheltenham Town",
         "league": "EFL League Two",
         "attack": 62,
@@ -7370,8 +6030,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1446/ac-horsens/fifa21/",
         "name": "AC Horsens",
         "league": "3F Superliga",
         "attack": 62,
@@ -7381,8 +6039,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/1934/swindon-town/fifa21/",
         "name": "Swindon Town",
         "league": "EFL League One",
         "attack": 62,
@@ -7392,8 +6048,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1930/northampton-town/fifa21/",
         "name": "Northampton Town",
         "league": "EFL League One",
         "attack": 62,
@@ -7403,8 +6057,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/113173/%C3%B6stersunds-fk/fifa21/",
         "name": "\u00d6stersunds FK",
         "league": "Sweden Allsvenskan (1)",
         "attack": 62,
@@ -7414,8 +6066,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/306/shamrock-rovers/fifa21/",
         "name": "Shamrock Rovers",
         "league": "SSE Airtricity Lge",
         "attack": 62,
@@ -7425,8 +6075,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1955/rochdale/fifa21/",
         "name": "Rochdale",
         "league": "EFL League One",
         "attack": 61,
@@ -7436,8 +6084,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/111397/melbourne-victory-fc/fifa21/",
         "name": "Melbourne Victory FC",
         "league": "A-League",
         "attack": 67,
@@ -7447,8 +6093,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1476/busan-ipark/fifa21/",
         "name": "Busan I'Park",
         "league": "K League 1",
         "attack": 65,
@@ -7458,8 +6102,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1463/fk-haugesund/fifa21/",
         "name": "FK Haugesund",
         "league": "Eliteserien",
         "attack": 65,
@@ -7469,8 +6111,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/143/exeter-city/fifa21/",
         "name": "Exeter City",
         "league": "EFL League Two",
         "attack": 64,
@@ -7480,8 +6120,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1944/cambridge-united/fifa21/",
         "name": "Cambridge United",
         "league": "EFL League Two",
         "attack": 64,
@@ -7491,8 +6129,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/357/morecambe/fifa21/",
         "name": "Morecambe",
         "league": "EFL League Two",
         "attack": 64,
@@ -7502,8 +6138,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/112916/aragua-f%C3%BAtbol-club/fifa21/",
         "name": "Aragua F\u00fatbol Club",
         "league": "Sul-Americana",
         "attack": 64,
@@ -7513,8 +6147,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1958/leyton-orient/fifa21/",
         "name": "Leyton Orient",
         "league": "EFL League Two",
         "attack": 64,
@@ -7524,8 +6156,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/15048/tranmere-rovers/fifa21/",
         "name": "Tranmere Rovers",
         "league": "EFL League Two",
         "attack": 63,
@@ -7535,8 +6165,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1829/vfb-l%C3%BCbeck/fifa21/",
         "name": "VfB L\u00fcbeck",
         "league": "3. Liga",
         "attack": 63,
@@ -7546,8 +6174,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/111395/brisbane-roar/fifa21/",
         "name": "Brisbane Roar",
         "league": "A-League",
         "attack": 63,
@@ -7557,8 +6183,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/631/ross-county-fc/fifa21/",
         "name": "Ross County FC",
         "league": "Scottish Prem",
         "attack": 63,
@@ -7568,8 +6192,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1920/oldham-athletic/fifa21/",
         "name": "Oldham Athletic",
         "league": "EFL League Two",
         "attack": 63,
@@ -7579,8 +6201,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1755/aalesunds-fk/fifa21/",
         "name": "Aalesunds FK",
         "league": "Eliteserien",
         "attack": 63,
@@ -7590,8 +6210,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/114611/academia-puerto-cabello/fifa21/",
         "name": "Academia Puerto Cabello",
         "league": "Sul-Americana",
         "attack": 63,
@@ -7601,8 +6219,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/361/stevenage/fifa21/",
         "name": "Stevenage",
         "league": "EFL League Two",
         "attack": 63,
@@ -7612,8 +6228,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/112162/jiangsu-fc/fifa21/",
         "name": "Jiangsu FC",
         "league": "CSL",
         "attack": 62,
@@ -7623,8 +6237,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/113743/varbergs-bois/fifa21/",
         "name": "Varbergs BoIS",
         "league": "Sweden Allsvenskan (1)",
         "attack": 62,
@@ -7634,8 +6246,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1928/port-vale/fifa21/",
         "name": "Port Vale",
         "league": "EFL League Two",
         "attack": 62,
@@ -7645,8 +6255,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1480/carlisle-united/fifa21/",
         "name": "Carlisle United",
         "league": "EFL League Two",
         "attack": 62,
@@ -7656,8 +6264,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/561/forest-green-rovers/fifa21/",
         "name": "Forest Green Rovers",
         "league": "EFL League Two",
         "attack": 62,
@@ -7667,8 +6273,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1804/bradford-city/fifa21/",
         "name": "Bradford City",
         "league": "EFL League Two",
         "attack": 62,
@@ -7678,8 +6282,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/184/hamilton-academical-fc/fifa21/",
         "name": "Hamilton Academical FC",
         "league": "Scottish Prem",
         "attack": 62,
@@ -7689,8 +6291,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1949/scunthorpe-united/fifa21/",
         "name": "Scunthorpe United",
         "league": "EFL League Two",
         "attack": 62,
@@ -7700,8 +6300,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/110890/crawley-town/fifa21/",
         "name": "Crawley Town",
         "league": "EFL League Two",
         "attack": 62,
@@ -7711,8 +6309,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/1935/colchester-united/fifa21/",
         "name": "Colchester United",
         "league": "EFL League Two",
         "attack": 61,
@@ -7722,8 +6318,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/112254/newport-county/fifa21/",
         "name": "Newport County",
         "league": "EFL League Two",
         "attack": 60,
@@ -7733,8 +6327,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/286/vaduz/fifa21/",
         "name": "Vaduz",
         "league": "RSL",
         "attack": 60,
@@ -7744,8 +6336,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1940/mansfield-town/fifa21/",
         "name": "Mansfield Town",
         "league": "EFL League Two",
         "attack": 60,
@@ -7755,8 +6345,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/112978/hebei-china-fortune-fc/fifa21/",
         "name": "Hebei China Fortune FC",
         "league": "CSL",
         "attack": 60,
@@ -7766,8 +6354,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/110815/politehnica-ia%C8%99i/fifa21/",
         "name": "Politehnica Ia\u0219i",
         "league": "Liga I",
         "attack": 59,
@@ -7777,8 +6363,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/111396/central-coast-mariners-fc/fifa21/",
         "name": "Central Coast Mariners FC",
         "league": "A-League",
         "attack": 64,
@@ -7788,8 +6372,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/112420/mj%C3%B8ndalen-if/fifa21/",
         "name": "Mj\u00f8ndalen IF",
         "league": "Eliteserien",
         "attack": 62,
@@ -7799,8 +6381,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/112072/mj%C3%A4llby-aif/fifa21/",
         "name": "Mj\u00e4llby AIF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 62,
@@ -7810,8 +6390,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/112222/harrogate-town/fifa21/",
         "name": "Harrogate Town",
         "league": "EFL League Two",
         "attack": 62,
@@ -7821,8 +6399,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1803/walsall/fifa21/",
         "name": "Walsall",
         "league": "EFL League Two",
         "attack": 61,
@@ -7832,8 +6408,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/381/barrow/fifa21/",
         "name": "Barrow",
         "league": "EFL League Two",
         "attack": 61,
@@ -7843,8 +6417,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/112169/falkenbergs-ff/fifa21/",
         "name": "Falkenbergs FF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 61,
@@ -7854,8 +6426,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1954/southend-united/fifa21/",
         "name": "Southend United",
         "league": "EFL League Two",
         "attack": 60,
@@ -7865,8 +6435,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/111398/newcastle-united-jets-fc/fifa21/",
         "name": "Newcastle United Jets FC",
         "league": "A-League",
         "attack": 60,
@@ -7876,8 +6444,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/92/grimsby-town/fifa21/",
         "name": "Grimsby Town",
         "league": "EFL League Two",
         "attack": 60,
@@ -7887,8 +6453,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/115536/cerro-largo/fifa21/",
         "name": "Cerro Largo",
         "league": "Sul-Americana",
         "attack": 56,
@@ -7898,8 +6462,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/112961/qingdao-huanghai/fifa21/",
         "name": "Qingdao Huanghai",
         "league": "CSL",
         "attack": 55,
@@ -7909,8 +6471,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/111774/tianjin-teda-fc/fifa21/",
         "name": "Tianjin TEDA FC",
         "league": "CSL",
         "attack": 61,
@@ -7920,8 +6480,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/423/st-patricks-athletic/fifa21/",
         "name": "St. Patrick's Athletic",
         "league": "SSE Airtricity Lge",
         "attack": 60,
@@ -7931,8 +6489,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/112165/chongqing-dangdai-lifan-fc-swm/fifa21/",
         "name": "Chongqing Dangdai Lifan FC SWM",
         "league": "CSL",
         "attack": 60,
@@ -7942,8 +6498,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/305/bohemian-fc/fifa21/",
         "name": "Bohemian FC",
         "league": "SSE Airtricity Lge",
         "attack": 59,
@@ -7953,8 +6507,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/111466/india/fifa21/",
         "name": "India",
         "league": "Sele\u00e7\u00e3o Masculina",
         "attack": 62,
@@ -7964,8 +6516,6 @@
         "is_national_team": true
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/110992/mineros-de-guayana/fifa21/",
         "name": "Mineros de Guayana",
         "league": "Sul-Americana",
         "attack": 57,
@@ -7975,8 +6525,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/563/sligo-rovers/fifa21/",
         "name": "Sligo Rovers",
         "league": "SSE Airtricity Lge",
         "attack": 53,
@@ -7986,8 +6534,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111131/finn-harps/fifa21/",
         "name": "Finn Harps",
         "league": "SSE Airtricity Lge",
         "attack": 58,
@@ -7997,8 +6543,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/445/derry-city/fifa21/",
         "name": "Derry City",
         "league": "SSE Airtricity Lge",
         "attack": 59,
@@ -8008,8 +6552,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/753/waterford-fc/fifa21/",
         "name": "Waterford FC",
         "league": "SSE Airtricity Lge",
         "attack": 57,
@@ -8019,8 +6561,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/834/shelbourne-fc/fifa21/",
         "name": "Shelbourne FC",
         "league": "SSE Airtricity Lge",
         "attack": 57,
@@ -8030,8 +6570,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/422/cork-city/fifa21/",
         "name": "Cork City",
         "league": "SSE Airtricity Lge",
         "attack": 54,

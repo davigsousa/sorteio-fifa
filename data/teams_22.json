@@ -1,7 +1,5 @@
 [
     {
-        "id": 1,
-        "image": "/pt-br/team/73/paris-saint-germain/",
         "name": "Paris Saint-Germain",
         "league": "France Ligue 1 (1)",
         "attack": 88,
@@ -11,8 +9,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/9/liverpool/",
         "name": "Liverpool",
         "league": "England Premier League (1)",
         "attack": 87,
@@ -22,8 +18,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/10/manchester-city/",
         "name": "Manchester City",
         "league": "England Premier League (1)",
         "attack": 84,
@@ -33,8 +27,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1335/france/",
         "name": "France",
         "league": "International",
         "attack": 88,
@@ -44,8 +36,6 @@
         "is_national_team": true
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1337/germany/",
         "name": "Germany",
         "league": "International",
         "attack": 84,
@@ -55,8 +45,6 @@
         "is_national_team": true
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/21/bayern-m%C3%BCnchen/",
         "name": "Bayern M\u00fcnchen",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 92,
@@ -66,8 +54,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/243/real-madrid/",
         "name": "Real Madrid",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 84,
@@ -77,8 +63,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/5/chelsea/",
         "name": "Chelsea",
         "league": "England Premier League (1)",
         "attack": 82,
@@ -88,8 +72,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1354/portugal/",
         "name": "Portugal",
         "league": "International",
         "attack": 85,
@@ -99,8 +81,6 @@
         "is_national_team": true
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1362/spain/",
         "name": "Spain",
         "league": "International",
         "attack": 83,
@@ -110,8 +90,6 @@
         "is_national_team": true
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/240/atl%C3%A9tico-de-madrid/",
         "name": "Atl\u00e9tico de Madrid",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 85,
@@ -121,8 +99,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/11/manchester-united/",
         "name": "Manchester United",
         "league": "England Premier League (1)",
         "attack": 82,
@@ -132,8 +108,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/45/juventus/",
         "name": "Juventus",
         "league": "Italy Serie A (1)",
         "attack": 82,
@@ -143,8 +117,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1318/england/",
         "name": "England",
         "league": "International",
         "attack": 86,
@@ -154,8 +126,6 @@
         "is_national_team": true
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1369/argentina/",
         "name": "Argentina",
         "league": "International",
         "attack": 86,
@@ -165,8 +135,6 @@
         "is_national_team": true
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1343/italy/",
         "name": "Italy",
         "league": "International",
         "attack": 84,
@@ -176,8 +144,6 @@
         "is_national_team": true
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1325/belgium/",
         "name": "Belgium",
         "league": "International",
         "attack": 83,
@@ -187,8 +153,6 @@
         "is_national_team": true
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/241/fc-barcelona/",
         "name": "FC Barcelona",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 82,
@@ -198,8 +162,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/44/inter/",
         "name": "Inter",
         "league": "Italy Serie A (1)",
         "attack": 82,
@@ -209,8 +171,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/481/sevilla-fc/",
         "name": "Sevilla FC",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 82,
@@ -220,8 +180,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/105035/holland/",
         "name": "Holland",
         "league": "International",
         "attack": 81,
@@ -231,8 +189,6 @@
         "is_national_team": true
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/22/borussia-dortmund/",
         "name": "Borussia Dortmund",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 84,
@@ -242,8 +198,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/18/tottenham-hotspur/",
         "name": "Tottenham Hotspur",
         "league": "England Premier League (1)",
         "attack": 83,
@@ -253,8 +207,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/47/milan/",
         "name": "Milan",
         "league": "Italy Serie A (1)",
         "attack": 81,
@@ -264,8 +216,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/457/real-sociedad/",
         "name": "Real Sociedad",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 82,
@@ -275,8 +225,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/48/napoli/",
         "name": "Napoli",
         "league": "Italy Serie A (1)",
         "attack": 82,
@@ -286,8 +234,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/245/ajax/",
         "name": "Ajax",
         "league": "Holland Eredivisie (1)",
         "attack": 82,
@@ -297,8 +243,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/115845/bergamo-calcio/",
         "name": "Bergamo Calcio",
         "league": "Italy Serie A (1)",
         "attack": 81,
@@ -308,8 +252,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/112172/rb-leipzig/",
         "name": "RB Leipzig",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 80,
@@ -319,8 +261,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/95/leicester-city/",
         "name": "Leicester City",
         "league": "England Premier League (1)",
         "attack": 80,
@@ -330,8 +270,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/483/villarreal-cf/",
         "name": "Villarreal CF",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 79,
@@ -341,8 +279,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/1370/brazil/",
         "name": "Brazil",
         "league": "International",
         "attack": 80,
@@ -352,8 +288,6 @@
         "is_national_team": true
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1/arsenal/",
         "name": "Arsenal",
         "league": "England Premier League (1)",
         "attack": 82,
@@ -363,8 +297,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/32/bayer-04-leverkusen/",
         "name": "Bayer 04 Leverkusen",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 81,
@@ -374,8 +306,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/7/everton/",
         "name": "Everton",
         "league": "England Premier League (1)",
         "attack": 81,
@@ -385,8 +315,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/449/real-betis-balompi%C3%A9/",
         "name": "Real Betis Balompi\u00e9",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 80,
@@ -396,8 +324,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/448/athletic-club-de-bilbao/",
         "name": "Athletic Club de Bilbao",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 80,
@@ -407,8 +333,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/19/west-ham-united/",
         "name": "West Ham United",
         "league": "England Premier League (1)",
         "attack": 80,
@@ -418,8 +342,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/115841/latium/",
         "name": "Latium",
         "league": "Italy Serie A (1)",
         "attack": 79,
@@ -429,8 +351,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/237/sporting-cp/",
         "name": "Sporting CP",
         "league": "Portugal Primeira Liga (1)",
         "attack": 79,
@@ -440,8 +360,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/52/roma/",
         "name": "Roma",
         "league": "Italy Serie A (1)",
         "attack": 79,
@@ -451,8 +369,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1331/denmark/",
         "name": "Denmark",
         "league": "International",
         "attack": 76,
@@ -462,8 +378,6 @@
         "is_national_team": true
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/23/borussia-mgladbach/",
         "name": "Borussia M'gladbach",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 79,
@@ -473,8 +387,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/2/aston-villa/",
         "name": "Aston Villa",
         "league": "England Premier League (1)",
         "attack": 79,
@@ -484,8 +396,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/110/wolverhampton-wanderers/",
         "name": "Wolverhampton Wanderers",
         "league": "England Premier League (1)",
         "attack": 78,
@@ -495,8 +405,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/219/olympique-de-marseille/",
         "name": "Olympique de Marseille",
         "league": "France Ligue 1 (1)",
         "attack": 78,
@@ -506,8 +414,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/66/olympique-lyonnais/",
         "name": "Olympique Lyonnais",
         "league": "France Ligue 1 (1)",
         "attack": 78,
@@ -517,8 +423,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/234/benfica/",
         "name": "Benfica",
         "league": "Portugal Primeira Liga (1)",
         "attack": 77,
@@ -528,8 +432,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/175/vfl-wolfsburg/",
         "name": "VfL Wolfsburg",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 75,
@@ -539,8 +441,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1386/mexico/",
         "name": "Mexico",
         "league": "International",
         "attack": 79,
@@ -550,8 +450,6 @@
         "is_national_team": true
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/69/as-monaco/",
         "name": "AS Monaco",
         "league": "France Ligue 1 (1)",
         "attack": 83,
@@ -561,8 +459,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/452/rcd-espanyol/",
         "name": "RCD Espanyol",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 82,
@@ -572,8 +468,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/461/valencia-cf/",
         "name": "Valencia CF",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 78,
@@ -583,8 +477,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/247/psv/",
         "name": "PSV",
         "league": "Holland Eredivisie (1)",
         "attack": 78,
@@ -594,8 +486,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/110832/granada-cf/",
         "name": "Granada CF",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 77,
@@ -605,8 +495,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/236/fc-porto/",
         "name": "FC Porto",
         "league": "Portugal Primeira Liga (1)",
         "attack": 77,
@@ -616,8 +504,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/10029/tsg-1899-hoffenheim/",
         "name": "TSG 1899 Hoffenheim",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 77,
@@ -627,8 +513,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/13/newcastle-united/",
         "name": "Newcastle United",
         "league": "England Premier League (1)",
         "attack": 77,
@@ -638,8 +522,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1824/eintracht-frankfurt/",
         "name": "Eintracht Frankfurt",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 76,
@@ -649,8 +531,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1322/austria-national-team/",
         "name": "Austria (National team)",
         "league": "International",
         "attack": 81,
@@ -660,8 +540,6 @@
         "is_national_team": true
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1353/poland/",
         "name": "Poland",
         "league": "International",
         "attack": 81,
@@ -671,8 +549,6 @@
         "is_national_team": true
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/1363/sweden/",
         "name": "Sweden",
         "league": "International",
         "attack": 79,
@@ -682,8 +558,6 @@
         "is_national_team": true
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/450/rc-celta-de-vigo/",
         "name": "RC Celta de Vigo",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 80,
@@ -693,8 +567,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1853/levante-ud/",
         "name": "Levante UD",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 79,
@@ -704,8 +576,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/72/ogc-nice/",
         "name": "OGC Nice",
         "league": "France Ligue 1 (1)",
         "attack": 79,
@@ -715,8 +585,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/8/leeds-united/",
         "name": "Leeds United",
         "league": "England Premier League (1)",
         "attack": 78,
@@ -726,8 +594,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1876/river-plate/",
         "name": "River Plate",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 78,
@@ -737,8 +603,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/65/losc-lille/",
         "name": "LOSC Lille",
         "league": "France Ligue 1 (1)",
         "attack": 78,
@@ -748,8 +612,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/479/ca-osasuna/",
         "name": "CA Osasuna",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 78,
@@ -759,8 +621,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/74/stade-rennais/",
         "name": "Stade Rennais",
         "league": "France Ligue 1 (1)",
         "attack": 78,
@@ -770,8 +630,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1799/crystal-palace/",
         "name": "Crystal Palace",
         "league": "England Premier League (1)",
         "attack": 77,
@@ -781,8 +639,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1043/flamengo/",
         "name": "Flamengo",
         "league": "CONMEBOL Libertadores",
         "attack": 77,
@@ -792,8 +648,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1808/brighton-hove-albion/",
         "name": "Brighton & Hove Albion",
         "league": "England Premier League (1)",
         "attack": 77,
@@ -803,8 +657,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1796/burnley/",
         "name": "Burnley",
         "league": "England Premier League (1)",
         "attack": 77,
@@ -814,8 +666,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/110374/fiorentina/",
         "name": "Fiorentina",
         "league": "Italy Serie A (1)",
         "attack": 76,
@@ -825,8 +675,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/280/olympiacos/",
         "name": "Olympiacos",
         "league": "Rest of World",
         "attack": 76,
@@ -836,8 +684,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/17/southampton/",
         "name": "Southampton",
         "league": "England Premier League (1)",
         "attack": 75,
@@ -847,8 +693,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1860/getafe-cf/",
         "name": "Getafe CF",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 75,
@@ -858,8 +702,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/1352/norway/",
         "name": "Norway",
         "league": "International",
         "attack": 79,
@@ -869,8 +711,6 @@
         "is_national_team": true
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1366/ukraine/",
         "name": "Ukraine",
         "league": "International",
         "attack": 77,
@@ -880,8 +720,6 @@
         "is_national_team": true
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1359/scotland/",
         "name": "Scotland",
         "league": "International",
         "attack": 76,
@@ -891,8 +729,6 @@
         "is_national_team": true
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1330/czech-republic/",
         "name": "Czech Republic",
         "league": "International",
         "attack": 75,
@@ -902,8 +738,6 @@
         "is_national_team": true
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/383/palmeiras/",
         "name": "Palmeiras",
         "league": "CONMEBOL Libertadores",
         "attack": 78,
@@ -913,8 +747,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/1970/tigres-u-a-n-l/",
         "name": "Tigres U.A.N.L.",
         "league": "Mexico Liga MX (1)",
         "attack": 78,
@@ -924,8 +756,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/189/bologna/",
         "name": "Bologna",
         "league": "Italy Serie A (1)",
         "attack": 78,
@@ -935,8 +765,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/463/deportivo-alav%C3%A9s/",
         "name": "Deportivo Alav\u00e9s",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 78,
@@ -946,8 +774,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1837/sampdoria/",
         "name": "Sampdoria",
         "league": "Italy Serie A (1)",
         "attack": 77,
@@ -957,8 +783,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/76/rc-strasbourg/",
         "name": "RC Strasbourg",
         "league": "France Ligue 1 (1)",
         "attack": 77,
@@ -968,8 +792,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/231/club-brugge/",
         "name": "Club Brugge",
         "league": "Belgium Pro League (1)",
         "attack": 76,
@@ -979,8 +801,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1032/monterrey/",
         "name": "Monterrey",
         "league": "Mexico Liga MX (1)",
         "attack": 76,
@@ -990,8 +810,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/436/trabzonspor/",
         "name": "Trabzonspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 76,
@@ -1001,8 +819,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/111974/sassuolo/",
         "name": "Sassuolo",
         "league": "Italy Serie A (1)",
         "attack": 76,
@@ -1012,8 +828,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/54/torino/",
         "name": "Torino",
         "league": "Italy Serie A (1)",
         "attack": 76,
@@ -1023,8 +837,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/166/hertha-bsc/",
         "name": "Hertha BSC",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 76,
@@ -1034,8 +846,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/1968/c%C3%A1diz-cf/",
         "name": "C\u00e1diz CF",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 76,
@@ -1045,8 +855,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1795/watford/",
         "name": "Watford",
         "league": "England Premier League (1)",
         "attack": 75,
@@ -1056,8 +864,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/101059/shakhtar-donetsk/",
         "name": "Shakhtar Donetsk",
         "league": "Rest of World",
         "attack": 75,
@@ -1067,8 +873,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/453/rcd-mallorca/",
         "name": "RCD Mallorca",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 75,
@@ -1078,8 +882,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1877/boca-juniors/",
         "name": "Boca Juniors",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 75,
@@ -1089,8 +891,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/64/rc-lens/",
         "name": "RC Lens",
         "league": "France Ligue 1 (1)",
         "attack": 74,
@@ -1100,8 +900,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/246/feyenoord/",
         "name": "Feyenoord",
         "league": "Holland Eredivisie (1)",
         "attack": 74,
@@ -1111,8 +909,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/326/fenerbah%C3%A7e/",
         "name": "Fenerbah\u00e7e",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 74,
@@ -1122,8 +918,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/1035/atl%C3%A9tico-mineiro/",
         "name": "Atl\u00e9tico Mineiro",
         "league": "Brazil Serie A (1)",
         "attack": 74,
@@ -1133,8 +927,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/25/sc-freiburg/",
         "name": "SC Freiburg",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 73,
@@ -1144,8 +936,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/70/montpellier-hsc/",
         "name": "Montpellier HSC",
         "league": "France Ligue 1 (1)",
         "attack": 72,
@@ -1155,8 +945,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/266/slavia-praha/",
         "name": "Slavia Praha",
         "league": "Rest of World",
         "attack": 72,
@@ -1166,8 +954,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1357/russia/",
         "name": "Russia",
         "league": "International",
         "attack": 75,
@@ -1177,8 +963,6 @@
         "is_national_team": true
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1387/united-states/",
         "name": "United States",
         "league": "International",
         "attack": 74,
@@ -1188,8 +972,6 @@
         "is_national_team": true
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/480/rayo-vallecano/",
         "name": "Rayo Vallecano",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 78,
@@ -1199,8 +981,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/267/sparta-praha/",
         "name": "Sparta Praha",
         "league": "Rest of World",
         "attack": 77,
@@ -1210,8 +990,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/144/fulham/",
         "name": "Fulham",
         "league": "England Championship (2)",
         "attack": 77,
@@ -1221,8 +999,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/144/fulham/",
         "name": "Fulham",
         "league": "England Championship (2)",
         "attack": 77,
@@ -1232,8 +1008,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1879/am%C3%A9rica/",
         "name": "Am\u00e9rica",
         "league": "Mexico Liga MX (1)",
         "attack": 77,
@@ -1243,8 +1017,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1925/brentford/",
         "name": "Brentford",
         "league": "England Premier League (1)",
         "attack": 75,
@@ -1254,8 +1026,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/31/1-fc-k%C3%B6ln/",
         "name": "1. FC K\u00f6ln",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 75,
@@ -1265,8 +1035,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/169/1-fsv-mainz-05/",
         "name": "1. FSV Mainz 05",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 75,
@@ -1276,8 +1044,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/453/rcd-mallorca/",
         "name": "RCD Mallorca",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 75,
@@ -1287,8 +1053,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/462/real-valladolid/",
         "name": "Real Valladolid",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 75,
@@ -1298,8 +1062,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/55/udinese/",
         "name": "Udinese",
         "league": "Italy Serie A (1)",
         "attack": 75,
@@ -1309,8 +1071,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/112472/rb-bragantino/",
         "name": "RB Bragantino",
         "league": "CONMEBOL Sudamericana",
         "attack": 74,
@@ -1320,8 +1080,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/468/elche-cf/",
         "name": "Elche CF",
         "league": "Spain Primera Divisi\u00f3n (1)",
         "attack": 74,
@@ -1331,8 +1089,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/86/rangers/",
         "name": "Rangers",
         "league": "Scotland Premiership (1)",
         "attack": 74,
@@ -1342,8 +1098,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/327/be%C5%9Fikta%C5%9F/",
         "name": "Be\u015fikta\u015f",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 74,
@@ -1353,8 +1107,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/101047/dynamo-kyiv/",
         "name": "Dynamo Kyiv",
         "league": "Rest of World",
         "attack": 73,
@@ -1364,8 +1116,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/36/vfb-stuttgart/",
         "name": "VfB Stuttgart",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 73,
@@ -1375,8 +1125,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/1896/braga/",
         "name": "Braga",
         "league": "Portugal Primeira Liga (1)",
         "attack": 73,
@@ -1386,8 +1134,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/100409/fc-augsburg/",
         "name": "FC Augsburg",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 72,
@@ -1397,8 +1143,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1048/internacional/",
         "name": "Internacional",
         "league": "Brazil Serie A (1)",
         "attack": 71,
@@ -1408,8 +1152,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1792/norwich-city/",
         "name": "Norwich City",
         "league": "England Premier League (1)",
         "attack": 71,
@@ -1419,8 +1161,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1367/wales/",
         "name": "Wales",
         "league": "International",
         "attack": 74,
@@ -1430,8 +1170,6 @@
         "is_national_team": true
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1338/greece/",
         "name": "Greece",
         "league": "International",
         "attack": 73,
@@ -1441,8 +1179,6 @@
         "is_national_team": true
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/605/al-hilal/",
         "name": "Al Hilal",
         "league": "Saudi Pro League (1)",
         "attack": 76,
@@ -1452,8 +1188,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110781/le%C3%B3n/",
         "name": "Le\u00f3n",
         "league": "Mexico Liga MX (1)",
         "attack": 76,
@@ -1463,8 +1197,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/101014/istanbul-ba%C5%9Fak%C5%9Fehir-fk/",
         "name": "Istanbul Ba\u015fak\u015fehir FK",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 76,
@@ -1474,8 +1206,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1842/cagliari/",
         "name": "Cagliari",
         "league": "Italy Serie A (1)",
         "attack": 76,
@@ -1485,8 +1215,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1819/as-saint-%C3%A9tienne/",
         "name": "AS Saint-\u00c9tienne",
         "league": "France Ligue 1 (1)",
         "attack": 75,
@@ -1496,8 +1224,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/673/genk/",
         "name": "Genk",
         "league": "Belgium Pro League (1)",
         "attack": 75,
@@ -1507,8 +1233,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/100767/spartak-moskva/",
         "name": "Spartak Moskva",
         "league": "Rest of World",
         "attack": 75,
@@ -1518,8 +1242,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/100765/lokomotiv-moskva/",
         "name": "Lokomotiv Moskva",
         "league": "Rest of World",
         "attack": 75,
@@ -1529,8 +1251,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/211/dinamo-zagreb/",
         "name": "Dinamo Zagreb",
         "league": "Rest of World",
         "attack": 75,
@@ -1540,8 +1260,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/110093/independiente/",
         "name": "Independiente",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 74,
@@ -1551,8 +1269,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/59/girondins-de-bordeaux/",
         "name": "Girondins de Bordeaux",
         "league": "France Ligue 1 (1)",
         "attack": 74,
@@ -1562,8 +1278,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/110468/viktoria-plze%C5%88/",
         "name": "Viktoria Plze\u0148",
         "league": "Rest of World",
         "attack": 74,
@@ -1573,8 +1287,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1831/1-fc-union-berlin/",
         "name": "1. FC Union Berlin",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 74,
@@ -1584,8 +1296,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/110406/col%C3%B3n/",
         "name": "Col\u00f3n",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 74,
@@ -1595,8 +1305,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/278/aek/",
         "name": "AEK",
         "league": "Rest of World",
         "attack": 74,
@@ -1606,8 +1314,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1039/athletico-paranaense/",
         "name": "Athletico Paranaense",
         "league": "Brazil Serie A (1)",
         "attack": 74,
@@ -1617,8 +1323,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/110556/genoa/",
         "name": "Genoa",
         "league": "Italy Serie A (1)",
         "attack": 74,
@@ -1628,8 +1332,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1053/santos/",
         "name": "Santos",
         "league": "Brazil Serie A (1)",
         "attack": 74,
@@ -1639,8 +1341,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1943/bournemouth/",
         "name": "Bournemouth",
         "league": "England Championship (2)",
         "attack": 73,
@@ -1650,8 +1350,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1530/angers-sco/",
         "name": "Angers SCO",
         "league": "France Ligue 1 (1)",
         "attack": 73,
@@ -1661,8 +1359,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/598/s%C3%A3o-paulo/",
         "name": "S\u00e3o Paulo",
         "league": "CONMEBOL Libertadores",
         "attack": 73,
@@ -1672,8 +1368,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/230/antwerp/",
         "name": "Antwerp",
         "league": "Belgium Pro League (1)",
         "attack": 73,
@@ -1683,8 +1377,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/315/cska-moskva/",
         "name": "CSKA Moskva",
         "league": "Rest of World",
         "attack": 73,
@@ -1694,8 +1386,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1878/cruz-azul/",
         "name": "Cruz Azul",
         "league": "Mexico Liga MX (1)",
         "attack": 73,
@@ -1705,8 +1395,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/191/rb-salzburg/",
         "name": "RB Salzburg",
         "league": "Austria Bundesliga (1)",
         "attack": 73,
@@ -1716,8 +1404,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/393/paok/",
         "name": "PAOK",
         "league": "Rest of World",
         "attack": 73,
@@ -1727,8 +1413,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/71/fc-nantes/",
         "name": "FC Nantes",
         "league": "France Ligue 1 (1)",
         "attack": 72,
@@ -1738,8 +1422,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/1041/corinthians/",
         "name": "Corinthians",
         "league": "CONMEBOL Sudamericana",
         "attack": 72,
@@ -1749,8 +1431,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/101085/racing-club-de-avellaneda/",
         "name": "Racing Club de Avellaneda",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 72,
@@ -1760,8 +1440,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/378/stade-brestois-29/",
         "name": "Stade Brestois 29",
         "league": "France Ligue 1 (1)",
         "attack": 72,
@@ -1771,8 +1449,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/467/sd-eibar/",
         "name": "SD Eibar",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 72,
@@ -1782,8 +1458,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/78/celtic/",
         "name": "Celtic",
         "league": "Scotland Premiership (1)",
         "attack": 72,
@@ -1793,8 +1467,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1629/gr%C3%AAmio/",
         "name": "Gr\u00eamio",
         "league": "Brazil Serie A (1)",
         "attack": 72,
@@ -1804,8 +1476,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/68/fc-metz/",
         "name": "FC Metz",
         "league": "France Ligue 1 (1)",
         "attack": 72,
@@ -1815,8 +1485,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/379/stade-de-reims/",
         "name": "Stade de Reims",
         "league": "France Ligue 1 (1)",
         "attack": 71,
@@ -1826,8 +1494,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/205/venezia/",
         "name": "Venezia",
         "league": "Italy Serie A (1)",
         "attack": 71,
@@ -1837,8 +1503,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1794/sheffield-united/",
         "name": "Sheffield United",
         "league": "England Championship (2)",
         "attack": 70,
@@ -1848,8 +1512,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/111455/canada/",
         "name": "Canada",
         "league": "International",
         "attack": 77,
@@ -1859,8 +1521,6 @@
         "is_national_team": true
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1886/hungary/",
         "name": "Hungary",
         "league": "International",
         "attack": 71,
@@ -1870,8 +1530,6 @@
         "is_national_team": true
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1355/republic-of-ireland/",
         "name": "Republic of Ireland",
         "league": "International",
         "attack": 69,
@@ -1881,8 +1539,6 @@
         "is_national_team": true
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1861/ud-almer%C3%ADa/",
         "name": "UD Almer\u00eda",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 76,
@@ -1892,8 +1548,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/110062/girona-fc/",
         "name": "Girona FC",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 75,
@@ -1903,8 +1557,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/567/fluminense/",
         "name": "Fluminense",
         "league": "Brazil Serie A (1)",
         "attack": 74,
@@ -1914,8 +1566,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/111052/fortaleza/",
         "name": "Fortaleza",
         "league": "Brazil Serie A (1)",
         "attack": 74,
@@ -1925,8 +1575,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1746/empoli/",
         "name": "Empoli",
         "league": "Italy Serie A (1)",
         "attack": 73,
@@ -1936,8 +1584,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/34/fc-schalke-04/",
         "name": "FC Schalke 04",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 73,
@@ -1947,8 +1593,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/110373/salernitana/",
         "name": "Salernitana",
         "league": "Italy Serie A (1)",
         "attack": 73,
@@ -1958,8 +1602,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/101088/v%C3%A9lez-sarsfield/",
         "name": "V\u00e9lez Sarsfield",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 73,
@@ -1969,8 +1611,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1906/az/",
         "name": "AZ",
         "league": "Holland Eredivisie (1)",
         "attack": 72,
@@ -1980,8 +1620,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/229/anderlecht/",
         "name": "Anderlecht",
         "league": "Belgium Pro League (1)",
         "attack": 72,
@@ -1991,8 +1629,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/674/gent/",
         "name": "Gent",
         "league": "Belgium Pro League (1)",
         "attack": 72,
@@ -2002,8 +1638,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/109/west-bromwich-albion/",
         "name": "West Bromwich Albion",
         "league": "England Championship (2)",
         "attack": 72,
@@ -2013,8 +1647,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1884/panathinaikos/",
         "name": "Panathinaikos",
         "league": "Rest of World",
         "attack": 72,
@@ -2024,8 +1656,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/111117/fatih-karag%C3%BCmr%C3%BCk-s-k/",
         "name": "Fatih Karag\u00fcmr\u00fck S.K.",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 72,
@@ -2035,8 +1665,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/38/werder-bremen/",
         "name": "Werder Bremen",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 72,
@@ -2046,8 +1674,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/294/estac-troyes/",
         "name": "ESTAC Troyes",
         "league": "France Ligue 1 (1)",
         "attack": 71,
@@ -2057,8 +1683,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/111059/cear%C3%A1/",
         "name": "Cear\u00e1",
         "league": "Brazil Serie A (1)",
         "attack": 71,
@@ -2068,8 +1692,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/159/arminia-bielefeld/",
         "name": "Arminia Bielefeld",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 71,
@@ -2079,8 +1701,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/112119/atl%C3%A9tico-goianiense/",
         "name": "Atl\u00e9tico Goianiense",
         "league": "Brazil Serie A (1)",
         "attack": 71,
@@ -2090,8 +1710,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/160/vfl-bochum/",
         "name": "VfL Bochum",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 70,
@@ -2101,8 +1719,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/113142/alanyaspor/",
         "name": "Alanyaspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 69,
@@ -2112,8 +1728,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1356/romania/",
         "name": "Romania",
         "league": "International",
         "attack": 71,
@@ -2123,8 +1737,6 @@
         "is_national_team": true
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/112139/al-nassr/",
         "name": "Al Nassr",
         "league": "Saudi Pro League (1)",
         "attack": 79,
@@ -2134,8 +1746,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111144/seattle-sounders/",
         "name": "Seattle Sounders",
         "league": "USA Major League Soccer (1)",
         "attack": 74,
@@ -2145,8 +1755,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1887/vit%C3%B3ria-de-guimar%C3%A3es/",
         "name": "Vit\u00f3ria de Guimar\u00e3es",
         "league": "Portugal Primeira Liga (1)",
         "attack": 74,
@@ -2156,8 +1764,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110395/lan%C3%BAs/",
         "name": "Lan\u00fas",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 73,
@@ -2167,8 +1773,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/101083/estudiantes-de-la-plata/",
         "name": "Estudiantes de La Plata",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 73,
@@ -2178,8 +1782,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/217/fc-lorient/",
         "name": "FC Lorient",
         "league": "France Ligue 1 (1)",
         "attack": 73,
@@ -2189,8 +1791,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/687/columbus-crew/",
         "name": "Columbus Crew",
         "league": "USA Major League Soccer (1)",
         "attack": 73,
@@ -2200,8 +1800,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/101100/atl%C3%A9tico-nacional/",
         "name": "Atl\u00e9tico Nacional",
         "league": "CONMEBOL Libertadores",
         "attack": 73,
@@ -2211,8 +1809,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/459/real-sporting-de-gij%C3%B3n/",
         "name": "Real Sporting de Gij\u00f3n",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 73,
@@ -2222,8 +1818,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/110580/rosario-central/",
         "name": "Rosario Central",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 73,
@@ -2233,8 +1827,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1882/toluca/",
         "name": "Toluca",
         "league": "Mexico Liga MX (1)",
         "attack": 73,
@@ -2244,8 +1836,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/101016/adana-demirspor/",
         "name": "Adana Demirspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 72,
@@ -2255,8 +1845,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1815/clermont-foot/",
         "name": "Clermont Foot",
         "league": "France Ligue 1 (1)",
         "attack": 72,
@@ -2266,8 +1854,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/110147/pachuca/",
         "name": "Pachuca",
         "league": "Mexico Liga MX (1)",
         "attack": 72,
@@ -2277,8 +1863,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1815/clermont-foot/",
         "name": "Clermont Foot",
         "league": "France Ligue 1 (1)",
         "attack": 72,
@@ -2288,8 +1872,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/111678/club-tijuana/",
         "name": "Club Tijuana",
         "league": "Mexico Liga MX (1)",
         "attack": 72,
@@ -2299,8 +1881,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/900/bsc-young-boys/",
         "name": "BSC Young Boys",
         "league": "Switzerland Super League (1)",
         "attack": 72,
@@ -2310,8 +1890,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/110147/pachuca/",
         "name": "Pachuca",
         "league": "Mexico Liga MX (1)",
         "attack": 72,
@@ -2321,8 +1899,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/101114/atlas/",
         "name": "Atlas",
         "league": "Mexico Liga MX (1)",
         "attack": 72,
@@ -2332,8 +1908,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/113142/alanyaspor/",
         "name": "Alanyaspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 71,
@@ -2343,8 +1917,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/115530/cuiab%C3%A1/",
         "name": "Cuiab\u00e1",
         "league": "Brazil Serie A (1)",
         "attack": 71,
@@ -2354,8 +1926,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/111710/defensa-y-justicia/",
         "name": "Defensa y Justicia",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 71,
@@ -2365,8 +1935,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/1598/bahia/",
         "name": "Bahia",
         "league": "Brazil Serie A (1)",
         "attack": 71,
@@ -2376,8 +1944,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/165/spvgg-greuther-f%C3%BCrth/",
         "name": "SpVgg Greuther F\u00fcrth",
         "league": "Germany 1. Bundesliga (1)",
         "attack": 71,
@@ -2387,8 +1953,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/14/nottingham-forest/",
         "name": "Nottingham Forest",
         "league": "England Championship (2)",
         "attack": 71,
@@ -2398,8 +1962,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/819/fc-k%C3%B8benhavn/",
         "name": "FC K\u00f8benhavn",
         "league": "Denmark Superliga (1)",
         "attack": 71,
@@ -2409,8 +1971,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/15/queens-park-rangers/",
         "name": "Queens Park Rangers",
         "league": "England Championship (2)",
         "attack": 71,
@@ -2420,8 +1980,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/110741/la-spezia/",
         "name": "La Spezia",
         "league": "Italy Serie A (1)",
         "attack": 71,
@@ -2431,8 +1989,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/3/blackburn-rovers/",
         "name": "Blackburn Rovers",
         "league": "England Championship (2)",
         "attack": 70,
@@ -2442,8 +1998,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/110144/santos-laguna/",
         "name": "Santos Laguna",
         "league": "Mexico Liga MX (1)",
         "attack": 70,
@@ -2453,8 +2007,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1880/guadalajara/",
         "name": "Guadalajara",
         "league": "Mexico Liga MX (1)",
         "attack": 70,
@@ -2464,8 +2016,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/50/parma/",
         "name": "Parma",
         "league": "Rest of World",
         "attack": 70,
@@ -2475,8 +2025,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1903/fc-utrecht/",
         "name": "FC Utrecht",
         "league": "Holland Eredivisie (1)",
         "attack": 69,
@@ -2486,8 +2034,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1874/ferencv%C3%A1rosi-tc/",
         "name": "Ferencv\u00e1rosi TC",
         "league": "Rest of World",
         "attack": 69,
@@ -2497,8 +2043,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/28/hamburger-sv/",
         "name": "Hamburger SV",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 69,
@@ -2508,8 +2052,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/111008/libertad/",
         "name": "Libertad",
         "league": "CONMEBOL Sudamericana",
         "attack": 69,
@@ -2519,8 +2061,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1334/finland/",
         "name": "Finland",
         "league": "International",
         "attack": 72,
@@ -2530,8 +2070,6 @@
         "is_national_team": true
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1415/australia/",
         "name": "Australia",
         "league": "International",
         "attack": 70,
@@ -2541,8 +2079,6 @@
         "is_national_team": true
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/112885/atlanta-united-fc/",
         "name": "Atlanta United FC",
         "league": "USA Major League Soccer (1)",
         "attack": 78,
@@ -2552,8 +2088,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/607/al-ittihad/",
         "name": "Al Ittihad",
         "league": "Saudi Pro League (1)",
         "attack": 76,
@@ -2563,8 +2097,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/111140/portland-timbers/",
         "name": "Portland Timbers",
         "league": "USA Major League Soccer (1)",
         "attack": 73,
@@ -2574,8 +2106,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/2014/union-saint-gilloise/",
         "name": "Union Saint-Gilloise",
         "league": "Belgium Pro League (1)",
         "attack": 73,
@@ -2585,8 +2115,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/691/new-england-revolution/",
         "name": "New England Revolution",
         "league": "USA Major League Soccer (1)",
         "attack": 73,
@@ -2596,8 +2124,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/110150/gallos-blancos-de-quer%C3%A9taro/",
         "name": "Gallos Blancos de Quer\u00e9taro",
         "league": "Mexico Liga MX (1)",
         "attack": 73,
@@ -2607,8 +2133,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/100851/fc-cartagena/",
         "name": "FC Cartagena",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 72,
@@ -2618,8 +2142,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/112678/atl%C3%A9tico-de-san-luis/",
         "name": "Atl\u00e9tico de San Luis",
         "league": "Mexico Liga MX (1)",
         "attack": 72,
@@ -2629,8 +2151,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1793/reading/",
         "name": "Reading",
         "league": "England Championship (2)",
         "attack": 72,
@@ -2640,8 +2160,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/12/middlesbrough/",
         "name": "Middlesbrough",
         "league": "England Championship (2)",
         "attack": 72,
@@ -2651,8 +2169,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1477/jeonbuk-hyundai-motors/",
         "name": "Jeonbuk Hyundai Motors",
         "league": "Korea K League 1 (1)",
         "attack": 72,
@@ -2662,8 +2178,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/260/cd-tenerife/",
         "name": "CD Tenerife",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 72,
@@ -2673,8 +2187,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/101020/kayserispor/",
         "name": "Kayserispor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 72,
@@ -2684,8 +2196,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/110981/barcelona-sc-guayaquil/",
         "name": "Barcelona SC Guayaquil",
         "league": "CONMEBOL Libertadores",
         "attack": 72,
@@ -2695,8 +2205,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/101041/sivasspor/",
         "name": "Sivasspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 71,
@@ -2706,8 +2214,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/101026/g%C3%B6ztepe/",
         "name": "G\u00f6ztepe",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 71,
@@ -2717,8 +2223,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/472/ud-las-palmas/",
         "name": "UD Las Palmas",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 71,
@@ -2728,8 +2232,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110636/fortuna-d%C3%BCsseldorf/",
         "name": "Fortuna D\u00fcsseldorf",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 71,
@@ -2739,8 +2241,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/101037/%C3%A7aykur-rizespor/",
         "name": "\u00c7aykur Rizespor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 71,
@@ -2750,8 +2250,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1909/vitesse/",
         "name": "Vitesse",
         "league": "Holland Eredivisie (1)",
         "attack": 71,
@@ -2761,8 +2259,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/111730/kawasaki-frontale/",
         "name": "Kawasaki Frontale",
         "league": "Japan J1 League (1)",
         "attack": 71,
@@ -2772,8 +2268,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1898/boavista/",
         "name": "Boavista",
         "league": "Portugal Primeira Liga (1)",
         "attack": 71,
@@ -2783,8 +2277,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/1516/fc-midtjylland/",
         "name": "FC Midtjylland",
         "league": "Denmark Superliga (1)",
         "attack": 70,
@@ -2794,8 +2286,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/100851/fc-cartagena/",
         "name": "FC Cartagena",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 70,
@@ -2805,8 +2295,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1806/stoke-city/",
         "name": "Stoke City",
         "league": "England Championship (2)",
         "attack": 70,
@@ -2816,8 +2304,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1960/swansea-city/",
         "name": "Swansea City",
         "league": "England Championship (2)",
         "attack": 70,
@@ -2827,8 +2313,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/111041/juventude/",
         "name": "Juventude",
         "league": "Brazil Serie A (1)",
         "attack": 70,
@@ -2838,8 +2322,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1800/coventry-city/",
         "name": "Coventry City",
         "league": "England Championship (2)",
         "attack": 70,
@@ -2849,8 +2331,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1013/san-lorenzo-de-almagro/",
         "name": "San Lorenzo de Almagro",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 70,
@@ -2860,8 +2340,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1888/gil-vicente-fc/",
         "name": "Gil Vicente FC",
         "league": "Portugal Primeira Liga (1)",
         "attack": 70,
@@ -2871,8 +2349,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/573/m%C3%A1laga-cf/",
         "name": "M\u00e1laga CF",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 70,
@@ -2882,8 +2358,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/101028/hatayspor/",
         "name": "Hatayspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 70,
@@ -2893,8 +2367,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/112670/talleres-de-c%C3%B3rdoba/",
         "name": "Talleres de C\u00f3rdoba",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 70,
@@ -2904,8 +2376,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/111019/argentinos-juniors/",
         "name": "Argentinos Juniors",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 70,
@@ -2915,8 +2385,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/111339/kas%C4%B1mpa%C5%9Fa/",
         "name": "Kas\u0131mpa\u015fa",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 70,
@@ -2926,8 +2394,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/88/birmingham-city/",
         "name": "Birmingham City",
         "league": "England Championship (2)",
         "attack": 70,
@@ -2937,8 +2403,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/101108/olimpia-asunci%C3%B3n/",
         "name": "Olimpia Asunci\u00f3n",
         "league": "CONMEBOL Libertadores",
         "attack": 70,
@@ -2948,8 +2412,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/113134/fc-ju%C3%A1rez/",
         "name": "FC Ju\u00e1rez",
         "league": "Mexico Liga MX (1)",
         "attack": 70,
@@ -2959,8 +2421,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1892/pa%C3%A7os-de-ferreira/",
         "name": "Pa\u00e7os de Ferreira",
         "league": "Portugal Primeira Liga (1)",
         "attack": 69,
@@ -2970,8 +2430,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/112809/famalic%C3%A3o/",
         "name": "Famalic\u00e3o",
         "league": "Portugal Primeira Liga (1)",
         "attack": 69,
@@ -2981,8 +2439,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/112134/philadelphia-union/",
         "name": "Philadelphia Union",
         "league": "USA Major League Soccer (1)",
         "attack": 69,
@@ -2992,8 +2448,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/100888/cd-legan%C3%A9s/",
         "name": "CD Legan\u00e9s",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 69,
@@ -3003,8 +2457,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/111811/ac-monza/",
         "name": "AC Monza",
         "league": "Rest of World",
         "attack": 69,
@@ -3014,8 +2466,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/110776/gaziantep-fk/",
         "name": "Gaziantep FK",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 69,
@@ -3025,8 +2475,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1893/mar%C3%ADtimo/",
         "name": "Mar\u00edtimo",
         "league": "Portugal Primeira Liga (1)",
         "attack": 69,
@@ -3036,8 +2484,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/244/real-zaragoza/",
         "name": "Real Zaragoza",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 69,
@@ -3047,8 +2493,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/97/millwall/",
         "name": "Millwall",
         "league": "England Championship (2)",
         "attack": 69,
@@ -3058,8 +2502,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/10031/portimonense/",
         "name": "Portimonense",
         "league": "Portugal Primeira Liga (1)",
         "attack": 68,
@@ -3069,8 +2511,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1801/preston-north-end/",
         "name": "Preston North End",
         "league": "England Championship (2)",
         "attack": 68,
@@ -3080,8 +2520,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1438/santa-clara/",
         "name": "Santa Clara",
         "league": "Portugal Primeira Liga (1)",
         "attack": 68,
@@ -3091,8 +2529,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/320/malm%C3%B6-ff/",
         "name": "Malm\u00f6 FF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 68,
@@ -3102,8 +2538,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/110975/universidad-cat%C3%B3lica/",
         "name": "Universidad Cat\u00f3lica",
         "league": "CONMEBOL Libertadores",
         "attack": 68,
@@ -3113,8 +2547,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/232/standard-li%C3%A8ge/",
         "name": "Standard Li\u00e8ge",
         "league": "Belgium Pro League (1)",
         "attack": 67,
@@ -3124,8 +2556,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/110839/sd-huesca/",
         "name": "SD Huesca",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 66,
@@ -3135,8 +2565,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1413/china-pr/",
         "name": "China PR",
         "league": "International",
         "attack": 74,
@@ -3146,8 +2574,6 @@
         "is_national_team": true
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1341/iceland/",
         "name": "Iceland",
         "league": "International",
         "attack": 71,
@@ -3157,8 +2583,6 @@
         "is_national_team": true
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/110081/northern-ireland/",
         "name": "Northern Ireland",
         "league": "International",
         "attack": 66,
@@ -3168,8 +2592,6 @@
         "is_national_team": true
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/57/aj-auxerre/",
         "name": "AJ Auxerre",
         "league": "France Ligue 2 (2)",
         "attack": 73,
@@ -3179,8 +2601,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/112893/inter-miami/",
         "name": "Inter Miami",
         "league": "USA Major League Soccer (1)",
         "attack": 73,
@@ -3190,8 +2610,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/111575/urawa-reds/",
         "name": "Urawa Reds",
         "league": "Japan J1 League (1)",
         "attack": 72,
@@ -3201,8 +2619,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110404/banfield/",
         "name": "Banfield",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 71,
@@ -3212,8 +2628,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/2023/sd-ponferradina/",
         "name": "SD Ponferradina",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 71,
@@ -3223,8 +2637,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/695/fc-dallas/",
         "name": "FC Dallas",
         "league": "USA Major League Soccer (1)",
         "attack": 71,
@@ -3234,8 +2646,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/113259/yeni-malatyaspor/",
         "name": "Yeni Malatyaspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 71,
@@ -3245,8 +2655,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/696/sporting-kc/",
         "name": "Sporting KC",
         "league": "USA Major League Soccer (1)",
         "attack": 71,
@@ -3256,8 +2664,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/110930/orlando-pirates/",
         "name": "Orlando Pirates",
         "league": "Rest of World",
         "attack": 71,
@@ -3267,8 +2673,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/111539/vizela/",
         "name": "Vizela",
         "league": "Portugal Primeira Liga (1)",
         "attack": 70,
@@ -3278,8 +2682,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/111674/al-shabab/",
         "name": "Al Shabab",
         "league": "Saudi Pro League (1)",
         "attack": 70,
@@ -3289,8 +2691,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/873/lech-pozna%C5%84/",
         "name": "Lech Pozna\u0144",
         "league": "Poland Ekstraklasa (1)",
         "attack": 70,
@@ -3300,8 +2700,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/114162/nashville-sc/",
         "name": "Nashville SC",
         "league": "USA Major League Soccer (1)",
         "attack": 70,
@@ -3311,8 +2709,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/113981/ud-ibiza/",
         "name": "UD Ibiza",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 70,
@@ -3322,8 +2718,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/112606/orlando-city-sc/",
         "name": "Orlando City SC",
         "league": "USA Major League Soccer (1)",
         "attack": 70,
@@ -3333,8 +2727,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/112026/benevento/",
         "name": "Benevento",
         "league": "Rest of World",
         "attack": 70,
@@ -3344,8 +2736,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/110827/real-oviedo/",
         "name": "Real Oviedo",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 70,
@@ -3355,8 +2745,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/15005/zulte-waregem/",
         "name": "Zulte Waregem",
         "league": "Belgium Pro League (1)",
         "attack": 70,
@@ -3366,8 +2754,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/100087/oh-leuven/",
         "name": "OH Leuven",
         "league": "Belgium Pro League (1)",
         "attack": 70,
@@ -3377,8 +2763,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/101033/konyaspor/",
         "name": "Konyaspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 70,
@@ -3388,8 +2772,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1881/pumas-u-n-a-m/",
         "name": "Pumas U.N.A.M.",
         "league": "Mexico Liga MX (1)",
         "attack": 70,
@@ -3399,8 +2781,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/634/fortuna-sittard/",
         "name": "Fortuna Sittard",
         "league": "Holland Eredivisie (1)",
         "attack": 70,
@@ -3410,8 +2790,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/110329/fc-st-pauli/",
         "name": "FC St. Pauli",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 70,
@@ -3421,8 +2799,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/347/lecce/",
         "name": "Lecce",
         "league": "Rest of World",
         "attack": 70,
@@ -3432,8 +2808,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/224/n%C3%AEmes-olympique/",
         "name": "N\u00eemes Olympique",
         "league": "France Ligue 2 (2)",
         "attack": 69,
@@ -3443,8 +2817,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1900/moreirense/",
         "name": "Moreirense",
         "league": "Portugal Primeira Liga (1)",
         "attack": 69,
@@ -3454,8 +2826,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/111708/atl%C3%A9tico-tucum%C3%A1n/",
         "name": "Atl\u00e9tico Tucum\u00e1n",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 69,
@@ -3465,8 +2835,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/111235/1-fc-heidenheim/",
         "name": "1. FC Heidenheim",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 69,
@@ -3476,8 +2844,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/1919/bristol-city/",
         "name": "Bristol City",
         "league": "England Championship (2)",
         "attack": 69,
@@ -3487,8 +2853,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/110724/kv-mechelen/",
         "name": "KV Mechelen",
         "league": "Belgium Pro League (1)",
         "attack": 69,
@@ -3498,8 +2862,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/110502/sv-darmstadt-98/",
         "name": "SV Darmstadt 98",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 69,
@@ -3509,8 +2871,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/101101/junior-de-barranquilla/",
         "name": "Junior de Barranquilla",
         "league": "CONMEBOL Libertadores",
         "attack": 69,
@@ -3520,8 +2880,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/485/hannover-96/",
         "name": "Hannover 96",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 69,
@@ -3531,8 +2889,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/1889/belenenses/",
         "name": "Belenenses",
         "league": "Portugal Primeira Liga (1)",
         "attack": 69,
@@ -3542,8 +2898,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1832/karlsruher-sc/",
         "name": "Karlsruher SC",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 69,
@@ -3553,8 +2907,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/682/oostende/",
         "name": "Oostende",
         "league": "Belgium Pro League (1)",
         "attack": 69,
@@ -3564,8 +2916,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/112828/new-york-city-fc/",
         "name": "New York City FC",
         "league": "USA Major League Soccer (1)",
         "attack": 69,
@@ -3575,8 +2925,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/100761/fcsb/",
         "name": "FCSB",
         "league": "Romania Liga I (1)",
         "attack": 69,
@@ -3586,8 +2934,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1923/luton-town/",
         "name": "Luton Town",
         "league": "England Championship (2)",
         "attack": 69,
@@ -3597,8 +2943,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/101084/gimnasia-y-esgrima-la-plata/",
         "name": "Gimnasia y Esgrima La Plata",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 69,
@@ -3608,8 +2952,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/110929/kaizer-chiefs/",
         "name": "Kaizer Chiefs",
         "league": "Rest of World",
         "attack": 69,
@@ -3619,8 +2961,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/101121/necaxa/",
         "name": "Necaxa",
         "league": "Mexico Liga MX (1)",
         "attack": 69,
@@ -3630,8 +2970,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1939/huddersfield-town/",
         "name": "Huddersfield Town",
         "league": "England Championship (2)",
         "attack": 68,
@@ -3641,8 +2979,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/10020/estoril/",
         "name": "Estoril",
         "league": "Portugal Primeira Liga (1)",
         "attack": 68,
@@ -3652,8 +2988,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1908/fc-twente/",
         "name": "FC Twente",
         "league": "Holland Eredivisie (1)",
         "attack": 68,
@@ -3663,8 +2997,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/254/rapid-wien/",
         "name": "Rapid Wien",
         "league": "Austria Bundesliga (1)",
         "attack": 68,
@@ -3674,8 +3006,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/171/1-fc-n%C3%BCrnberg/",
         "name": "1. FC N\u00fcrnberg",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 68,
@@ -3685,8 +3015,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/111716/uni%C3%B3n-de-santa-fe/",
         "name": "Uni\u00f3n de Santa Fe",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 68,
@@ -3696,8 +3024,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/10030/sc-paderborn-07/",
         "name": "SC Paderborn 07",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 68,
@@ -3707,8 +3033,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/576/holstein-kiel/",
         "name": "Holstein Kiel",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 68,
@@ -3718,8 +3042,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/252/lask/",
         "name": "LASK",
         "league": "Austria Bundesliga (1)",
         "attack": 68,
@@ -3729,8 +3051,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/112516/tondela/",
         "name": "Tondela",
         "league": "Portugal Primeira Liga (1)",
         "attack": 68,
@@ -3740,8 +3060,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/670/charleroi/",
         "name": "Charleroi",
         "league": "Belgium Pro League (1)",
         "attack": 67,
@@ -3751,8 +3069,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110152/puebla/",
         "name": "Puebla",
         "league": "Mexico Liga MX (1)",
         "attack": 67,
@@ -3762,8 +3078,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1816/amiens-sc/",
         "name": "Amiens SC",
         "league": "France Ligue 2 (2)",
         "attack": 67,
@@ -3773,8 +3087,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/110396/newells-old-boys/",
         "name": "Newell's Old Boys",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 67,
@@ -3784,8 +3096,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1961/cardiff-city/",
         "name": "Cardiff City",
         "league": "England Championship (2)",
         "attack": 67,
@@ -3795,8 +3105,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/91/derby-county/",
         "name": "Derby County",
         "league": "England Championship (2)",
         "attack": 66,
@@ -3806,8 +3114,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/209/sturm-graz/",
         "name": "Sturm Graz",
         "league": "Austria Bundesliga (1)",
         "attack": 66,
@@ -3817,8 +3123,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/111701/al-ain-fc-uae/",
         "name": "Al Ain FC (UAE)",
         "league": "Rest of World",
         "attack": 75,
@@ -3828,8 +3132,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/697/los-angeles-galaxy/",
         "name": "Los Angeles Galaxy",
         "league": "USA Major League Soccer (1)",
         "attack": 74,
@@ -3839,8 +3141,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111138/minnesota-united-fc/",
         "name": "Minnesota United FC",
         "league": "USA Major League Soccer (1)",
         "attack": 72,
@@ -3850,8 +3150,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/111139/cf-montr%C3%A9al/",
         "name": "CF Montr\u00e9al",
         "league": "USA Major League Soccer (1)",
         "attack": 71,
@@ -3861,8 +3159,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/100135/apoel-nicosia-fc/",
         "name": "APOEL Nicosia FC",
         "league": "Rest of World",
         "attack": 71,
@@ -3872,8 +3168,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/112393/al-taawoun/",
         "name": "Al Taawoun",
         "league": "Saudi Pro League (1)",
         "attack": 71,
@@ -3883,8 +3177,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112713/sarmiento/",
         "name": "Sarmiento",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 71,
@@ -3894,8 +3186,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/101147/kashima-antlers/",
         "name": "Kashima Antlers",
         "league": "Japan J1 League (1)",
         "attack": 70,
@@ -3905,8 +3195,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/112476/chapecoense/",
         "name": "Chapecoense",
         "league": "Brazil Serie A (1)",
         "attack": 70,
@@ -3916,8 +3204,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/110178/sv-sandhausen/",
         "name": "SV Sandhausen",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 70,
@@ -3927,8 +3213,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/114899/mazatl%C3%A1n-fc/",
         "name": "Mazatl\u00e1n FC",
         "league": "Mexico Liga MX (1)",
         "attack": 70,
@@ -3938,8 +3222,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/111707/aldosivi/",
         "name": "Aldosivi",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 70,
@@ -3949,8 +3231,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/111065/real-salt-lake/",
         "name": "Real Salt Lake",
         "league": "USA Major League Soccer (1)",
         "attack": 70,
@@ -3960,8 +3240,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/101146/vissel-kobe/",
         "name": "Vissel Kobe",
         "league": "Japan J1 League (1)",
         "attack": 69,
@@ -3971,8 +3249,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/112513/arouca/",
         "name": "Arouca",
         "league": "Portugal Primeira Liga (1)",
         "attack": 69,
@@ -3982,8 +3258,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/112120/giresunspor/",
         "name": "Giresunspor",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 69,
@@ -3993,8 +3267,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/101151/yokohama-f-marinos/",
         "name": "Yokohama F\u00b7Marinos",
         "league": "Japan J1 League (1)",
         "attack": 69,
@@ -4004,8 +3276,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111706/godoy-cruz/",
         "name": "Godoy Cruz",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 69,
@@ -4015,8 +3285,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/324/servette-fc/",
         "name": "Servette FC",
         "league": "Switzerland Super League (1)",
         "attack": 69,
@@ -4026,8 +3294,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/112689/platense/",
         "name": "Platense",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 69,
@@ -4037,8 +3303,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/101150/fc-tokyo/",
         "name": "FC Tokyo",
         "league": "Japan J1 League (1)",
         "attack": 69,
@@ -4048,8 +3312,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/101112/vancouver-whitecaps/",
         "name": "Vancouver Whitecaps",
         "league": "USA Major League Soccer (1)",
         "attack": 69,
@@ -4059,8 +3321,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/2013/eupen/",
         "name": "Eupen",
         "league": "Belgium Pro League (1)",
         "attack": 69,
@@ -4070,8 +3330,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/101006/altay/",
         "name": "Altay",
         "league": "Turkey S\u00fcper Lig (1)",
         "attack": 69,
@@ -4081,8 +3339,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/10846/burgos-cf/",
         "name": "Burgos CF",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 69,
@@ -4092,8 +3348,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/210/sm-caen/",
         "name": "SM Caen",
         "league": "France Ligue 2 (2)",
         "attack": 69,
@@ -4103,8 +3357,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/111928/san-jose-earthquakes/",
         "name": "San Jose Earthquakes",
         "league": "USA Major League Soccer (1)",
         "attack": 68,
@@ -4114,8 +3366,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/112540/shanghai-port/",
         "name": "Shanghai Port",
         "league": "China Super League (1)",
         "attack": 68,
@@ -4125,8 +3375,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/80/heart-of-midlothian/",
         "name": "Heart of Midlothian",
         "league": "Scotland Premiership (1)",
         "attack": 68,
@@ -4136,8 +3384,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/112092/nagoya-grampus/",
         "name": "Nagoya Grampus",
         "league": "Japan J1 League (1)",
         "attack": 68,
@@ -4147,8 +3393,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/1910/nec-nijmegen/",
         "name": "NEC Nijmegen",
         "league": "Holland Eredivisie (1)",
         "attack": 68,
@@ -4158,8 +3402,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1750/cercle-brugge/",
         "name": "Cercle Brugge",
         "league": "Belgium Pro League (1)",
         "attack": 68,
@@ -4169,8 +3411,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/114385/cfr-cluj/",
         "name": "CFR Cluj",
         "league": "Romania Liga I (1)",
         "attack": 68,
@@ -4180,8 +3420,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1932/barnsley/",
         "name": "Barnsley",
         "league": "England Championship (2)",
         "attack": 68,
@@ -4191,8 +3429,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/820/aalborg-bk/",
         "name": "Aalborg BK",
         "league": "Denmark Superliga (1)",
         "attack": 68,
@@ -4202,8 +3438,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/675/beerschot/",
         "name": "Beerschot",
         "league": "Belgium Pro League (1)",
         "attack": 68,
@@ -4213,8 +3447,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/110569/dijon-fco/",
         "name": "Dijon FCO",
         "league": "France Ligue 2 (2)",
         "attack": 68,
@@ -4224,8 +3456,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/543/jahn-regensburg/",
         "name": "Jahn Regensburg",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 68,
@@ -4235,8 +3465,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/112965/central-c%C3%B3rdoba/",
         "name": "Central C\u00f3rdoba",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 68,
@@ -4246,8 +3474,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1952/hull-city/",
         "name": "Hull City",
         "league": "England Championship (2)",
         "attack": 68,
@@ -4257,8 +3483,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1871/legia-warszawa/",
         "name": "Legia Warszawa",
         "league": "Poland Ekstraklasa (1)",
         "attack": 68,
@@ -4268,8 +3492,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/114161/austin-fc/",
         "name": "Austin FC",
         "league": "USA Major League Soccer (1)",
         "attack": 67,
@@ -4279,8 +3501,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/694/colorado-rapids/",
         "name": "Colorado Rapids",
         "league": "USA Major League Soccer (1)",
         "attack": 67,
@@ -4290,8 +3510,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/688/d-c-united/",
         "name": "D.C. United",
         "league": "USA Major League Soccer (1)",
         "attack": 67,
@@ -4301,8 +3519,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1809/toulouse-fc/",
         "name": "Toulouse FC",
         "league": "France Ligue 2 (2)",
         "attack": 67,
@@ -4312,8 +3528,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/698/houston-dynamo/",
         "name": "Houston Dynamo",
         "league": "USA Major League Soccer (1)",
         "attack": 67,
@@ -4323,8 +3537,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/100646/sparta-rotterdam/",
         "name": "Sparta Rotterdam",
         "league": "Holland Eredivisie (1)",
         "attack": 67,
@@ -4334,8 +3546,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111711/hurac%C3%A1n/",
         "name": "Hurac\u00e1n",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 67,
@@ -4345,8 +3555,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/100081/kortrijk/",
         "name": "Kortrijk",
         "league": "Belgium Pro League (1)",
         "attack": 67,
@@ -4356,8 +3564,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/100634/heracles-almelo/",
         "name": "Heracles Almelo",
         "league": "Holland Eredivisie (1)",
         "attack": 67,
@@ -4367,8 +3573,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/110968/bol%C3%ADvar/",
         "name": "Bol\u00edvar",
         "league": "CONMEBOL Sudamericana",
         "attack": 66,
@@ -4378,8 +3582,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/101148/cerezo-osaka/",
         "name": "Cerezo Osaka",
         "league": "Japan J1 League (1)",
         "attack": 66,
@@ -4389,8 +3591,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/894/fc-z%C3%BCrich/",
         "name": "FC Z\u00fcrich",
         "league": "Switzerland Super League (1)",
         "attack": 66,
@@ -4400,8 +3600,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/10032/fc-lugano/",
         "name": "FC Lugano",
         "league": "Switzerland Super League (1)",
         "attack": 66,
@@ -4411,8 +3609,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/680/sint-truiden/",
         "name": "Sint-Truiden",
         "league": "Belgium Pro League (1)",
         "attack": 66,
@@ -4422,8 +3618,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/111817/paris-fc/",
         "name": "Paris FC",
         "league": "France Ligue 2 (2)",
         "attack": 66,
@@ -4433,8 +3627,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/111724/shandong-taishan/",
         "name": "Shandong Taishan",
         "league": "China Super League (1)",
         "attack": 65,
@@ -4444,8 +3636,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1473/ulsan-hyundai/",
         "name": "Ulsan Hyundai",
         "league": "Korea K League 1 (1)",
         "attack": 65,
@@ -4455,8 +3645,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/110770/fc-sion/",
         "name": "FC Sion",
         "league": "Switzerland Super League (1)",
         "attack": 63,
@@ -4466,8 +3654,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111473/new-zealand/",
         "name": "New Zealand",
         "league": "International",
         "attack": 69,
@@ -4477,8 +3663,6 @@
         "is_national_team": true
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/112387/al-ahli/",
         "name": "Al Ahli",
         "league": "Saudi Pro League (1)",
         "attack": 76,
@@ -4488,8 +3672,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/110456/valenciennes-fc/",
         "name": "Valenciennes FC",
         "league": "France Ligue 2 (2)",
         "attack": 70,
@@ -4499,8 +3681,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/112096/al-ettifaq/",
         "name": "Al Ettifaq",
         "league": "Saudi Pro League (1)",
         "attack": 69,
@@ -4510,8 +3690,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/112389/al-faisaly/",
         "name": "Al Faisaly",
         "league": "Saudi Pro League (1)",
         "attack": 69,
@@ -4521,8 +3699,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/271/aarhus-gf/",
         "name": "Aarhus GF",
         "league": "Denmark Superliga (1)",
         "attack": 69,
@@ -4532,8 +3708,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/27/hansa-rostock/",
         "name": "Hansa Rostock",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 69,
@@ -4543,8 +3717,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1938/peterborough-united/",
         "name": "Peterborough United",
         "league": "England Championship (2)",
         "attack": 69,
@@ -4554,8 +3726,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1915/fc-groningen/",
         "name": "FC Groningen",
         "league": "Holland Eredivisie (1)",
         "attack": 69,
@@ -4565,8 +3735,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/112392/al-raed/",
         "name": "Al Raed",
         "league": "Saudi Pro League (1)",
         "attack": 69,
@@ -4576,8 +3744,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/298/rosenborg-bk/",
         "name": "Rosenborg BK",
         "league": "Norway Eliteserien (1)",
         "attack": 69,
@@ -4587,8 +3753,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/433/aik/",
         "name": "AIK",
         "league": "Sweden Allsvenskan (1)",
         "attack": 69,
@@ -4598,8 +3762,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/417/molde-fk/",
         "name": "Molde FK",
         "league": "Norway Eliteserien (1)",
         "attack": 69,
@@ -4609,8 +3771,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1478/jeju-united/",
         "name": "Jeju United",
         "league": "Korea K League 1 (1)",
         "attack": 68,
@@ -4620,8 +3780,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/113157/sanfrecce-hiroshima/",
         "name": "Sanfrecce Hiroshima",
         "league": "Japan J1 League (1)",
         "attack": 68,
@@ -4631,8 +3789,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/113149/fc-cincinnati/",
         "name": "FC Cincinnati",
         "league": "USA Major League Soccer (1)",
         "attack": 68,
@@ -4642,8 +3798,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/111014/universitario-de-deportes/",
         "name": "Universitario de Deportes",
         "league": "CONMEBOL Libertadores",
         "attack": 68,
@@ -4653,8 +3807,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/503/dynamo-dresden/",
         "name": "Dynamo Dresden",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 68,
@@ -4664,8 +3816,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/111722/deportes-tolima/",
         "name": "Deportes Tolima",
         "league": "CONMEBOL Sudamericana",
         "attack": 68,
@@ -4675,8 +3825,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/112093/gamba-osaka/",
         "name": "Gamba Osaka",
         "league": "Japan J1 League (1)",
         "attack": 68,
@@ -4686,8 +3834,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/114326/rak%C3%B3w-cz%C4%99stochowa/",
         "name": "Rak\u00f3w Cz\u0119stochowa",
         "league": "Poland Ekstraklasa (1)",
         "attack": 68,
@@ -4697,8 +3843,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/110581/patronato/",
         "name": "Patronato",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 68,
@@ -4708,8 +3852,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/112535/uni%C3%B3n-la-calera/",
         "name": "Uni\u00f3n La Calera",
         "league": "CONMEBOL Libertadores",
         "attack": 68,
@@ -4719,8 +3861,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/110065/cf-fuenlabrada/",
         "name": "CF Fuenlabrada",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 67,
@@ -4730,8 +3870,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/101110/pe%C3%B1arol/",
         "name": "Pe\u00f1arol",
         "league": "CONMEBOL Sudamericana",
         "attack": 67,
@@ -4741,8 +3879,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/1917/wigan-athletic/",
         "name": "Wigan Athletic",
         "league": "England League One (3)",
         "attack": 67,
@@ -4752,8 +3888,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/918/fk-bod%C3%B8-glimt/",
         "name": "FK Bod\u00f8/Glimt",
         "league": "Norway Eliteserien (1)",
         "attack": 67,
@@ -4763,8 +3897,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/614/ac-ajaccio/",
         "name": "AC Ajaccio",
         "league": "France Ligue 2 (2)",
         "attack": 67,
@@ -4774,8 +3906,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/308/universitatea-craiova/",
         "name": "Universitatea Craiova",
         "league": "Romania Liga I (1)",
         "attack": 67,
@@ -4785,8 +3915,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/111822/wolfsberger-ac/",
         "name": "Wolfsberger AC",
         "league": "Austria Bundesliga (1)",
         "attack": 67,
@@ -4796,8 +3924,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/111651/toronto-fc/",
         "name": "Toronto FC",
         "league": "USA Major League Soccer (1)",
         "attack": 67,
@@ -4807,8 +3933,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/110969/the-strongest/",
         "name": "The Strongest",
         "league": "CONMEBOL Libertadores",
         "attack": 67,
@@ -4818,8 +3942,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/110069/cd-mirand%C3%A9s/",
         "name": "CD Mirand\u00e9s",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 67,
@@ -4829,8 +3951,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/982/fc-seoul/",
         "name": "FC Seoul",
         "league": "Korea K League 1 (1)",
         "attack": 67,
@@ -4840,8 +3960,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111239/fc-ingolstadt-04/",
         "name": "FC Ingolstadt 04",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 67,
@@ -4851,8 +3969,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/110831/cd-lugo/",
         "name": "CD Lugo",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 67,
@@ -4862,8 +3978,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/101149/shimizu-s-pulse/",
         "name": "Shimizu S-Pulse",
         "league": "Japan J1 League (1)",
         "attack": 67,
@@ -4873,8 +3987,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1913/sc-heerenveen/",
         "name": "sc Heerenveen",
         "league": "Holland Eredivisie (1)",
         "attack": 67,
@@ -4884,8 +3996,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/1805/grenoble-foot-38/",
         "name": "Grenoble Foot 38",
         "league": "France Ligue 2 (2)",
         "attack": 67,
@@ -4895,8 +4005,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1786/randers-fc/",
         "name": "Randers FC",
         "league": "Denmark Superliga (1)",
         "attack": 67,
@@ -4906,8 +4014,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/106/sunderland/",
         "name": "Sunderland",
         "league": "England League One (3)",
         "attack": 67,
@@ -4917,8 +4023,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/111328/palestino/",
         "name": "Palestino",
         "league": "CONMEBOL Sudamericana",
         "attack": 66,
@@ -4928,8 +4032,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/269/br%C3%B8ndby-if/",
         "name": "Br\u00f8ndby IF",
         "league": "Denmark Superliga (1)",
         "attack": 66,
@@ -4939,8 +4041,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1807/sheffield-wednesday/",
         "name": "Sheffield Wednesday",
         "league": "England League One (3)",
         "attack": 66,
@@ -4950,8 +4050,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/897/fc-luzern/",
         "name": "FC Luzern",
         "league": "Switzerland Super League (1)",
         "attack": 66,
@@ -4961,8 +4059,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/110746/pogo%C5%84-szczecin/",
         "name": "Pogo\u0144 Szczecin",
         "league": "Poland Ekstraklasa (1)",
         "attack": 66,
@@ -4972,8 +4068,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1926/blackpool/",
         "name": "Blackpool",
         "league": "England Championship (2)",
         "attack": 66,
@@ -4983,8 +4077,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1907/willem-ii/",
         "name": "Willem II",
         "league": "Holland Eredivisie (1)",
         "attack": 66,
@@ -4994,8 +4086,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1797/rotherham-united/",
         "name": "Rotherham United",
         "league": "England League One (3)",
         "attack": 66,
@@ -5005,8 +4095,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111325/nacional-de-montevideo/",
         "name": "Nacional de Montevideo",
         "league": "CONMEBOL Libertadores",
         "attack": 66,
@@ -5016,8 +4104,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/506/erzgebirge-aue/",
         "name": "Erzgebirge Aue",
         "league": "Germany 2. Bundesliga (2)",
         "attack": 66,
@@ -5027,8 +4113,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/983/suwon-bluewings/",
         "name": "Suwon Bluewings",
         "league": "Korea K League 1 (1)",
         "attack": 65,
@@ -5038,8 +4122,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/110984/emelec/",
         "name": "Emelec",
         "league": "CONMEBOL Sudamericana",
         "attack": 65,
@@ -5049,8 +4131,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/322/grasshopper-club-z%C3%BCrich/",
         "name": "Grasshopper Club Z\u00fcrich",
         "league": "Switzerland Super League (1)",
         "attack": 65,
@@ -5060,8 +4140,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/111400/sydney-fc/",
         "name": "Sydney FC",
         "league": "Australia A-League (1)",
         "attack": 65,
@@ -5071,8 +4149,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/256/austria-wien/",
         "name": "Austria Wien",
         "league": "Austria Bundesliga (1)",
         "attack": 65,
@@ -5082,8 +4158,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/693/chicago-fire-fc/",
         "name": "Chicago Fire FC",
         "league": "USA Major League Soccer (1)",
         "attack": 64,
@@ -5093,8 +4167,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/111013/sporting-cristal/",
         "name": "Sporting Cristal",
         "league": "CONMEBOL Libertadores",
         "attack": 64,
@@ -5104,8 +4176,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/112224/melbourne-city/",
         "name": "Melbourne City",
         "league": "Australia A-League (1)",
         "attack": 75,
@@ -5115,8 +4185,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/111773/shenzhen-fc/",
         "name": "Shenzhen FC",
         "league": "China Super League (1)",
         "attack": 72,
@@ -5126,8 +4194,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/101145/kashiwa-reysol/",
         "name": "Kashiwa Reysol",
         "league": "Japan J1 League (1)",
         "attack": 72,
@@ -5137,8 +4203,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/111779/henan-songshan-longmen-fc/",
         "name": "Henan Songshan Longmen FC",
         "league": "China Super League (1)",
         "attack": 71,
@@ -5148,8 +4212,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/112908/independiente-del-valle/",
         "name": "Independiente del Valle",
         "league": "CONMEBOL Libertadores",
         "attack": 70,
@@ -5159,8 +4221,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/111086/piast-gliwice/",
         "name": "Piast Gliwice",
         "league": "Poland Ekstraklasa (1)",
         "attack": 70,
@@ -5170,8 +4230,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/113217/damac-fc/",
         "name": "Damac FC",
         "league": "Saudi Pro League (1)",
         "attack": 70,
@@ -5181,8 +4239,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/110955/shanghai-shenhua/",
         "name": "Shanghai Shenhua",
         "league": "China Super League (1)",
         "attack": 69,
@@ -5192,8 +4248,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/112695/seraing/",
         "name": "Seraing",
         "league": "Belgium Pro League (1)",
         "attack": 69,
@@ -5203,8 +4257,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/702/ifk-norrk%C3%B6ping/",
         "name": "IFK Norrk\u00f6ping",
         "league": "Sweden Allsvenskan (1)",
         "attack": 69,
@@ -5214,8 +4266,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/81/hibernian/",
         "name": "Hibernian",
         "league": "Scotland Premiership (1)",
         "attack": 68,
@@ -5225,8 +4275,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/110765/incheon-united/",
         "name": "Incheon United",
         "league": "Korea K League 1 (1)",
         "attack": 68,
@@ -5236,8 +4284,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/113057/al-fayha/",
         "name": "Al Fayha",
         "league": "Saudi Pro League (1)",
         "attack": 68,
@@ -5247,8 +4293,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/100831/ad-alcorc%C3%B3n/",
         "name": "AD Alcorc\u00f3n",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 68,
@@ -5258,8 +4302,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/77/aberdeen/",
         "name": "Aberdeen",
         "league": "Scotland Premiership (1)",
         "attack": 68,
@@ -5269,8 +4311,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/110394/arsenal-de-sarand%C3%AD/",
         "name": "Arsenal de Sarand\u00ed",
         "league": "Argentina Primera Divisi\u00f3n (1)",
         "attack": 68,
@@ -5280,8 +4320,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/111091/lechia-gda%C5%84sk/",
         "name": "Lechia Gda\u0144sk",
         "league": "Poland Ekstraklasa (1)",
         "attack": 68,
@@ -5291,8 +4329,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/300/viking-fk/",
         "name": "Viking FK",
         "league": "Norway Eliteserien (1)",
         "attack": 68,
@@ -5302,8 +4338,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/94/ipswich-town/",
         "name": "Ipswich Town",
         "league": "England League One (3)",
         "attack": 67,
@@ -5313,8 +4347,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/110532/sv-waldhof-mannheim/",
         "name": "SV Waldhof Mannheim",
         "league": "Germany 3. Liga (3)",
         "attack": 67,
@@ -5324,8 +4356,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1823/as-nancy/",
         "name": "AS Nancy",
         "league": "France Ligue 2 (2)",
         "attack": 67,
@@ -5335,8 +4365,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/110075/farul-constan%C8%9Ba/",
         "name": "Farul Constan\u021ba",
         "league": "Romania Liga I (1)",
         "attack": 67,
@@ -5346,8 +4374,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/101099/am%C3%A9rica-de-cali/",
         "name": "Am\u00e9rica de Cali",
         "league": "CONMEBOL Libertadores",
         "attack": 67,
@@ -5357,8 +4383,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/111839/guangzhou-fc/",
         "name": "Guangzhou FC",
         "league": "China Super League (1)",
         "attack": 67,
@@ -5368,8 +4392,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/710/djurg%C3%A5rdens-if/",
         "name": "Djurg\u00e5rdens IF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 66,
@@ -5379,8 +4401,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1738/le-havre-ac/",
         "name": "Le Havre AC",
         "league": "France Ligue 2 (2)",
         "attack": 66,
@@ -5390,8 +4410,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/689/new-york-red-bulls/",
         "name": "New York Red Bulls",
         "league": "USA Major League Soccer (1)",
         "attack": 66,
@@ -5401,8 +4419,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/1933/wycombe-wanderers/",
         "name": "Wycombe Wanderers",
         "league": "England League One (3)",
         "attack": 66,
@@ -5412,8 +4428,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/319/ifk-g%C3%B6teborg/",
         "name": "IFK G\u00f6teborg",
         "league": "Sweden Allsvenskan (1)",
         "attack": 66,
@@ -5423,8 +4437,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/114023/western-united-fc/",
         "name": "Western United FC",
         "league": "Australia A-League (1)",
         "attack": 66,
@@ -5434,8 +4446,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/1905/rkc-waalwijk/",
         "name": "RKC Waalwijk",
         "league": "Holland Eredivisie (1)",
         "attack": 66,
@@ -5445,8 +4455,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1790/portsmouth/",
         "name": "Portsmouth",
         "league": "England League One (3)",
         "attack": 66,
@@ -5456,8 +4464,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/920/v%C3%A5lerenga-fotball/",
         "name": "V\u00e5lerenga Fotball",
         "league": "Norway Eliteserien (1)",
         "attack": 66,
@@ -5467,8 +4473,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/226/fc-sochaux/",
         "name": "FC Sochaux",
         "league": "France Ligue 2 (2)",
         "attack": 66,
@@ -5478,8 +4482,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/62/en-avant-guingamp/",
         "name": "En Avant Guingamp",
         "league": "France Ligue 2 (2)",
         "attack": 66,
@@ -5489,8 +4491,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/113356/sd-amorebieta/",
         "name": "SD Amorebieta",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 66,
@@ -5500,8 +4500,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/113186/avispa-fukuoka/",
         "name": "Avispa Fukuoka",
         "league": "Japan J1 League (1)",
         "attack": 66,
@@ -5511,8 +4509,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/111397/melbourne-victory/",
         "name": "Melbourne Victory",
         "league": "Australia A-League (1)",
         "attack": 66,
@@ -5522,8 +4518,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/29/1-fc-kaiserslautern/",
         "name": "1. FC Kaiserslautern",
         "league": "Germany 3. Liga (3)",
         "attack": 66,
@@ -5533,8 +4527,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/111334/melgar-fbc/",
         "name": "Melgar FBC",
         "league": "CONMEBOL Sudamericana",
         "attack": 66,
@@ -5544,8 +4536,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112716/cerro-porte%C3%B1o/",
         "name": "Cerro Porte\u00f1o",
         "league": "CONMEBOL Libertadores",
         "attack": 66,
@@ -5555,8 +4545,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/110500/eintracht-braunschweig/",
         "name": "Eintracht Braunschweig",
         "league": "Germany 3. Liga (3)",
         "attack": 66,
@@ -5566,8 +4554,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/2017/hartberg/",
         "name": "Hartberg",
         "league": "Austria Bundesliga (1)",
         "attack": 66,
@@ -5577,8 +4563,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/114688/guaire%C3%B1a-fc/",
         "name": "Guaire\u00f1a FC",
         "league": "CONMEBOL Sudamericana",
         "attack": 66,
@@ -5588,8 +4572,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/111092/%C5%9Bl%C4%85sk-wroc%C5%82aw/",
         "name": "\u015al\u0105sk Wroc\u0142aw",
         "league": "Poland Ekstraklasa (1)",
         "attack": 66,
@@ -5599,8 +4581,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/89/charlton-athletic/",
         "name": "Charlton Athletic",
         "league": "England League One (3)",
         "attack": 66,
@@ -5610,8 +4590,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/101104/independiente-santa-fe/",
         "name": "Independiente Santa Fe",
         "league": "CONMEBOL Libertadores",
         "attack": 66,
@@ -5621,8 +4599,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1862/fc-lausanne-sport/",
         "name": "FC Lausanne-Sport",
         "league": "Switzerland Super League (1)",
         "attack": 66,
@@ -5632,8 +4608,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/110986/ldu-quito/",
         "name": "LDU Quito",
         "league": "CONMEBOL Libertadores",
         "attack": 65,
@@ -5643,8 +4617,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/647/sc-cambuur/",
         "name": "SC Cambuur",
         "league": "Holland Eredivisie (1)",
         "attack": 65,
@@ -5654,8 +4626,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/112444/hokkaido-consadole-sapporo/",
         "name": "Hokkaido Consadole Sapporo",
         "league": "Japan J1 League (1)",
         "attack": 65,
@@ -5665,8 +4635,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/110711/real-sociedad-b/",
         "name": "Real Sociedad B",
         "league": "Spain Segunda Divisi\u00f3n (2)",
         "attack": 65,
@@ -5676,8 +4644,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/1914/pec-zwolle/",
         "name": "PEC Zwolle",
         "league": "Holland Eredivisie (1)",
         "attack": 65,
@@ -5687,8 +4653,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/822/vejle-bk/",
         "name": "Vejle BK",
         "league": "Denmark Superliga (1)",
         "attack": 65,
@@ -5698,8 +4662,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/700/if-elfsborg/",
         "name": "IF Elfsborg",
         "league": "Sweden Allsvenskan (1)",
         "attack": 65,
@@ -5709,8 +4671,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/898/fc-st-gallen/",
         "name": "FC St. Gallen",
         "league": "Switzerland Super League (1)",
         "attack": 64,
@@ -5720,8 +4680,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/100632/go-ahead-eagles/",
         "name": "Go Ahead Eagles",
         "league": "Holland Eredivisie (1)",
         "attack": 64,
@@ -5731,8 +4689,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/113160/sagan-tosu/",
         "name": "Sagan Tosu",
         "league": "Japan J1 League (1)",
         "attack": 64,
@@ -5742,8 +4698,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110745/jagiellonia-bia%C5%82ystok/",
         "name": "Jagiellonia Bia\u0142ystok",
         "league": "Poland Ekstraklasa (1)",
         "attack": 63,
@@ -5753,8 +4707,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1474/pohang-steelers/",
         "name": "Pohang Steelers",
         "league": "Korea K League 1 (1)",
         "attack": 62,
@@ -5764,8 +4716,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/111769/changchun-yatai/",
         "name": "Changchun Yatai",
         "league": "China Super League (1)",
         "attack": 71,
@@ -5775,8 +4725,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/112427/western-sydney-wanderers/",
         "name": "Western Sydney Wanderers",
         "league": "Australia A-League (1)",
         "attack": 69,
@@ -5786,8 +4734,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/112390/al-fateh/",
         "name": "Al Fateh",
         "league": "Saudi Pro League (1)",
         "attack": 68,
@@ -5797,8 +4743,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/113058/abha-club/",
         "name": "Abha Club",
         "league": "Saudi Pro League (1)",
         "attack": 68,
@@ -5808,8 +4752,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/114577/always-ready/",
         "name": "Always Ready",
         "league": "CONMEBOL Libertadores",
         "attack": 68,
@@ -5819,8 +4761,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/101102/deportivo-cali/",
         "name": "Deportivo Cali",
         "league": "CONMEBOL Sudamericana",
         "attack": 68,
@@ -5830,8 +4770,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/112914/metropolitanos-fc/",
         "name": "Metropolitanos FC",
         "league": "CONMEBOL Sudamericana",
         "attack": 68,
@@ -5841,8 +4779,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/115536/cerro-largo/",
         "name": "Cerro Largo",
         "league": "CONMEBOL Sudamericana",
         "attack": 68,
@@ -5852,8 +4788,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110974/jorge-wilstermann/",
         "name": "Jorge Wilstermann",
         "league": "CONMEBOL Sudamericana",
         "attack": 67,
@@ -5863,8 +4797,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/2056/daegu-fc/",
         "name": "Daegu FC",
         "league": "Korea K League 1 (1)",
         "attack": 67,
@@ -5874,8 +4806,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/272/odense-boldklub/",
         "name": "Odense Boldklub",
         "league": "Denmark Superliga (1)",
         "attack": 67,
@@ -5885,8 +4815,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/15009/altach/",
         "name": "Altach",
         "league": "Austria Bundesliga (1)",
         "attack": 67,
@@ -5896,8 +4824,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/112990/al-batin/",
         "name": "Al Batin",
         "league": "Saudi Pro League (1)",
         "attack": 67,
@@ -5907,8 +4833,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/708/hammarby-if/",
         "name": "Hammarby IF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 66,
@@ -5918,8 +4842,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/113378/sepsi-osk/",
         "name": "Sepsi OSK",
         "league": "Romania Liga I (1)",
         "attack": 66,
@@ -5929,8 +4851,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/110747/cracovia/",
         "name": "Cracovia",
         "league": "Poland Ekstraklasa (1)",
         "attack": 66,
@@ -5940,8 +4860,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/33/tsv-1860-m%C3%BCnchen/",
         "name": "TSV 1860 M\u00fcnchen",
         "league": "Germany 3. Liga (3)",
         "attack": 66,
@@ -5951,8 +4869,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1813/chamois-niortais-fc/",
         "name": "Chamois Niortais FC",
         "league": "France Ligue 2 (2)",
         "attack": 66,
@@ -5962,8 +4878,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1787/austria-klagenfurt/",
         "name": "Austria Klagenfurt",
         "league": "Austria Bundesliga (1)",
         "attack": 66,
@@ -5973,8 +4887,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/492/sv-wehen-wiesbaden/",
         "name": "SV Wehen Wiesbaden",
         "league": "Germany 3. Liga (3)",
         "attack": 66,
@@ -5984,8 +4896,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/4/bolton-wanderers/",
         "name": "Bolton Wanderers",
         "league": "England League One (3)",
         "attack": 66,
@@ -5995,8 +4905,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/1798/milton-keynes-dons/",
         "name": "Milton Keynes Dons",
         "league": "England League One (3)",
         "attack": 66,
@@ -6006,8 +4914,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/58/sc-bastia/",
         "name": "SC Bastia",
         "league": "France Ligue 2 (2)",
         "attack": 66,
@@ -6017,8 +4923,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/112836/vegalta-sendai/",
         "name": "Vegalta Sendai",
         "league": "Japan J1 League (1)",
         "attack": 66,
@@ -6028,8 +4932,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/1951/oxford-united/",
         "name": "Oxford United",
         "league": "England League One (3)",
         "attack": 65,
@@ -6039,8 +4941,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/113161/shonan-bellmare/",
         "name": "Shonan Bellmare",
         "league": "Japan J1 League (1)",
         "attack": 65,
@@ -6050,8 +4950,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/111088/radomiak-radom/",
         "name": "Radomiak Radom",
         "league": "Poland Ekstraklasa (1)",
         "attack": 65,
@@ -6061,8 +4959,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/110588/1-fc-magdeburg/",
         "name": "1. FC Magdeburg",
         "league": "Germany 3. Liga (3)",
         "attack": 65,
@@ -6072,8 +4968,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110321/pau-fc/",
         "name": "Pau FC",
         "league": "France Ligue 2 (2)",
         "attack": 65,
@@ -6083,8 +4977,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/487/vfl-osnabr%C3%BCck/",
         "name": "VfL Osnabr\u00fcck",
         "league": "Germany 3. Liga (3)",
         "attack": 65,
@@ -6094,8 +4986,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/299/lillestr%C3%B8m-sk/",
         "name": "Lillestr\u00f8m SK",
         "league": "Norway Eliteserien (1)",
         "attack": 65,
@@ -6105,8 +4995,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/111659/rodez-aveyron-football/",
         "name": "Rodez Aveyron Football",
         "league": "France Ligue 2 (2)",
         "attack": 65,
@@ -6116,8 +5004,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/110749/zag%C5%82%C4%99bie-lubin/",
         "name": "Zag\u0142\u0119bie Lubin",
         "league": "Poland Ekstraklasa (1)",
         "attack": 65,
@@ -6127,8 +5013,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/181/dundee-united/",
         "name": "Dundee United",
         "league": "Scotland Premiership (1)",
         "attack": 65,
@@ -6138,8 +5022,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/15040/wsg-tirol/",
         "name": "WSG Tirol",
         "league": "Austria Bundesliga (1)",
         "attack": 65,
@@ -6149,8 +5031,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/113183/oita-trinita/",
         "name": "Oita Trinita",
         "league": "Japan J1 League (1)",
         "attack": 65,
@@ -6160,8 +5040,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111276/usl-dunkerque/",
         "name": "USL Dunkerque",
         "league": "France Ligue 2 (2)",
         "attack": 65,
@@ -6171,8 +5049,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/1873/wis%C5%82a-krak%C3%B3w/",
         "name": "Wis\u0142a Krak\u00f3w",
         "league": "Poland Ekstraklasa (1)",
         "attack": 65,
@@ -6182,8 +5058,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110734/crotone/",
         "name": "Crotone",
         "league": "Rest of World",
         "attack": 64,
@@ -6193,8 +5067,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/113182/fc-voluntari/",
         "name": "FC Voluntari",
         "league": "Romania Liga I (1)",
         "attack": 64,
@@ -6204,8 +5076,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/113143/montevideo-city-torque/",
         "name": "Montevideo City Torque",
         "league": "CONMEBOL Sudamericana",
         "attack": 64,
@@ -6215,8 +5085,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/1788/fc-nordsj%C3%A6lland/",
         "name": "FC Nordsj\u00e6lland",
         "league": "Denmark Superliga (1)",
         "attack": 64,
@@ -6226,8 +5094,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/711/bk-h%C3%A4cken/",
         "name": "BK H\u00e4cken",
         "league": "Sweden Allsvenskan (1)",
         "attack": 64,
@@ -6237,8 +5103,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1929/plymouth-argyle/",
         "name": "Plymouth Argyle",
         "league": "England League One (3)",
         "attack": 64,
@@ -6248,8 +5112,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/310/rapid-bucure%C8%99ti/",
         "name": "Rapid Bucure\u0219ti",
         "league": "Romania Liga I (1)",
         "attack": 64,
@@ -6259,8 +5121,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/114617/universidad-t%C3%A9cnica-de-cajamarca/",
         "name": "Universidad T\u00e9cnica de Cajamarca",
         "league": "CONMEBOL Sudamericana",
         "attack": 64,
@@ -6270,8 +5130,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/83/motherwell/",
         "name": "Motherwell",
         "league": "Scotland Premiership (1)",
         "attack": 64,
@@ -6281,8 +5139,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/114604/macarthur-fc/",
         "name": "Macarthur FC",
         "league": "Australia A-League (1)",
         "attack": 64,
@@ -6292,8 +5148,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/112523/la-equidad/",
         "name": "La Equidad",
         "league": "CONMEBOL Sudamericana",
         "attack": 63,
@@ -6303,8 +5157,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/112671/nacional-asunci%C3%B3n/",
         "name": "Nacional Asunci\u00f3n",
         "league": "CONMEBOL Sudamericana",
         "attack": 63,
@@ -6314,8 +5166,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/100804/st-johnstone/",
         "name": "St. Johnstone",
         "league": "Scotland Premiership (1)",
         "attack": 62,
@@ -6325,8 +5175,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/112429/guangzhou-city/",
         "name": "Guangzhou City",
         "league": "China Super League (1)",
         "attack": 58,
@@ -6336,8 +5184,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/111399/perth-glory/",
         "name": "Perth Glory",
         "league": "Australia A-League (1)",
         "attack": 71,
@@ -6347,8 +5193,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/112572/al-tai/",
         "name": "Al Tai",
         "league": "Saudi Pro League (1)",
         "attack": 69,
@@ -6358,8 +5202,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/270/silkeborg-if/",
         "name": "Silkeborg IF",
         "league": "Denmark Superliga (1)",
         "attack": 68,
@@ -6369,8 +5211,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/113222/al-hazem/",
         "name": "Al Hazem",
         "league": "Saudi Pro League (1)",
         "attack": 67,
@@ -6380,8 +5220,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/112552/quevilly-rouen-m%C3%A9tropole/",
         "name": "Quevilly Rouen M\u00e9tropole",
         "league": "France Ligue 2 (2)",
         "attack": 67,
@@ -6391,8 +5229,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/111766/wellington-phoenix/",
         "name": "Wellington Phoenix",
         "league": "Australia A-League (1)",
         "attack": 67,
@@ -6402,8 +5238,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111007/12-de-octubre-fc/",
         "name": "12 de Octubre FC",
         "league": "CONMEBOL Sudamericana",
         "attack": 66,
@@ -6413,8 +5247,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/110645/viktoria-k%C3%B6ln/",
         "name": "Viktoria K\u00f6ln",
         "league": "Germany 3. Liga (3)",
         "attack": 66,
@@ -6424,8 +5256,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/110313/accrington-stanley/",
         "name": "Accrington Stanley",
         "league": "England League One (3)",
         "attack": 66,
@@ -6435,8 +5265,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/112783/tokushima-vortis/",
         "name": "Tokushima Vortis",
         "league": "Japan J1 League (1)",
         "attack": 66,
@@ -6446,8 +5274,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1944/cambridge-united/",
         "name": "Cambridge United",
         "league": "England League One (3)",
         "attack": 66,
@@ -6457,8 +5283,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/110978/cobresal/",
         "name": "Cobresal",
         "league": "CONMEBOL Sudamericana",
         "attack": 66,
@@ -6468,8 +5292,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/112558/suwon-fc/",
         "name": "Suwon FC",
         "league": "Korea K League 1 (1)",
         "attack": 65,
@@ -6479,8 +5301,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/111393/adelaide-united/",
         "name": "Adelaide United",
         "league": "Australia A-League (1)",
         "attack": 65,
@@ -6490,8 +5310,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/111768/beijing-guoan/",
         "name": "Beijing Guoan",
         "league": "China Super League (1)",
         "attack": 65,
@@ -6501,8 +5319,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/113459/kristiansund-bk/",
         "name": "Kristiansund BK",
         "league": "Norway Eliteserien (1)",
         "attack": 65,
@@ -6512,8 +5328,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/113387/chindia-t%C3%A2rgovi%C8%99te/",
         "name": "Chindia T\u00e2rgovi\u0219te",
         "league": "Romania Liga I (1)",
         "attack": 65,
@@ -6523,8 +5337,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/110597/sv-meppen/",
         "name": "SV Meppen",
         "league": "Germany 3. Liga (3)",
         "attack": 65,
@@ -6534,8 +5346,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/114004/stal-mielec/",
         "name": "Stal Mielec",
         "league": "Poland Ekstraklasa (1)",
         "attack": 65,
@@ -6545,8 +5355,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/113723/guayaquil-city/",
         "name": "Guayaquil City",
         "league": "CONMEBOL Sudamericana",
         "attack": 65,
@@ -6556,8 +5364,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/113197/yokohama-fc/",
         "name": "Yokohama FC",
         "league": "Japan J1 League (1)",
         "attack": 65,
@@ -6567,8 +5373,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1825/msv-duisburg/",
         "name": "MSV Duisburg",
         "league": "Germany 3. Liga (3)",
         "attack": 65,
@@ -6578,8 +5382,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/780/sv-ried/",
         "name": "SV Ried",
         "league": "Austria Bundesliga (1)",
         "attack": 65,
@@ -6589,8 +5391,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/112115/gangwon-fc/",
         "name": "Gangwon FC",
         "league": "Korea K League 1 (1)",
         "attack": 65,
@@ -6600,8 +5400,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/149/lincoln-city/",
         "name": "Lincoln City",
         "league": "England League One (3)",
         "attack": 65,
@@ -6611,8 +5409,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/127/shrewsbury-town/",
         "name": "Shrewsbury Town",
         "league": "England League One (3)",
         "attack": 64,
@@ -6622,8 +5418,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/115716/fc-u-craiova-1948/",
         "name": "FC U Craiova 1948",
         "league": "Romania Liga I (1)",
         "attack": 64,
@@ -6633,8 +5427,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/100805/st-mirren/",
         "name": "St. Mirren",
         "league": "Scotland Premiership (1)",
         "attack": 64,
@@ -6644,8 +5436,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/621/livingston/",
         "name": "Livingston",
         "league": "Scotland Premiership (1)",
         "attack": 64,
@@ -6655,8 +5445,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/523/1-fc-saarbr%C3%BCcken/",
         "name": "1. FC Saarbr\u00fccken",
         "league": "Germany 3. Liga (3)",
         "attack": 64,
@@ -6666,8 +5454,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/420/g%C3%B3rnik-zabrze/",
         "name": "G\u00f3rnik Zabrze",
         "league": "Poland Ekstraklasa (1)",
         "attack": 64,
@@ -6677,8 +5463,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/114398/t%C3%BCrkg%C3%BCc%C3%BC-m%C3%BCnchen/",
         "name": "T\u00fcrkg\u00fcc\u00fc M\u00fcnchen",
         "league": "Germany 3. Liga (3)",
         "attack": 64,
@@ -6688,8 +5472,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/111821/admira-wacker/",
         "name": "Admira Wacker",
         "league": "Austria Bundesliga (1)",
         "attack": 64,
@@ -6699,8 +5481,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/114619/carlos-a-mannucci/",
         "name": "Carlos A. Mannucci",
         "league": "CONMEBOL Sudamericana",
         "attack": 64,
@@ -6710,8 +5490,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/114511/sport-huancayo/",
         "name": "Sport Huancayo",
         "league": "CONMEBOL Sudamericana",
         "attack": 64,
@@ -6721,8 +5499,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/100759/fc-arge%C8%99/",
         "name": "FC Arge\u0219",
         "league": "Romania Liga I (1)",
         "attack": 64,
@@ -6732,8 +5508,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110592/fsv-zwickau/",
         "name": "FSV Zwickau",
         "league": "Germany 3. Liga (3)",
         "attack": 64,
@@ -6743,8 +5517,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/114600/guabir%C3%A1/",
         "name": "Guabir\u00e1",
         "league": "CONMEBOL Sudamericana",
         "attack": 63,
@@ -6754,8 +5526,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/114575/river-plate-asunci%C3%B3n/",
         "name": "River Plate Asunci\u00f3n",
         "league": "CONMEBOL Sudamericana",
         "attack": 63,
@@ -6765,8 +5535,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/1443/viborg-ff/",
         "name": "Viborg FF",
         "league": "Denmark Superliga (1)",
         "attack": 63,
@@ -6776,8 +5544,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/110750/uta-arad/",
         "name": "UTA Arad",
         "league": "Romania Liga I (1)",
         "attack": 63,
@@ -6787,8 +5553,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/110482/hallescher-fc/",
         "name": "Hallescher FC",
         "league": "Germany 3. Liga (3)",
         "attack": 63,
@@ -6798,8 +5562,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/922/str%C3%B8msgodset-toppfotball/",
         "name": "Str\u00f8msgodset Toppfotball",
         "league": "Norway Eliteserien (1)",
         "attack": 63,
@@ -6809,8 +5571,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/357/morecambe/",
         "name": "Morecambe",
         "league": "England League One (3)",
         "attack": 63,
@@ -6820,8 +5580,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/112511/warta-pozna%C5%84/",
         "name": "Warta Pozna\u0144",
         "league": "Poland Ekstraklasa (1)",
         "attack": 63,
@@ -6831,8 +5589,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/180/dundee-fc/",
         "name": "Dundee FC",
         "league": "Scotland Premiership (1)",
         "attack": 63,
@@ -6842,8 +5598,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110752/fc-boto%C8%99ani/",
         "name": "FC Boto\u0219ani",
         "league": "Romania Liga I (1)",
         "attack": 63,
@@ -6853,8 +5607,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/112199/sarpsborg-08/",
         "name": "Sarpsborg 08",
         "league": "Norway Eliteserien (1)",
         "attack": 62,
@@ -6864,8 +5616,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/111723/deportivo-pasto/",
         "name": "Deportivo Pasto",
         "league": "CONMEBOL Sudamericana",
         "attack": 62,
@@ -6875,8 +5625,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/112260/fleetwood-town/",
         "name": "Fleetwood Town",
         "league": "England League One (3)",
         "attack": 62,
@@ -6886,8 +5634,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/110197/w%C3%BCrzburger-kickers/",
         "name": "W\u00fcrzburger Kickers",
         "league": "Germany 3. Liga (3)",
         "attack": 62,
@@ -6897,8 +5643,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1569/wis%C5%82a-p%C5%82ock/",
         "name": "Wis\u0142a P\u0142ock",
         "league": "Poland Ekstraklasa (1)",
         "attack": 62,
@@ -6908,8 +5652,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/100757/dinamo-bucure%C8%99ti/",
         "name": "Dinamo Bucure\u0219ti",
         "league": "Romania Liga I (1)",
         "attack": 62,
@@ -6919,8 +5661,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/112667/nacional-potos%C3%AD/",
         "name": "Nacional Potos\u00ed",
         "league": "CONMEBOL Sudamericana",
         "attack": 62,
@@ -6930,8 +5670,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/15015/burton-albion/",
         "name": "Burton Albion",
         "league": "England League One (3)",
         "attack": 62,
@@ -6941,8 +5679,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/1447/s%C3%B8nderjyske/",
         "name": "S\u00f8nderjyskE",
         "league": "Denmark Superliga (1)",
         "attack": 62,
@@ -6952,8 +5688,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/142/doncaster-rovers/",
         "name": "Doncaster Rovers",
         "league": "England League One (3)",
         "attack": 62,
@@ -6963,8 +5697,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/112853/deportivo-la-guaira/",
         "name": "Deportivo La Guaira",
         "league": "CONMEBOL Libertadores",
         "attack": 61,
@@ -6974,8 +5706,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/112533/deportes-antofagasta/",
         "name": "Deportes Antofagasta",
         "league": "CONMEBOL Sudamericana",
         "attack": 58,
@@ -6985,8 +5715,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/110987/sd-aucas/",
         "name": "SD Aucas",
         "league": "CONMEBOL Sudamericana",
         "attack": 68,
@@ -6996,8 +5724,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/113926/salford-city/",
         "name": "Salford City",
         "league": "England League Two (4)",
         "attack": 67,
@@ -7007,8 +5733,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/114578/macar%C3%A1/",
         "name": "Macar\u00e1",
         "league": "CONMEBOL Sudamericana",
         "attack": 66,
@@ -7018,8 +5742,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/112541/wuhan-fc/",
         "name": "Wuhan FC",
         "league": "China Super League (1)",
         "attack": 65,
@@ -7029,8 +5751,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/115535/rentistas/",
         "name": "Rentistas",
         "league": "CONMEBOL Libertadores",
         "attack": 65,
@@ -7040,8 +5760,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/115358/atl%C3%A9tico-palmaflor/",
         "name": "Atl\u00e9tico Palmaflor",
         "league": "CONMEBOL Sudamericana",
         "attack": 64,
@@ -7051,8 +5769,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/110501/sc-verl/",
         "name": "SC Verl",
         "league": "Germany 3. Liga (3)",
         "attack": 64,
@@ -7062,8 +5778,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/917/stab%C3%A6k-fotball/",
         "name": "Stab\u00e6k Fotball",
         "league": "Norway Eliteserien (1)",
         "attack": 64,
@@ -7073,8 +5787,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1962/bristol-rovers/",
         "name": "Bristol Rovers",
         "league": "England League Two (4)",
         "attack": 64,
@@ -7084,8 +5796,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/306/shamrock-rovers/",
         "name": "Shamrock Rovers",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 64,
@@ -7095,8 +5805,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/561/forest-green-rovers/",
         "name": "Forest Green Rovers",
         "league": "England League Two (4)",
         "attack": 64,
@@ -7106,8 +5814,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/110565/g%C3%B3rnik-%C5%82%C4%99czna/",
         "name": "G\u00f3rnik \u0141\u0119czna",
         "league": "Poland Ekstraklasa (1)",
         "attack": 64,
@@ -7117,8 +5823,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/981/seongnam-fc/",
         "name": "Seongnam FC",
         "league": "Korea K League 1 (1)",
         "attack": 64,
@@ -7128,8 +5832,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/100325/hjk-helsinki/",
         "name": "HJK Helsinki",
         "league": "Rest of World",
         "attack": 63,
@@ -7139,8 +5841,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1940/mansfield-town/",
         "name": "Mansfield Town",
         "league": "England League Two (4)",
         "attack": 63,
@@ -7150,8 +5850,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1802/gillingham/",
         "name": "Gillingham",
         "league": "England League One (3)",
         "attack": 63,
@@ -7161,8 +5859,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/112510/bruk-bet-termalica-nieciecza/",
         "name": "Bruk-Bet Termalica Nieciecza",
         "league": "Poland Ekstraklasa (1)",
         "attack": 63,
@@ -7172,8 +5868,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/110676/borussia-dortmund-ii/",
         "name": "Borussia Dortmund II",
         "league": "Germany 3. Liga (3)",
         "attack": 63,
@@ -7183,8 +5877,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1804/bradford-city/",
         "name": "Bradford City",
         "league": "England League Two (4)",
         "attack": 63,
@@ -7194,8 +5886,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112254/newport-county/",
         "name": "Newport County",
         "league": "England League Two (4)",
         "attack": 63,
@@ -7205,8 +5895,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/111398/newcastle-jets/",
         "name": "Newcastle Jets",
         "league": "Australia A-League (1)",
         "attack": 63,
@@ -7216,8 +5904,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/1958/leyton-orient/",
         "name": "Leyton Orient",
         "league": "England League Two (4)",
         "attack": 63,
@@ -7227,8 +5913,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1439/kalmar-ff/",
         "name": "Kalmar FF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 62,
@@ -7238,8 +5922,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/1936/cheltenham-town/",
         "name": "Cheltenham Town",
         "league": "England League One (3)",
         "attack": 62,
@@ -7249,8 +5931,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/1456/odds-ballklubb/",
         "name": "Odds Ballklubb",
         "league": "Norway Eliteserien (1)",
         "attack": 62,
@@ -7260,8 +5940,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/919/sk-brann/",
         "name": "SK Brann",
         "league": "Norway Eliteserien (1)",
         "attack": 62,
@@ -7271,8 +5949,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/631/ross-county/",
         "name": "Ross County",
         "league": "Scotland Premiership (1)",
         "attack": 62,
@@ -7282,8 +5958,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/1930/northampton-town/",
         "name": "Northampton Town",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7293,8 +5967,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/1928/port-vale/",
         "name": "Port Vale",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7304,8 +5976,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/121/crewe-alexandra/",
         "name": "Crewe Alexandra",
         "league": "England League One (3)",
         "attack": 62,
@@ -7315,8 +5985,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/15048/tranmere-rovers/",
         "name": "Tranmere Rovers",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7326,8 +5994,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/115820/fc-viktoria-1889-berlin/",
         "name": "FC Viktoria 1889 Berlin",
         "league": "Germany 3. Liga (3)",
         "attack": 62,
@@ -7337,8 +6003,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/111002/f%C3%A9nix/",
         "name": "F\u00e9nix",
         "league": "CONMEBOL Sudamericana",
         "attack": 61,
@@ -7348,8 +6012,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/110990/deportivo-t%C3%A1chira/",
         "name": "Deportivo T\u00e1chira",
         "league": "CONMEBOL Libertadores",
         "attack": 61,
@@ -7359,8 +6021,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/112258/gwangju-fc/",
         "name": "Gwangju FC",
         "league": "Korea K League 1 (1)",
         "attack": 61,
@@ -7370,8 +6030,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/112259/afc-wimbledon/",
         "name": "AFC Wimbledon",
         "league": "England League One (3)",
         "attack": 60,
@@ -7381,8 +6039,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/111327/huachipato/",
         "name": "Huachipato",
         "league": "CONMEBOL Sudamericana",
         "attack": 60,
@@ -7392,8 +6048,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/705/%C3%B6rebro-sk/",
         "name": "\u00d6rebro SK",
         "league": "Sweden Allsvenskan (1)",
         "attack": 58,
@@ -7403,8 +6057,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/112378/dalian-professional/",
         "name": "Dalian Professional",
         "league": "China Super League (1)",
         "attack": 75,
@@ -7414,8 +6066,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/418/troms%C3%B8-il/",
         "name": "Troms\u00f8 IL",
         "league": "Norway Eliteserien (1)",
         "attack": 64,
@@ -7425,8 +6075,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/112222/harrogate-town/",
         "name": "Harrogate Town",
         "league": "England League Two (4)",
         "attack": 64,
@@ -7436,8 +6084,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/113458/ik-sirius/",
         "name": "IK Sirius",
         "league": "Sweden Allsvenskan (1)",
         "attack": 64,
@@ -7447,8 +6093,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/111395/brisbane-roar/",
         "name": "Brisbane Roar",
         "league": "Australia A-League (1)",
         "attack": 64,
@@ -7458,8 +6102,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/113146/atk-mohun-bagan-fc/",
         "name": "ATK Mohun Bagan FC",
         "league": "Indian Super League (1)",
         "attack": 63,
@@ -7469,8 +6111,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/1947/wrexham/",
         "name": "Wrexham",
         "league": "Rest of World",
         "attack": 63,
@@ -7480,8 +6120,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1935/colchester-united/",
         "name": "Colchester United",
         "league": "England League Two (4)",
         "attack": 63,
@@ -7491,8 +6129,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/113892/degerfors-if/",
         "name": "Degerfors IF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 63,
@@ -7502,8 +6138,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/143/exeter-city/",
         "name": "Exeter City",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7513,8 +6147,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/1934/swindon-town/",
         "name": "Swindon Town",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7524,8 +6156,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/110890/crawley-town/",
         "name": "Crawley Town",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7535,8 +6165,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/113380/cs-mioveni/",
         "name": "CS Mioveni",
         "league": "Romania Liga I (1)",
         "attack": 62,
@@ -7546,8 +6174,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/110678/tsv-havelse/",
         "name": "TSV Havelse",
         "league": "Germany 3. Liga (3)",
         "attack": 62,
@@ -7557,8 +6183,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/1803/walsall/",
         "name": "Walsall",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7568,8 +6192,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/361/stevenage/",
         "name": "Stevenage",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7579,8 +6201,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/110992/mineros-de-guayana/",
         "name": "Mineros de Guayana",
         "league": "CONMEBOL Sudamericana",
         "attack": 61,
@@ -7590,8 +6210,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/1955/rochdale/",
         "name": "Rochdale",
         "league": "England League Two (4)",
         "attack": 60,
@@ -7601,8 +6219,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/381/barrow/",
         "name": "Barrow",
         "league": "England League Two (4)",
         "attack": 60,
@@ -7612,8 +6228,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/113173/%C3%B6stersunds-fk/",
         "name": "\u00d6stersunds FK",
         "league": "Sweden Allsvenskan (1)",
         "attack": 60,
@@ -7623,8 +6237,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/113300/mumbai-city-fc/",
         "name": "Mumbai City FC",
         "league": "Indian Super League (1)",
         "attack": 72,
@@ -7634,8 +6246,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/1463/fk-haugesund/",
         "name": "FK Haugesund",
         "league": "Norway Eliteserien (1)",
         "attack": 67,
@@ -7645,8 +6255,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111396/central-coast-mariners/",
         "name": "Central Coast Mariners",
         "league": "Australia A-League (1)",
         "attack": 64,
@@ -7656,8 +6264,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/114611/academia-puerto-cabello/",
         "name": "Academia Puerto Cabello",
         "league": "CONMEBOL Sudamericana",
         "attack": 63,
@@ -7667,8 +6273,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/113302/bengaluru-fc/",
         "name": "Bengaluru FC",
         "league": "Indian Super League (1)",
         "attack": 63,
@@ -7678,8 +6282,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/423/st-patricks-athletic/",
         "name": "St Patrick's Athletic",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 62,
@@ -7689,8 +6291,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/1480/carlisle-united/",
         "name": "Carlisle United",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7700,8 +6300,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/113743/varbergs-bois/",
         "name": "Varbergs BoIS",
         "league": "Sweden Allsvenskan (1)",
         "attack": 62,
@@ -7711,8 +6309,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/112985/cangzhou-mighty-lions/",
         "name": "Cangzhou Mighty Lions",
         "league": "China Super League (1)",
         "attack": 62,
@@ -7722,8 +6318,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/110691/sc-freiburg-ii/",
         "name": "SC Freiburg II",
         "league": "Germany 3. Liga (3)",
         "attack": 62,
@@ -7733,8 +6327,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1941/hartlepool-united/",
         "name": "Hartlepool United",
         "league": "England League Two (4)",
         "attack": 62,
@@ -7744,8 +6336,6 @@
         "is_national_team": false
     },
     {
-        "id": 12,
-        "image": "/pt-br/team/112072/mj%C3%A4llby-aif/",
         "name": "Mj\u00e4llby AIF",
         "league": "Sweden Allsvenskan (1)",
         "attack": 61,
@@ -7755,8 +6345,6 @@
         "is_national_team": false
     },
     {
-        "id": 13,
-        "image": "/pt-br/team/321/halmstads-bk/",
         "name": "Halmstads BK",
         "league": "Sweden Allsvenskan (1)",
         "attack": 61,
@@ -7766,8 +6354,6 @@
         "is_national_team": false
     },
     {
-        "id": 14,
-        "image": "/pt-br/team/1920/oldham-athletic/",
         "name": "Oldham Athletic",
         "league": "England League Two (4)",
         "attack": 61,
@@ -7777,8 +6363,6 @@
         "is_national_team": false
     },
     {
-        "id": 15,
-        "image": "/pt-br/team/110799/sutton-united/",
         "name": "Sutton United",
         "league": "England League Two (4)",
         "attack": 60,
@@ -7788,8 +6372,6 @@
         "is_national_team": false
     },
     {
-        "id": 16,
-        "image": "/pt-br/team/1757/sandefjord-fotball/",
         "name": "Sandefjord Fotball",
         "league": "Norway Eliteserien (1)",
         "attack": 60,
@@ -7799,8 +6381,6 @@
         "is_national_team": false
     },
     {
-        "id": 17,
-        "image": "/pt-br/team/112916/aragua-fc/",
         "name": "Aragua FC",
         "league": "CONMEBOL Sudamericana",
         "attack": 60,
@@ -7810,8 +6390,6 @@
         "is_national_team": false
     },
     {
-        "id": 18,
-        "image": "/pt-br/team/1949/scunthorpe-united/",
         "name": "Scunthorpe United",
         "league": "England League Two (4)",
         "attack": 60,
@@ -7821,8 +6399,6 @@
         "is_national_team": false
     },
     {
-        "id": 19,
-        "image": "/pt-br/team/113299/kerala-blasters-fc/",
         "name": "Kerala Blasters FC",
         "league": "Indian Super League (1)",
         "attack": 67,
@@ -7832,8 +6408,6 @@
         "is_national_team": false
     },
     {
-        "id": 20,
-        "image": "/pt-br/team/113391/academica-clinceni/",
         "name": "Academica Clinceni",
         "league": "Romania Liga I (1)",
         "attack": 65,
@@ -7843,8 +6417,6 @@
         "is_national_team": false
     },
     {
-        "id": 21,
-        "image": "/pt-br/team/113301/hyderabad-fc/",
         "name": "Hyderabad FC",
         "league": "Indian Super League (1)",
         "attack": 65,
@@ -7854,8 +6426,6 @@
         "is_national_team": false
     },
     {
-        "id": 22,
-        "image": "/pt-br/team/112961/qingdao-fc/",
         "name": "Qingdao FC",
         "league": "China Super League (1)",
         "attack": 65,
@@ -7865,8 +6435,6 @@
         "is_national_team": false
     },
     {
-        "id": 23,
-        "image": "/pt-br/team/837/dundalk/",
         "name": "Dundalk",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 62,
@@ -7876,8 +6444,6 @@
         "is_national_team": false
     },
     {
-        "id": 24,
-        "image": "/pt-br/team/112637/gaz-metan-media%C8%99/",
         "name": "Gaz Metan Media\u0219",
         "league": "Romania Liga I (1)",
         "attack": 61,
@@ -7887,8 +6453,6 @@
         "is_national_team": false
     },
     {
-        "id": 25,
-        "image": "/pt-br/team/113297/chennaiyin-fc/",
         "name": "Chennaiyin FC",
         "league": "Indian Super League (1)",
         "attack": 60,
@@ -7898,8 +6462,6 @@
         "is_national_team": false
     },
     {
-        "id": 26,
-        "image": "/pt-br/team/445/derry-city/",
         "name": "Derry City",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 60,
@@ -7909,8 +6471,6 @@
         "is_national_team": false
     },
     {
-        "id": 27,
-        "image": "/pt-br/team/112420/mj%C3%B8ndalen-if/",
         "name": "Mj\u00f8ndalen IF",
         "league": "Norway Eliteserien (1)",
         "attack": 60,
@@ -7920,8 +6480,6 @@
         "is_national_team": false
     },
     {
-        "id": 28,
-        "image": "/pt-br/team/305/bohemians/",
         "name": "Bohemians",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 60,
@@ -7931,8 +6489,6 @@
         "is_national_team": false
     },
     {
-        "id": 29,
-        "image": "/pt-br/team/112978/hebei-fc/",
         "name": "Hebei FC",
         "league": "China Super League (1)",
         "attack": 59,
@@ -7942,8 +6498,6 @@
         "is_national_team": false
     },
     {
-        "id": 30,
-        "image": "/pt-br/team/113040/northeast-united/",
         "name": "NorthEast United",
         "league": "Indian Super League (1)",
         "attack": 66,
@@ -7953,8 +6507,6 @@
         "is_national_team": false
     },
     {
-        "id": 1,
-        "image": "/pt-br/team/113298/fc-goa/",
         "name": "FC Goa",
         "league": "Indian Super League (1)",
         "attack": 64,
@@ -7964,8 +6516,6 @@
         "is_national_team": false
     },
     {
-        "id": 2,
-        "image": "/pt-br/team/111629/sc-east-bengal-fc/",
         "name": "SC East Bengal FC",
         "league": "Indian Super League (1)",
         "attack": 63,
@@ -7975,8 +6525,6 @@
         "is_national_team": false
     },
     {
-        "id": 3,
-        "image": "/pt-br/team/111774/tianjin-jinmen-tiger/",
         "name": "Tianjin Jinmen Tiger",
         "league": "China Super League (1)",
         "attack": 60,
@@ -7986,8 +6534,6 @@
         "is_national_team": false
     },
     {
-        "id": 4,
-        "image": "/pt-br/team/563/sligo-rovers/",
         "name": "Sligo Rovers",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 58,
@@ -7997,8 +6543,6 @@
         "is_national_team": false
     },
     {
-        "id": 5,
-        "image": "/pt-br/team/113257/odisha-fc/",
         "name": "Odisha FC",
         "league": "Indian Super League (1)",
         "attack": 67,
@@ -8008,8 +6552,6 @@
         "is_national_team": false
     },
     {
-        "id": 6,
-        "image": "/pt-br/team/114168/jamshedpur-fc/",
         "name": "Jamshedpur FC",
         "league": "Indian Super League (1)",
         "attack": 63,
@@ -8019,8 +6561,6 @@
         "is_national_team": false
     },
     {
-        "id": 7,
-        "image": "/pt-br/team/112165/chongqing-liangjiang-athletic/",
         "name": "Chongqing Liangjiang Athletic",
         "league": "China Super League (1)",
         "attack": 60,
@@ -8030,8 +6570,6 @@
         "is_national_team": false
     },
     {
-        "id": 8,
-        "image": "/pt-br/team/1572/drogheda-united/",
         "name": "Drogheda United",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 58,
@@ -8041,8 +6579,6 @@
         "is_national_team": false
     },
     {
-        "id": 9,
-        "image": "/pt-br/team/753/waterford/",
         "name": "Waterford",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 56,
@@ -8052,8 +6588,6 @@
         "is_national_team": false
     },
     {
-        "id": 10,
-        "image": "/pt-br/team/111131/finn-harps/",
         "name": "Finn Harps",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 50,
@@ -8063,8 +6597,6 @@
         "is_national_team": false
     },
     {
-        "id": 11,
-        "image": "/pt-br/team/1586/longford-town/",
         "name": "Longford Town",
         "league": "Rep. Ireland Premier Division (1)",
         "attack": 55,
