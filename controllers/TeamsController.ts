@@ -3,10 +3,12 @@ import { loadJSON } from "./utils/file";
 
 class TeamsController {
   fifaVersion: string;
+  shouldSelectNationalTeams: boolean;
   teams: TeamJSON[] = [];
 
-  constructor(fifaVersion: string) {
+  constructor(fifaVersion: string, shouldSelectNationalTeams = false) {
     this.fifaVersion = fifaVersion;
+    this.shouldSelectNationalTeams = shouldSelectNationalTeams;
     this.teams = this.loadTeams();
   }
 
@@ -17,6 +19,9 @@ class TeamsController {
 
   async getRandomTeam(maxOverall = 100, minOverall = 80) {
     const teams = this.teams.filter((team, index) => {
+      if (!this.shouldSelectNationalTeams && team.is_national_team)
+        return false;
+
       team.id = index;
       return team.overall <= maxOverall && team.overall >= minOverall;
     });
@@ -35,6 +40,9 @@ class TeamsController {
       team.overall >= minOverall;
 
     const teams = this.teams.filter((team, index) => {
+      if (!this.shouldSelectNationalTeams && team.is_national_team)
+        return false;
+
       team.id = index;
       return isValid(team, index);
     });

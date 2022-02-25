@@ -43,6 +43,7 @@ interface PageQuery {
   maxOverall?: string;
   minOverall?: string;
   offset?: string;
+  selectNationalTeam?: string;
 }
 
 export async function getServerSideProps(
@@ -53,13 +54,15 @@ export async function getServerSideProps(
   const fifaVersion = pageQuery.fifaVersion || "22";
   const maxOverall = pageQuery.maxOverall ? Number(pageQuery.maxOverall) : 100;
   const minOverall = pageQuery.minOverall ? Number(pageQuery.minOverall) : 80;
+  const offset = pageQuery.offset ? Number(pageQuery.offset) : 3;
+  const selectNationalTeam = pageQuery.selectNationalTeam === "true";
 
-  const teamsController = new TeamsController(fifaVersion);
+  const teamsController = new TeamsController(fifaVersion, selectNationalTeam);
   const randomTeam = await teamsController.getRandomTeam(
     maxOverall,
     minOverall
   );
-  const similarTeam = await teamsController.getSimilarTeam(randomTeam, 3);
+  const similarTeam = await teamsController.getSimilarTeam(randomTeam, offset);
 
   const imagesController = new ImagesController(fifaVersion);
   const firstTeamImage = await imagesController.getImage(randomTeam.id);
