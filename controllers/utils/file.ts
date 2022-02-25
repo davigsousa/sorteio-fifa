@@ -1,4 +1,6 @@
 import fs from "fs";
+import path from "path";
+import getConfig from "next/config";
 import readline from "readline";
 
 export async function processLineByLine(filename: string, lineIndex: number) {
@@ -23,3 +25,12 @@ export async function processLineByLine(filename: string, lineIndex: number) {
 export function loadJSON(filename: string) {
   return JSON.parse(fs.readFileSync(filename, "utf8"));
 }
+
+export const serverPath = (staticFilePath: string) => {
+  return path.join(
+    getConfig().serverRuntimeConfig.PROJECT_ROOT,
+    process.env.NODE_ENV === "development"
+      ? `./public/${staticFilePath}`
+      : staticFilePath
+  );
+};

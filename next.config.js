@@ -9,6 +9,9 @@ const nextConfig = withPWA({
     register: true,
     skipWaiting: true,
   },
+  serverRuntimeConfig: {
+    PROJECT_ROOT: __dirname
+  }
 })
 
 module.exports = nextConfig

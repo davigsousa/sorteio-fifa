@@ -1,4 +1,4 @@
-import { processLineByLine } from "./utils/file";
+import { processLineByLine, serverPath } from "./utils/file";
 
 class ImageController {
   fifaVersion: string;
@@ -8,9 +8,9 @@ class ImageController {
   }
 
   async getImage(id: number) {
-    const filename = `./data/images_${this.fifaVersion}.txt`;
+    const filename = serverPath(`./data/images_${this.fifaVersion}.txt`);
 
-    const result = await processLineByLine(filename, id);
+    const result = await processLineByLine(filename.toString(), id);
     return "data:image/png;base64," + result || "";
   }
 }

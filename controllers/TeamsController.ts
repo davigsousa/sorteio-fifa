@@ -1,5 +1,5 @@
 import { TeamJSON } from "../entities";
-import { loadJSON } from "./utils/file";
+import { loadJSON, serverPath } from "./utils/file";
 
 class TeamsController {
   fifaVersion: string;
@@ -13,8 +13,8 @@ class TeamsController {
   }
 
   loadTeams() {
-    const filename = `./data/teams_${this.fifaVersion}.json`;
-    return loadJSON(filename);
+    const filename = serverPath(`./data/teams_${this.fifaVersion}.json`);
+    return loadJSON(filename.toString());
   }
 
   async getRandomTeam(maxOverall = 100, minOverall = 80) {
