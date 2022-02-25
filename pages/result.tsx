@@ -39,7 +39,7 @@ const Result: NextPage<ResultProps> = ({ firstTeam, secondTeam }) => {
 
       <Container>
         <TitleContainer>
-          <Title>Resultado do sorteio</Title>
+          <Title>Resultado</Title>
         </TitleContainer>
       </Container>
 

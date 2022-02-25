@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Team } from "../../entities";
+import { Container, InfoRow, Details, OverallRow, Overall } from "./styles";
 
 interface TeamDetailsProps {
   team: Team;
@@ -7,12 +8,20 @@ interface TeamDetailsProps {
 
 function TeamDetails({ team }: TeamDetailsProps) {
   return (
-    <div>
-      <Image width={120} height={120} src={team.image} alt={team.name} />
-      <h1>{team.name}</h1>
-      <p>Liga: {team.league}</p>
-      <p>Pontuação Geral: {team.overall}</p>
-    </div>
+    <Container>
+      <InfoRow>
+        <Image width={80} height={80} src={team.image} alt={team.name} />
+
+        <Details>
+          <h1>{team.name}</h1>
+          <p>Liga: {team.league}</p>
+        </Details>
+      </InfoRow>
+
+      <OverallRow>
+        <Overall>Pontuação Geral: {team.overall}</Overall>
+      </OverallRow>
+    </Container>
   );
 }
 
