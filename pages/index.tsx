@@ -49,7 +49,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Container>
+      <Container shouldHaveMargin>
         <TitleContainer>
           <Image width={25} height={27} src={logo} alt="Sorteio FIFA" />
 

@@ -16,8 +16,12 @@ export const Background = styled.div`
   flex-direction: column;
   align-items: center;
   color: white;
-  padding-bottom: 100px;
+  padding: 20px;
 `;
+
+interface ContainerProps {
+  shouldHaveMargin?: boolean;
+}
 
 export const Container = styled.main`
   background: rgba(62, 62, 62, 0.3);
@@ -29,7 +33,7 @@ export const Container = styled.main`
 
   width: 90%;
   max-width: 400px;
-  margin: 5% 0;
+  ${(props: ContainerProps) => props.shouldHaveMargin && "margin: 5% 0;"}
   padding: 15px;
   border-radius: 16px;
 `;
