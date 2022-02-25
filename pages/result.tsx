@@ -39,7 +39,7 @@ const Result: NextPage<ResultProps> = ({ firstTeam, secondTeam }) => {
 
       <Container>
         <TitleContainer>
-          <Title>Resultado</Title>
+          <Title>🏆 Resultado</Title>
         </TitleContainer>
       </Container>
 
@@ -47,11 +47,11 @@ const Result: NextPage<ResultProps> = ({ firstTeam, secondTeam }) => {
       <TeamDetails team={secondTeam} />
 
       <DrawCard onClick={() => router.push(router.asPath)}>
-        <DrawLabel>Repetir</DrawLabel>
+        <DrawLabel>Repetir 🔁</DrawLabel>
       </DrawCard>
 
       <DrawCard onClick={() => router.push("/")}>
-        <DrawLabel>Voltar</DrawLabel>
+        <DrawLabel>Voltar 🔙</DrawLabel>
       </DrawCard>
     </Background>
   );

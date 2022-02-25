@@ -111,7 +111,7 @@ const Home: NextPage = () => {
       </Container>
 
       <DrawCard onClick={() => router.push(getDrawURL())}>
-        <DrawLabel>Realizar sorteio</DrawLabel>
+        <DrawLabel>Realizar sorteio ✅</DrawLabel>
       </DrawCard>
     </Background>
   );
