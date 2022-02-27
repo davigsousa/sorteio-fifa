@@ -23,7 +23,7 @@ interface ContainerProps {
   shouldHaveMargin?: boolean;
 }
 
-export const Container = styled.main`
+export const Container = styled.section`
   background: rgba(62, 62, 62, 0.3);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -33,7 +33,7 @@ export const Container = styled.main`
 
   width: 90%;
   max-width: 400px;
-  ${(props: ContainerProps) => props.shouldHaveMargin && "margin: 5% 0;"}
+  ${(props: ContainerProps) => props.shouldHaveMargin && "margin: 2% 0;"}
   padding: 15px;
   border-radius: 16px;
 `;
@@ -62,7 +62,7 @@ export const FifaRow = styled.div`
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  margin: 10px 0 50px 0;
+  margin: 10px 0;
 `;
 
 interface FifaButtonProps {

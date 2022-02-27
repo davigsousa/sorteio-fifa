@@ -49,35 +49,37 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Container shouldHaveMargin>
+      <Container>
         <TitleContainer>
           <Image width={25} height={27} src={logo} alt="Sorteio FIFA" />
 
           <Title>Sorteador de Times</Title>
         </TitleContainer>
 
-        <Options>
-          <FifaRow>
-            <FifaButton
-              isNotSelected={fifaVersion !== "22"}
-              onClick={() => setFifaVersion("22")}
-            >
-              FIFA 22
-            </FifaButton>
-            <FifaButton
-              isNotSelected={fifaVersion !== "21"}
-              onClick={() => setFifaVersion("21")}
-            >
-              FIFA 21
-            </FifaButton>
-            <FifaButton
-              isNotSelected={fifaVersion !== "20"}
-              onClick={() => setFifaVersion("20")}
-            >
-              FIFA 20
-            </FifaButton>
-          </FifaRow>
+        <FifaRow>
+          <FifaButton
+            isNotSelected={fifaVersion !== "22"}
+            onClick={() => setFifaVersion("22")}
+          >
+            FIFA 22
+          </FifaButton>
+          <FifaButton
+            isNotSelected={fifaVersion !== "21"}
+            onClick={() => setFifaVersion("21")}
+          >
+            FIFA 21
+          </FifaButton>
+          <FifaButton
+            isNotSelected={fifaVersion !== "20"}
+            onClick={() => setFifaVersion("20")}
+          >
+            FIFA 20
+          </FifaButton>
+        </FifaRow>
+      </Container>
 
+      <Container shouldHaveMargin>
+        <Options>
           <RangeInput
             label="Pontuação geral máxima"
             onUpdate={setMaxOverall}
